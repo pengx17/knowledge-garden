@@ -1,0 +1,1 @@
+- [pengx17/logseq-dev-theme: logseq, theme](https://github.com/pengx17/logseq-dev-theme)

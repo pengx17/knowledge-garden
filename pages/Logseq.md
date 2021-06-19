@@ -1,0 +1,2 @@
+- This [[Knowledge Garden]] is powered by [[Logseq]]
+- Using [[logseq dev theme]]

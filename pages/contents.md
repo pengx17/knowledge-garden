@@ -1,0 +1,2 @@
+- {{embed [[About Me]] }}
+- {{embed [[Blog Posts]]}}
