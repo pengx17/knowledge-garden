@@ -7,8 +7,6 @@
 - `Inline Code` ^^Highlighted^^ Normal Text
 - Some text that will be referenced
   id:: 60d34662-6747-46cd-a790-6dcb691b0256
-	- its children
-		- and children's children
 	- LATER [#A] high priority task
 	  waiting:: 1624459006771
 	  later:: 1624459014212
@@ -21,7 +19,11 @@
 	- NOW working task
 	  later:: 1624459087696
 	  now:: 1624459089292
+		- nested
+			- nesed
+			-
 - Block ref  ((60d34662-6747-46cd-a790-6dcb691b0256)) [[logseq]]
 - ((60d34662-6747-46cd-a790-6dcb691b0256))
 - Embedded block
 	- {{embed ((60d34662-6747-46cd-a790-6dcb691b0256))}}
+- [[汉字测试]]
