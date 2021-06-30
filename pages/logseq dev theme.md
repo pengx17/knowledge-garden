@@ -1,4 +1,6 @@
-- [pengx17/logseq-dev-theme: logseq, theme](https://github.com/pengx17/logseq-dev-theme)
+src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
+type:: theme
+
 # H1 Title
 - ## H2 Sub Title
 - ### H3 Section Title
