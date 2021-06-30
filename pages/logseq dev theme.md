@@ -19,9 +19,7 @@
 	- NOW working task
 	  later:: 1624459087696
 	  now:: 1624459089292
-		- nested
-			- nesed
-			-
+- Progress Bar [:progress {:max 10 :value 3}]
 - Block ref  ((60d34662-6747-46cd-a790-6dcb691b0256)) [[logseq]]
 - ((60d34662-6747-46cd-a790-6dcb691b0256))
 - Embedded block
