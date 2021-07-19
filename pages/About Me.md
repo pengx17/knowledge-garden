@@ -2,4 +2,4 @@
 - Twitter: https://twitter.com/pengx17
 - Current Interests
 	- Baby taking
-	- Taking notes in [[Logseq]] and making contributions
+	- Taking notes in [[Logseq]] and making [[contributions]]

@@ -16,14 +16,12 @@ type:: [[blogpost]]
 	  created-at:: 1626362380568
 	  updated-at:: 1626362380568
 	- An powerful autocomplete tool to guess your intent which yourself may don't know
-	  collapsed:: true
 	  created-at:: 1626364303814
 	  updated-at:: 1626364303814
 		- ![image.png](../assets/image_1626361253820_0.png){:height 340, :width 749}
 		  updated-at:: 1626363823477
 		  created-at:: 1626361254621
 	- A cool intro
-	  collapsed:: true
 	  created-at:: 1626364737195
 	  updated-at:: 1626364737195
 		- {{youtube https://www.youtube.com/watch?v=4duqI8WyfqE}}
