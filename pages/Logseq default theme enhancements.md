@@ -1,5 +1,5 @@
 ## Fonts
-	- Inter is not a good article fonts, I think
+	- Inter is not a good article font, I think
 ## Nav Bars
 	- backdrop blur
 	- header controls should be of default cursor with hovering effects

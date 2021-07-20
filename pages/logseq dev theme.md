@@ -1,12 +1,12 @@
 src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
-type:: theme
+type:: logseq theme
 
 # H1 Title
 - ## H2 Sub Title
 - ### H3 Section Title
 - #### H4 Section Sub Title
 - ##### H5 mini title
-- `Inline Code` ^^Highlighted^^ Normal Text
+- `Inline Code` ^^Highlighted^^ Normal Text and tag #[[Logseq theme]]
 - Some text that will be referenced
   id:: 60d34662-6747-46cd-a790-6dcb691b0256
 	- LATER [#A] high priority task
@@ -22,10 +22,10 @@ type:: theme
 		  later:: 1624459087696
 		  now:: 1624459089292
 - Progress Bar [:progress {:max 10 :value 3}]
-- Block ref  ((60d34662-6747-46cd-a790-6dcb691b0256)) [[logseq]]
-- ((60d34662-6747-46cd-a790-6dcb691b0256))
+- Block ref  [[logseq]] ((60d34662-6747-46cd-a790-6dcb691b0256))
 - Embedded block
 	- {{embed ((60d34662-6747-46cd-a790-6dcb691b0256))}}
 - [[汉字测试]]
 - IMAGE
 	- ![image.png](../assets/image_1625060840651_0.png){:height 285, :width 467}
+-
