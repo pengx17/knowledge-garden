@@ -21,7 +21,6 @@ id:: 60f5a308-78d7-4ec6-8bbe-19d753004709
 		- ![image.png](../assets/image_1626797105587_0.png){:height 115, :width 540}
 	- sticky title position in right side bar
 - ## Other non critical ones
-  collapsed:: true
 	- ## Dark / Light Theme Variants
 	- ## Cleanups
 		- The selectors are added too causally

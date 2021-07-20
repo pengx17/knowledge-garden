@@ -6,7 +6,7 @@ type:: logseq theme
 - ### H3 Section Title
 - #### H4 Section Sub Title
 - ##### H5 mini title
-- `Inline Code` ^^Highlighted^^ Normal Text and tag #[[Logseq theme]]
+- `Inline Code` ^^Highlighted^^ Normal Text,  _italic texts_ and tag #[[Logseq theme]]
 - Some text that will be referenced
   id:: 60d34662-6747-46cd-a790-6dcb691b0256
 	- LATER [#A] high priority task
