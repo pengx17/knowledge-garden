@@ -2,8 +2,8 @@
   id:: 60f5a308-8222-403a-8a10-ca38f55c9843
 	- Inter is not a good article font, I think
 	- How about having 3 category like the following:
-		- sans-serif: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) for normal texts
-		- serif: [Noto Serif](https://fonts.google.com/specimen/Noto+Serif) for titles
+		- sans-serif: ~~[Noto Sans](https://fonts.google.com/specimen/Noto+Sans) for normal texts~~  use [[source sans]] (variable font) instead
+		- serif: ~~[Noto Serif](https://fonts.google.com/specimen/Noto+Serif) for titles~~ we will also use sans
 		- monospace: [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+code) for codes
 		- bonus: for Noto Sans/Serif ([[思源字体]]黑/宋), we can use different derivatives based on the current user language setting. E.g., use **Noto Sans SC** for **简体中文**,  **Noto San TC** for 繁體中文 etc.
 - ## Popover & Query block

@@ -149,6 +149,7 @@
  :macros {}
 
  :markdown/version 2
+ :shortcuts {:go/search-in-page "meta+f", :go/search "shift+meta+f"}
  :feature/enable-journals? false
  :default-home {:page "Contents"}
  :ui/show-brackets? true}
