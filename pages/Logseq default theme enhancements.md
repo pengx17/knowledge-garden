@@ -6,6 +6,8 @@
 		- serif: [Noto Serif](https://fonts.google.com/specimen/Noto+Serif) for titles
 		- monospace: [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+code) for codes
 		- bonus: for Noto Sans/Serif ([[思源字体]]黑/宋), we can use different derivatives based on the current user language setting. E.g., use **Noto Sans SC** for **简体中文**,  **Noto San TC** for 繁體中文 etc.
+		  id:: 60ff651c-a11b-407b-8bfd-e70a1a898f23
+		- ((60ff651c-a11b-407b-8bfd-e70a1a898f23))
 - ## Popover & Query block
   id:: 60f6ed57-eecb-4c56-82d0-e2b36c07eaad
 	- background is too dim and we want to have a clearer boundary

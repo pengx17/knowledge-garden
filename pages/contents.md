@@ -1,5 +1,5 @@
-- ((60dc710f-2622-4a1d-b71c-0a5f8ef83abb))
-- #Logseq
+- This [[Knowledge Garden]] is powered by [[Logseq]] using [[logseq dev theme]]
 ## Shortcuts
-	- {{embed [[About Me]] }}
-	- {{embed [[Blog Posts]]}}
+	- [[About Me]]
+	- [[Blog Posts]]
+	- [[Reading]]

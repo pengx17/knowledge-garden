@@ -20,5 +20,6 @@ updated-at:: 1626359694330
 	  created-at:: 1626360068822
 	  updated-at:: 1626360937334
 - [[Solving Rubik’s Cube with a Robot Hand]]
-  created-at:: 1626360081919
   updated-at:: 1626360937336
+  created-at:: 1626360081919
+- [Automation Tools for Designers](https://tricycle.ai/)
