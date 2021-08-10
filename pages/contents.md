@@ -2,4 +2,4 @@
 ## Shortcuts
 	- [[About Me]]
 	- [[Blog Posts]]
-	- [[Reading]]
+	- [[journals]]
