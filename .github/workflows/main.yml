@@ -24,10 +24,10 @@ jobs:
 
       - name: Logseq App Publish
         run: |
+          rm -rf www
           bash ./run.sh
           git config --global user.name 'pengxiao'
           git config --global user.email 'pengxiao@users.noreply.github.com'
-          rm -rf www
           git add www
           git commit -am "skip ci: update www"
           git push
