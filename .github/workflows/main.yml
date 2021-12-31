@@ -23,6 +23,6 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Logseq App Publish
-        uses: pengx17/logseq-app-publish@0.0.1
+        uses: pengx17/logseq-app-publish@0.0.2
         with: 
           graph-dir: ./
