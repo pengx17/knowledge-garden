@@ -1,4 +1,4 @@
-FROM ghcr.io/pengx17/logseq-app-publish:latest
+FROM ghcr.io/pengx17/logseq-publish:latest
 
 WORKDIR /home/logseq
 COPY . ./graph
