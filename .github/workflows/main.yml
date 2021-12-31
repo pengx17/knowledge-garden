@@ -24,4 +24,4 @@ jobs:
       - name: Logseq Publish
         # You may pin to the exact commit or the version.
         # uses: pengx17/logseq-publish@1b45957785fd2d291e6ae7c97a9f47e670fe942c
-        uses: pengx17/logseq-publish@0.0.2
+        uses: pengx17/logseq-publish@0.0.3
