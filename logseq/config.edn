@@ -98,6 +98,7 @@
  ;;  :editor/right           ["ctrl+l" "right"]}
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
+ :ui/hide-block-bullet-path? false
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
@@ -150,6 +151,9 @@
 
  :markdown/version 2
  :shortcuts {:go/search-in-page "meta+f", :go/search "shift+meta+f"}
- :feature/enable-journals? false
+ :feature/enable-journals? true
  :default-home {:page "Contents"}
- :ui/show-brackets? true}
+ :ui/show-brackets? true
+ :journal/page-title-format "E, yyyy/MM/dd"
+ :journal/file-name-format "yyyy-MM-dd"
+ :favorites ["jsplay"]}
