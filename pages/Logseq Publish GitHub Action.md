@@ -1,23 +1,24 @@
 Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 
 - ## Some backgrounds of implementing the GitHub Action
-	- There are some good public knowledge gardens that are powered by Logseq already. To list a few:
+	- There are some good public knowledge gardens that are powered by Logseq already that you can find on the Web. To list a few:
 		- https://zhanghanduo.com/
 		- https://note.xuanwo.io/
 		- [Logseq's official document](https://logseq.github.io/)
 		  id:: 61d5b000-04ce-4725-8f39-3381afaf4ee7
-	- Until today - [[Wed, 2022/01/05]], the user needs to [follow the instructions](https://docs.logseq.com/#/page/Publishing%20(Desktop%20App%20Only)) on ((61d5b000-04ce-4725-8f39-3381afaf4ee7)).
-		- Imagine a normal user who uses GitHub Repo to sync his Logseq graph and use GitHub Pages or Vercel to host it. An example of the git repo's folder may structure like this:
-			- ```
-			  ├── assets
-			  ├── draws
-			  ├── logseq
-			  ├── pages
-			  └── www
-			  ```
-				- `logseq`/`asset`/`pages` etc contains the normal graph files
-				- `www` contains the public assets of the page, which is picked up by GitHub Pages or Vercel
-		- in a daily workflow basis, the user needs to
+	- Imagine a normal user who uses GitHub Repo to sync his Logseq graph and use GitHub Pages to host it.
+		- An example of the git repo's folder may structure like this. e.g., https://github.com/pengx17/knowledge-garden
+		- ```
+		  ├── assets
+		  ├── draws
+		  ├── logseq
+		  ├── pages
+		  └── www
+		  ```
+			- `logseq`/`asset`/`pages` etc contains the normal graph files
+			- `www` contains the public assets of the page, which is picked up by GitHub Pages
+				- it is also possible if the user publish `www` to `gh-pages` branch
+		- in a daily workflow basis, the user needs to [follow the instructions](https://docs.logseq.com/#/page/Publishing%20(Desktop%20App%20Only)) on ((61d5b000-04ce-4725-8f39-3381afaf4ee7)) to publish his graph
 			- be on the Desktop App
 			- take some notes (don't forget to mark related pages as public, or mark all pages as public)
 			- remove old `www` folder
@@ -47,16 +48,74 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 		  id:: 61d5c1bc-e545-418d-a677-5f4c53ccaf8c
 		- then the problem should have been fixed.
 	- This approach was very simple in theory, but I got stuck immediately on ((61d5c1bc-e545-418d-a677-5f4c53ccaf8c)) step.
-		- The only tool I tried is Cypress, because I knew how to use it and it has becomes a standard on e2e testing for the Web
-		- However, it seems Cypress does not support testing Electron Apps (Logseq is powered by Electron) yet.
-	- Then few months later, I found a change by the new Logseq's team member [[Mono Wang]] that he **used Playwright to replace Cypress** to test the Desktop App
+		- The only tool I tried is Cypress, because it was the old tool I knew and it seems to be a standard on e2e testing for the Web
+		- However, Cypress does not support testing Electron Apps (Logseq is powered by Electron) yet.
+	- Then few months later, in a tweet, I found a change by the new Logseq's team member [[Mono Wang]] that he **used [[Playwright]] to replace Cypress** to test the Desktop App
 		- {{tweet https://twitter.com/tiensonqin/status/1463784645447667715}}
-		- WOW, I did not expect Playwright has this ability! Good job Microsoft!
-	- TODO why docker
-	- TODO how to fix Electron's open dir dialog issue
-	- TODO GitHub Action
-	- TODO without GitHub Action
--
+		- WOW, I did not expect Playwright has this ability! Good job **Microsoft**!
+- ---
+- ## Releasing of [[pengx17/logseq-publish]]
+	- In a few more tries in the new , I managed to publish [[pengx17/logseq-publish]] during on the last day of 2021. Let's go to the point:
+		- **bypass Electron's open dir dialog when running with Playwright** in Logseq
+			- fixed by https://github.com/logseq/logseq/pull/3531.
+			- when the browser context has a  `__MOCKED_OPEN_DIR_PATH__` flag, the open dir dialog will not show, but use this flag directly.
+		- The publish contains two docker images
+			- The reason of using Docker is because of its portability
+			- There are two images
+				- [Dockerfile](https://github.com/pengx17/logseq-publish/blob/main/Dockerfile) prepare for `Docker.exec`.
+					- build Logseq desktop app
+					- prepare for playwright
+				- [Dockerfile.exec](https://github.com/pengx17/logseq-publish/blob/main/Dockerfile.exec) to run ((61d70a4d-a7e4-4888-96ab-f5a02b0f3f50))
+			- Why two docker images?
+				- building Logseq App takes ~12 mins. We can pre-build it and publish it to `ghcr.io. So that the user can build his graph in `Docker.exec` directly without building Logseq App from the beginning.
+				- As a result, the time of exporting this graph only takes _2 mins_ in a GitHub Action.
+		- `publish.mjs`
+		  id:: 61d70a4d-a7e4-4888-96ab-f5a02b0f3f50
+			- use Playwright to drive the Logseq App to load the given input dir as the graph
+			- set `__MOCKED_OPEN_DIR_PATH__` to the current working dir (e.g., `./graph`) when load the graph
+			- after graph loaded, go to export it by set `__MOCKED_OPEN_DIR_PATH__` to `./graph-www`
+		- The GitHub Action is a shell script that is running in GitHub Action CI, which will
+			- download [Dockerfile.exec](https://github.com/pengx17/logseq-publish/blob/main/Dockerfile.exec) to the user's graph root
+			- build the docker image
+				- As a result, the public assets will be in the image snapshot
+			- copy the public assets from the docker container to the destination folder
+			- to deploy your pages, you can then pipe the result with [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+	- A complete workflow example for this graph
+		- ```yml
+		  # This is a basic workflow to help you get started with Actions
+		  
+		  name: CI
+		  
+		  # Controls when the workflow will run
+		  on:
+		    push:
+		      branches: [main]
+		  
+		    # Allows you to run this workflow manually from the Actions tab
+		    workflow_dispatch:
+		  
+		  # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+		  jobs:
+		    # This workflow contains a single job called "build"
+		    build:
+		      # The type of runner that the job will run on
+		      runs-on: ubuntu-latest
+		  
+		      # Steps represent a sequence of tasks that will be executed as part of the job
+		      steps:
+		        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+		        - uses: actions/checkout@v2
+		        - name: Logseq Publish 🚩
+		          uses: pengx17/logseq-publish@0.1.0
+		        - name: add a nojekyll file
+		          run: touch $GITHUB_WORKSPACE/www/.nojekyll
+		        - name: Deploy 🚀
+		          uses: JamesIves/github-pages-deploy-action@4.1.9
+		          with:
+		            branch: gh-pages # The branch the action should deploy to.
+		            folder: www # The folder the action should deploy.
+		            clean: true
+		  ```
 -
 -
 -
