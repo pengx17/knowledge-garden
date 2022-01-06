@@ -5,7 +5,7 @@ name: CI
 # Controls when the workflow will run
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,9 +22,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@cc679897dc53c14c2ac79cd0a132047d0b4820f9
+        uses: pengx17/logseq-publish@0.1.0
+      - name: add a nojekyll file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
+          clean: true
