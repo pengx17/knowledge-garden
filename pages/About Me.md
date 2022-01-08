@@ -1,5 +1,6 @@
 - A [:ruby [:rb "Senior"] [:rp "("] [:rt {:style {color "var(--ct-warning-color)"}} "中年"][:rp ")"]] Frontend Developer
 - Twitter: https://twitter.com/pengx17
+- Blog: http://pengx17.vercel.app/
 - Current Interests
 	- Baby taking
 	- Taking notes in [[Logseq]] and making [[contributions]]
