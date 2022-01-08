@@ -72,14 +72,14 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 			- [Dockerfile.exec](https://github.com/pengx17/logseq-publish/blob/main/Dockerfile.exec) to run ((61d70a4d-a7e4-4888-96ab-f5a02b0f3f50))
 		- Why two docker images?
 			- ((61d7a4e2-2598-45bb-bb24-510f694c4afa)) takes ~12 mins.
-				- We can pre-build it and publish it to `ghcr.io. So that the user can build his graph in `Docker.exec` directly without building Logseq App from the beginning.
+				- We can pre-build it and publish it to [ghcr.io](ghcr.io). So that the user can build his graph in `Docker.exec` directly without building Logseq App from the beginning.
 			- As a result, the time of exporting this graph only takes _2 mins_ in a GitHub Action.
 	- `publish.mjs`
 	  id:: 61d70a4d-a7e4-4888-96ab-f5a02b0f3f50
 		- use Playwright to automate the Logseq App to load the given input graph dir
 		- set `window.__MOCKED_OPEN_DIR_PATH__` to the current working dir (e.g., `./graph`) when load the graph
 		- after graph loaded, go to export it by set `window__MOCKED_OPEN_DIR_PATH__` to `./graph-www`
-	- The [[GitHub Action]] is a shell script that is running in GitHub Action CI, which will
+	- The main body of [[GitHub Action]] is just a shell script that will
 		- download [Dockerfile.exec](https://github.com/pengx17/logseq-publish/blob/main/Dockerfile.exec) to the user's graph root
 		- build the docker image
 			- As a result, the public assets will be in the image snapshot
@@ -122,7 +122,7 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 		            clean: true
 		  ```
 -
-- [[Thu, 2022/01/06]] - Logseq's official Docs is already using this action to publish the docs!
+- As of [[Thu, 2022/01/06]], Logseq's official Docs is already using this action to publish the docs!
 	- {{tweet https://twitter.com/logseq/status/1479115586437222405}}
 -
 -
