@@ -8,4 +8,5 @@
 - Onboarding ((61d9a256-a15d-4c6e-ba85-e00a28d6195c))
 	- The modern way to implement a custom HMR plugin for React
 	- https://github.com/facebook/react/issues/16604#issuecomment-528663101
+		- note that non-component export in a module will break HMR and trigger full reload
 	- We may need to follow it as well for [[React Kitchen]]
