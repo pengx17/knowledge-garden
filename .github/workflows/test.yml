@@ -17,6 +17,7 @@ jobs:
         uses: Xuanwo/logseq-publish@refactor
 #       - name: add a nojekyll file
 #         run: touch www/.nojekyll
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
