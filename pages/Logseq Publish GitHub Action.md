@@ -124,5 +124,8 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 -
 - As of [[Thu, 2022/01/06]], Logseq's official Docs is already using this action to publish the docs!
 	- {{tweet https://twitter.com/logseq/status/1479115586437222405}}
+- [[Mon, 2022/01/10]]
+	- Contributor [[Xuanwo]] and reported some publish issues
+	- LATER Should have a better way to determine the timing when publish is finished
 -
 -

@@ -150,10 +150,10 @@
  :macros {}
 
  :markdown/version 2
- :shortcuts {:go/search-in-page "meta+f", :go/search "shift+meta+f"}
+ :shortcuts {:ui/toggle-contents "meta+shift+c"}
  :feature/enable-journals? true
  :default-home {:page "Contents"}
  :ui/show-brackets? true
  :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["react hot module reloading" "jsplay"]}
+ :favorites ["Contents" "react hot module reloading" "jsplay"]}
