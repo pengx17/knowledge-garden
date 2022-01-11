@@ -1,0 +1,27 @@
+name: Test
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: addnab/docker-run-action@v3
+        with:
+          image: "ghcr.io/pengx17/logseq-publish:master"
+          options: |
+            -v ${{ github.workspace }}:/home/logseq/graph -v ${{ github.workspace }}/www:/home/logseq/graph-www
+          run: |
+            xvfb-run node publish.mjs -p graph
+            cp trace.zip ./graph
+      - name: Upload build result for test
+        uses: actions/upload-artifact@v2
+        with:
+          name: result
+          path: www
+      - name: Upload trace log
+        uses: actions/upload-artifact@v2
+        with:
+          path: trace.zip
