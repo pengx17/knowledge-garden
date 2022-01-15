@@ -16,5 +16,5 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@feat-trace-opt
+        uses: pengx17/logseq-publish@main
 
