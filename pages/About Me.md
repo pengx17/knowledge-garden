@@ -1,6 +1,7 @@
-- A [:ruby [:rb "Senior"] [:rp "("] [:rt {:style {color "var(--ct-warning-color)"}} "中年"][:rp ")"]] Frontend Developer
+- My name is **Peng Xiao**, but most of my ID is **pengx17**, which was given by GitHub
+- I am a "professional" [:ruby [:rb "Senior"] [:rp "("] [:rt {:style {color "var(--ct-warning-color)"}} "中年"][:rp ")"]] Frontend Developer and get paid by cropping design spec images
 - Twitter: https://twitter.com/pengx17
 - Blog: http://pengx17.vercel.app/
 - Current Interests
-	- Baby taking
+	- Baby taking  🍼 👶🏻
 	- Taking notes in [[Logseq]] and making [[contributions]]
