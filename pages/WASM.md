@@ -1,0 +1,16 @@
+- https://surma.dev/things/js-to-asc/index.html
+	- Examines [[AssemblyScript]] and its performance
+	- WASM has equal peak performance over plain JS
+	- However WASM module is more likely to take the _hot path_ (more reliable performance)
+	- WASM has some functions which plain JS does not provide, like [[SIMD]] or shared-memory threads
+	- ==How JS is warm up in V8?==
+		- For V8 to execute JavaScript, it first gives the code to the interpreter “**Ignition**”. Ignition is optimized to make code run as soon as possible. Afterwards, “**Sparkplug**” takes Ignition’s output (the infamous “bytecode”) and turns it into non-optimized machine code, yielding better performance at the cost of **increased memory footprint**. While your code is executing, it is closely observed by V8 to gather data on object shapes (think of them like types). Once sufficient data has been collected, V8’s optimizing compiler “**TurboFan**” kicks in and generates low-level machine code that is optimized for those types. This will give another significant speed boost
+	- In the benchmark
+		- image processing function (blur)
+			- WASM code is 3x slower than JS in the first try
+			- Is **0.9** (faster) than JS with optimized flag
+		- Bubble Sort
+			- **0.6** of JS
+	-
+	-
+		-
