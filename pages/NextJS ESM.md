@@ -1,0 +1,4 @@
+- New `unist-util-visit` only supports ESM, is it possible to [[mix require & import in Node]]
+	- https://github.com/vercel/next.js/discussions/32239#discussioncomment-1767021
+- https://github.com/vercel/next.js/discussions/29348
+- https://github.com/vercel/next.js/discussions/27876
