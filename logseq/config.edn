@@ -156,4 +156,4 @@
  :ui/show-brackets? true
  :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["react hot module reloading" "jsplay"]}
+ :favorites ["nextjs mdx rendering" "Logseq Publish GitHub Action" "思源字体" "jsplay"]}
