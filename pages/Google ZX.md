@@ -1,0 +1,3 @@
+- https://github.com/google/zx
+- Replace Bash with JavaScript
+- Similar idea for [[Clojure]]: [[babashka]]

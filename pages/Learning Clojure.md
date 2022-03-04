@@ -1,0 +1,6 @@
+- https://clojureverse.org/t/what-do-beginners-struggle-with/5383
+- What do beginners struggle with?
+	- Require syntax
+		- `(ns test (:require [... :as ...]))`
+	- Knowledge of the core library
+	-
