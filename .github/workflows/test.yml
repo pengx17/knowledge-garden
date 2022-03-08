@@ -1,0 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+env:
+  CSS_URL: https://gist.githubusercontent.com/pengx17/0b10ff6b946de97dd0d6ba5083e4000d/raw/c55bc39ec64ecff4cedb6fb2669560a839c99e64/custom.css
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@main
+      - name: Copy custom css file
+        run: curl ${{ env.CSS_URL }} > $GITHUB_WORKSPACE/www/static/css/custom.css
