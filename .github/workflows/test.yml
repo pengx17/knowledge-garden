@@ -26,5 +26,5 @@ jobs:
         uses: pengx17/logseq-publish@main
       - name: Copy custom css file
         run: |
-          sudo rm $GITHUB_WORKSPACE/www/static/css/custom.css
+          sudo chown -R $USER: $GITHUB_WORKSPACE/www
           curl ${{ env.CSS_URL }} > $GITHUB_WORKSPACE/www/static/css/custom.css
