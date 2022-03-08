@@ -1,3 +1,4 @@
+- A [[Datomic]] implementation in [[ClojureScript]]
 - Learning
 	- Example with JS/React https://codesandbox.io/s/datascript-test-forked-kpv91?file=/src/index.js:146-148  [[DataScript JS Playground]]
 	- DataScript tests in js

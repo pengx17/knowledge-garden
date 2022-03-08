@@ -8,6 +8,7 @@ icon:: 🧑‍🎓
 	- require / ns syntax
 		- `(require ..)` vs `(ns .. (:require ..))`
 		- [Clojure ns syntax cheat-sheet](https://gist.github.com/ghoseb/287710/) ⭐
+		- ((6225d5f3-1a9f-4baf-abbf-f8b1ff668456))
 	- Knowledge of the core library
 		- Find out the most suitable functions
 	- Lack of static typing system
@@ -16,18 +17,21 @@ icon:: 🧑‍🎓
 		- some videos in practice?
 			- https://www.youtube.com/channel/UC8GD-smsEvNyRd3EZ8oeSrA
 	- Debugging
+		- How to properly start up a [[calva]] project?
 	- Global setup
 		- the official CLI tools are more favourable than [[Leiningen]]
-		-
-- https://exercism.org/tracks/clojure
-	- recommended several times
-- https://tryclojure.org/
-	- A step-by-step REPL tutorial
-- https://nextjournal.github.io/clojure-mode/#use-it
-	- A notebook (like observable.com) but with more language supports
-- NOW https://4clojure.oxal.org
-  :LOGBOOK:
-  CLOCK: [2022-03-04 Fri 10:44:27]
-  :END:
-	- a list of one-liner quizzes from entry level to hard
+		- [[babashka]]
+- Learning materials online
+	- https://exercism.org/tracks/clojure ⭐
+		- recommended several times
+	- NOW https://4clojure.oxal.org
+	  :LOGBOOK:
+	  CLOCK: [2022-03-04 Fri 10:44:27]
+	  :END:
+		- a list of one-liner quizzes from entry level to hard
+- Eco
+	- https://tryclojure.org/
+		- A step-by-step REPL tutorial
+	- https://nextjournal.github.io/clojure-mode/#use-it
+		- A notebook (like observable.com) but with more language supports
 -
