@@ -25,4 +25,6 @@ jobs:
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
       - name: Copy custom css file
-        run: sudo curl ${{ env.CSS_URL }} > $GITHUB_WORKSPACE/www/static/css/custom.css
+        run: |
+          curl ${{ env.CSS_URL }}
+          curl ${{ env.CSS_URL }} > $GITHUB_WORKSPACE/www/asdf
