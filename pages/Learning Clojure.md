@@ -33,7 +33,7 @@ icon:: 🧑‍🎓
 	  CLOCK: [2022-03-10 Thu 16:23:38]
 	  :END:
 		- recommended several times
-	- NOW https://4clojure.oxal.org Progress [:progress {:value 46 :max 195}]
+	- NOW  [[https://4clojure.oxal.org]]
 	  collapsed:: true
 	  id:: 622705ee-0ea3-49cd-92f9-2a5c6c28e599
 	  :LOGBOOK:
