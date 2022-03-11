@@ -14,38 +14,38 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "about me",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730446,
+  :block/updated-at 1646985730446}
  {:block/name "acronym",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "amazon codeguru",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730459,
+  :block/updated-at 1646985730459}
  {:block/name "application footprint",
-  :block/created-at 1642000567387,
-  :block/updated-at 1642000567387}
+  :block/created-at 1646985731075,
+  :block/updated-at 1646985731075}
  {:block/name "assemblyscript",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985730464,
+  :block/updated-at 1646985730464}
  {:block/name "b",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "babashka",
-  :block/created-at 1646121573103,
-  :block/updated-at 1646121577191}
+  :block/created-at 1646985730707,
+  :block/updated-at 1646985730707}
  {:block/name "blog posts",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730470,
+  :block/updated-at 1646985730470}
  {:block/name "blogpost",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730649,
+  :block/updated-at 1646985730649}
  {:block/name "c",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "calva",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
+  :block/created-at 1646985730492,
+  :block/updated-at 1646985730492}
  {:block/name "canceled",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -53,11 +53,14 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "clojure",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985730490,
+  :block/updated-at 1646985730490}
+ {:block/name "clojure for the brave and true",
+  :block/created-at 1646890061117,
+  :block/updated-at 1646890061117}
  {:block/name "clojurescript",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730505,
+  :block/updated-at 1646985730505}
  {:block/name "code kitchen",
   :block/created-at 1646207546562,
   :block/updated-at 1646207546562}
@@ -65,26 +68,29 @@
   :block/created-at 1645083481545,
   :block/updated-at 1645083481545}
  {:block/name "codex",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730508,
+  :block/updated-at 1646985730508}
  {:block/name "components.ai",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "components.ai/theme",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985731210,
+  :block/updated-at 1646985731210}
  {:block/name "contents",
   :block/created-at 1645086911047,
   :block/updated-at 1645086911047}
  {:block/name "contributions",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730444,
+  :block/updated-at 1646985730444}
  {:block/name "cool tech",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "css",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
+ {:block/name "css custom highlight api",
+  :block/created-at 1646985730481,
+  :block/updated-at 1646985730481}
  {:block/name "cypress",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -92,14 +98,23 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "dark lang",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730529,
+  :block/updated-at 1646985730529}
  {:block/name "datascript",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
+  :block/created-at 1646985730554,
+  :block/updated-at 1646985730554}
+ {:block/name "datascript js playground",
+  :block/created-at 1646984894545,
+  :block/updated-at 1646984894545}
+ {:block/name "datomic",
+  :block/created-at 1646984894545,
+  :block/updated-at 1646984894545}
  {:block/name "design",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "dirac",
+  :block/created-at 1646985730568,
+  :block/updated-at 1646985730568}
  {:block/name "doing",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -107,14 +122,8 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "draw tests",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645083481545}
- {:block/name "draws",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
- {:block/name "draws/2022-01-25-10-22-05.excalidraw",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985731216,
+  :block/updated-at 1646985731216}
  {:block/name "esbuild",
   :block/created-at 1645086746376,
   :block/updated-at 1645086746376}
@@ -128,23 +137,23 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "font glossary",
-  :block/created-at 1645414916420,
-  :block/updated-at 1645415727469}
+  :block/created-at 1646985730579,
+  :block/updated-at 1646985730579}
  {:block/name "fonts",
-  :block/created-at 1645414731173,
-  :block/updated-at 1645423300088}
+  :block/created-at 1646985731151,
+  :block/updated-at 1646985731151}
  {:block/name "fri, 2022/03",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
- {:block/name "fri, 2022/03/04",
-  :block/created-at 1646352000000,
-  :block/updated-at 1646352000000}
+  :block/created-at 1646984894544,
+  :block/updated-at 1646984894544}
+ {:block/name "fri, 2022/03/11",
+  :block/created-at 1646928758844,
+  :block/updated-at 1646928758844}
  {:block/name "frontend brown bag",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "genshin (font)",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985730599,
+  :block/updated-at 1646985730599}
  {:block/name "genshin impact",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -152,26 +161,26 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "github action",
-  :block/created-at 1642000567387,
-  :block/updated-at 1642000567387}
+  :block/created-at 1646985730608,
+  :block/updated-at 1646985730608}
  {:block/name "github copilot",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730702,
+  :block/updated-at 1646985730702}
  {:block/name "github copilot - the good, bad and evil",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730648,
+  :block/updated-at 1646985730648}
  {:block/name "google zx",
-  :block/created-at 1646121533047,
-  :block/updated-at 1646121568725}
+  :block/created-at 1646985730708,
+  :block/updated-at 1646985730708}
  {:block/name "gpt",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730587,
+  :block/updated-at 1646985730587}
  {:block/name "gpt2",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "gpt3",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730593,
+  :block/updated-at 1646985730593}
  {:block/name "graphql",
   :block/created-at 1645083481545,
   :block/updated-at 1645083481545}
@@ -179,29 +188,38 @@
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
  {:block/name "hello world",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985731225,
+  :block/updated-at 1646985731225}
  {:block/name "hmr",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730712,
+  :block/updated-at 1646985730712}
+ {:block/name "homebase-react",
+  :block/created-at 1646985731231,
+  :block/updated-at 1646985731231}
+ {:block/name "hosted language",
+  :block/created-at 1646900793245,
+  :block/updated-at 1646900793245}
  {:block/name "hot module reload",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "how to design programs, second edition",
+  :block/created-at 1646985730716,
+  :block/updated-at 1646985730716}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "index",
-  :block/created-at 1645086911046,
-  :block/updated-at 1645086911046}
+  :block/created-at 1646985665223,
+  :block/updated-at 1646985665223}
  {:block/name "inode",
   :block/created-at 1645599789377,
   :block/updated-at 1645599789377}
  {:block/name "inter (typeface)",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730721,
+  :block/updated-at 1646985730721}
  {:block/name "journals",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730729,
+  :block/updated-at 1646985730729}
  {:block/name "jul 30th, 2021",
   :block/created-at 1627603200000,
   :block/updated-at 1627603200000}
@@ -209,8 +227,8 @@
   :block/created-at 1624060800000,
   :block/updated-at 1624060800000}
  {:block/name "justfont_ 字型下載之前，先看看⋯⋯",
-  :block/created-at 1642000567387,
-  :block/updated-at 1642000567387}
+  :block/created-at 1646985731268,
+  :block/updated-at 1646985731268}
  {:block/name "knowledge garden",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -218,47 +236,47 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "learning clojure",
-  :block/created-at 1646619017702,
-  :block/updated-at 1646486600108}
+  :block/created-at 1646985730499,
+  :block/updated-at 1646985730499}
  {:block/name "leiningen",
   :block/created-at 1646636369073,
   :block/updated-at 1646636369073}
  {:block/name "linux link",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
+  :block/created-at 1646985731275,
+  :block/updated-at 1646985731275}
  {:block/name "logseq",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "logseq default theme enhancements",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730880,
+  :block/updated-at 1646985730880}
  {:block/name "logseq dev theme",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730879,
+  :block/updated-at 1646985730879}
  {:block/name "logseq publish github action",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730829,
+  :block/updated-at 1646985730829}
  {:block/name "logseq theme",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "logseq/embed twitter",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985731308,
+  :block/updated-at 1646985731308}
  {:block/name "mdx",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
  {:block/name "mhr in vite",
-  :block/created-at 1646202030953,
-  :block/updated-at 1646206541015}
+  :block/created-at 1646985730902,
+  :block/updated-at 1646985730902}
  {:block/name "microsoft",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730644,
+  :block/updated-at 1646985730644}
  {:block/name "minetype",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985731314,
+  :block/updated-at 1646985731314}
  {:block/name "mix require & import in node",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645083481545}
+  :block/created-at 1646985730913,
+  :block/updated-at 1646985730913}
  {:block/name "mon, 2022",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -268,33 +286,30 @@
  {:block/name "mon, 2022/01/10",
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
- {:block/name "mon, 2022/03",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
- {:block/name "mon, 2022/03/07",
-  :block/created-at 1646611200000,
-  :block/updated-at 1646611200000}
  {:block/name "mono wang",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "nbb",
+  :block/created-at 1646985731197,
+  :block/updated-at 1646985731197}
  {:block/name "next.js",
   :block/created-at 1645083481545,
   :block/updated-at 1645083481545}
  {:block/name "nextjs esm",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645083481545}
+  :block/created-at 1646985730914,
+  :block/updated-at 1646985730914}
  {:block/name "nextjs mdx rendering",
-  :block/created-at 1645083481545,
-  :block/updated-at 1645086421418}
+  :block/created-at 1646985731335,
+  :block/updated-at 1646985731335}
  {:block/name "nginx",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985731348,
+  :block/updated-at 1646985731348}
  {:block/name "no more tofu",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "node vm module",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985730917,
+  :block/updated-at 1646985730917}
  {:block/name "noto",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -302,50 +317,47 @@
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "open ai 5 - dota 2",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730921,
+  :block/updated-at 1646985730921}
  {:block/name "openai",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985730644,
+  :block/updated-at 1646985730644}
  {:block/name "pengx17",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "pengx17/logseq-publish",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730821,
+  :block/updated-at 1646985730821}
  {:block/name "playwright",
-  :block/created-at 1642000567387,
-  :block/updated-at 1642000567387}
+  :block/created-at 1646985730819,
+  :block/updated-at 1646985730819}
+ {:block/name "react",
+  :block/created-at 1646984894544,
+  :block/updated-at 1646984894544}
  {:block/name "react hot module reloading",
-  :block/created-at 1641967503322,
-  :block/updated-at 1646207746015}
+  :block/created-at 1646985731093,
+  :block/updated-at 1646985731093}
  {:block/name "reading notes",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
  {:block/name "rollup commonjs plugin",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
+  :block/created-at 1646985731123,
+  :block/updated-at 1646985731123}
  {:block/name "same-origin iframes",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
- {:block/name "sat, 2022/03",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
- {:block/name "sat, 2022/03/05",
-  :block/created-at 1646438400000,
-  :block/updated-at 1646438400000}
+  :block/created-at 1646985731355,
+  :block/updated-at 1646985731355}
  {:block/name "shadowrealm",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985731135,
+  :block/updated-at 1646985731135}
  {:block/name "shadowrealm vs same-origin iframes",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985731359,
+  :block/updated-at 1646985731359}
  {:block/name "simd",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
  {:block/name "solving rubik’s cube with a robot hand",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985731067,
+  :block/updated-at 1646985731067}
  {:block/name "source sans",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -353,14 +365,11 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "starship config",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
- {:block/name "sun, 2022/03",
-  :block/created-at 1646636369073,
-  :block/updated-at 1646636369073}
- {:block/name "sun, 2022/03/06",
-  :block/created-at 1646524800000,
-  :block/updated-at 1646524800000}
+  :block/created-at 1646985731141,
+  :block/updated-at 1646985731141}
+ {:block/name "state management",
+  :block/created-at 1646984894543,
+  :block/updated-at 1646984894543}
  {:block/name "swc",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
@@ -368,8 +377,8 @@
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
  {:block/name "test",
-  :block/created-at 1641967503323,
-  :block/updated-at 1645168762679}
+  :block/created-at 1646985731365,
+  :block/updated-at 1646985731365}
  {:block/name "thu, 2022",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -379,27 +388,30 @@
  {:block/name "thu, 2022/01/06",
   :block/created-at 1641427200000,
   :block/updated-at 1641427200000}
- {:block/name "thu, 2022/03",
-  :block/created-at 1646288594598,
-  :block/updated-at 1646288594598}
- {:block/name "thu, 2022/03/03",
-  :block/created-at 1646265600000,
-  :block/updated-at 1646265600000}
  {:block/name "todo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "tue, 2022",
+  :block/created-at 1646984894544,
+  :block/updated-at 1646984894544}
+ {:block/name "tue, 2022/03",
+  :block/created-at 1646984894545,
+  :block/updated-at 1646984894545}
+ {:block/name "tue, 2022/03/08",
+  :block/created-at 1646697600000,
+  :block/updated-at 1646697600000}
  {:block/name "typeface",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "typescript 4.6",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
+  :block/created-at 1646985731145,
+  :block/updated-at 1646985731145}
  {:block/name "variable fonts",
-  :block/created-at 1645414722009,
-  :block/updated-at 1645415871913}
+  :block/created-at 1646985731151,
+  :block/updated-at 1646985731151}
  {:block/name "w3c 中文排版需求",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985731157,
+  :block/updated-at 1646985731157}
  {:block/name "wait",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -407,47 +419,41 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "wasm",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985730464,
+  :block/updated-at 1646985730464}
  {:block/name "webpack",
   :block/created-at 1645083481544,
   :block/updated-at 1645083481544}
  {:block/name "webpack tree shaking",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
- {:block/name "wed, 2022/03",
-  :block/created-at 1646207546562,
-  :block/updated-at 1646207546562}
- {:block/name "wed, 2022/03/02",
-  :block/created-at 1646179200000,
-  :block/updated-at 1646179200000}
+  :block/created-at 1646985731178,
+  :block/updated-at 1646985731178}
  {:block/name "why pnpm use hard link instead of symbolic link_",
-  :block/created-at 1645599789376,
-  :block/updated-at 1645599789376}
+  :block/created-at 1646985731185,
+  :block/updated-at 1646985731185}
  {:block/name "xdm",
-  :block/created-at 1645085254673,
-  :block/updated-at 1645085254673}
+  :block/created-at 1646985731333,
+  :block/updated-at 1646985731333}
  {:block/name "xuanwo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "“一把梭：rest api 全用 post”",
-  :block/created-at 1645083481544,
-  :block/updated-at 1645083481544}
+  :block/created-at 1646985731381,
+  :block/updated-at 1646985731381}
  {:block/name "业务逻辑拆分模式",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985731398,
+  :block/updated-at 1646985731398}
  {:block/name "字体",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
  {:block/name "思源字体",
-  :block/created-at 1641967503322,
-  :block/updated-at 1641967503322}
+  :block/created-at 1646985730878,
+  :block/updated-at 1646985730878}
  {:block/name "斗鱼追光体",
-  :block/created-at 1641967503323,
-  :block/updated-at 1641967503323}
+  :block/created-at 1646985731436,
+  :block/updated-at 1646985731436}
  {:block/name "架构设计",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "汉字测试",
-  :block/created-at 1641967503322, 
-  :block/updated-at 1641967503322}]
+  :block/created-at 1646985731292, 
+  :block/updated-at 1646985731292}]
