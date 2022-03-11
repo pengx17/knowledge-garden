@@ -13,6 +13,8 @@ icon:: 🧑‍🎓
 		- Find out the most suitable functions is hard
 		- Since Clojure is a [[hosted language]], it is possible to use Java or JavaScript libraries, which makes interpolation harder
 			- That is why the core library provides library like `clojure.string`
+		- Math special namespace for [[ClojureScript]] https://cljs.github.io/api/syntax/Math-namespace
+		- ((622af365-535c-4bdc-af35-e0f5e9276120))
 	- Lack of static typing system and Nullability checks
 	- REPL driven development
 		- some videos in practice?
@@ -31,12 +33,14 @@ icon:: 🧑‍🎓
 	  CLOCK: [2022-03-10 Thu 16:23:38]
 	  :END:
 		- recommended several times
-	- NOW https://4clojure.oxal.org
+	- NOW https://4clojure.oxal.org Progress [:progress {:value 46 :max 195}]
+	  collapsed:: true
 	  id:: 622705ee-0ea3-49cd-92f9-2a5c6c28e599
 	  :LOGBOOK:
 	  CLOCK: [2022-03-04 Fri 10:44:27]
 	  :END:
 		- a list of one-liner quizzes from entry level to hard
+		-
 - Starter repos
 	- https://github.com/seancorfield/usermanager-example
 	- Recommended here https://clojureverse.org/t/what-do-beginners-struggle-with/5383/24
@@ -48,6 +52,9 @@ icon:: 🧑‍🎓
 - Dev tools
 	- [[Dirac]]
 		- There are some very interesting ASCII diagrams
+- Cheatsheets
+  id:: 622af365-535c-4bdc-af35-e0f5e9276120
+	- https://cljs.info/cheatsheet/
 - Style Guide
 	- https://guide.clojure.style/
 - Books
