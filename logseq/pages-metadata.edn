@@ -205,6 +205,9 @@
  {:block/name "how to design programs, second edition",
   :block/created-at 1646985730716,
   :block/updated-at 1646985730716}
+ {:block/name "https_//4clojure.oxal.org",
+  :block/created-at 1647008808456,
+  :block/updated-at 1647013853239}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -237,7 +240,7 @@
   :block/updated-at 1641967503323}
  {:block/name "learning clojure",
   :block/created-at 1646985730499,
-  :block/updated-at 1646985730499}
+  :block/updated-at 1647008808457}
  {:block/name "leiningen",
   :block/created-at 1646636369073,
   :block/updated-at 1646636369073}
@@ -376,6 +379,9 @@
  {:block/name "symbolic link",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
+ {:block/name "tailwind ui",
+  :block/created-at 1646993473557,
+  :block/updated-at 1646993505706}
  {:block/name "test",
   :block/created-at 1646985731365,
   :block/updated-at 1646985731365}

@@ -147,7 +147,11 @@
  ;; input "{{{poem red,blue}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {"progress" "[:span [:progress {:value $1 :max $2 :style {:width 200 :margin-right 4}}] [:small \"$1/$2\"]]"}
+ :macros {"progress"
+          "[:span [:progress {:value $1 :max $2 
+                         :style {:width 200 
+                                 :margin-right 4
+                                 :cursor \"default\"}}] [:small \"$1/$2\"]]"}
 
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
