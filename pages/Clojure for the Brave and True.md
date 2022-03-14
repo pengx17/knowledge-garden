@@ -1,0 +1,3 @@
+- [Clojure Alchemy: Reading, Evaluation, and Macros](https://www.braveclojure.com/read-and-eval/)
+- [Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
+-

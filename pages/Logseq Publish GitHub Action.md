@@ -128,9 +128,15 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 	- Contributor [[Xuanwo]] and reported some publish issues
 	- LATER Should have a better way to determine the timing when publish is finished
 -
+-
+-
 - [[Tue, 2022/03/08]]
 	- Edit the custom.css file failed in https://github.com/pengx17/logseq-publish/issues/19
 		- Seems the custom.css file is owned by `root` user
-		- github action runs with `runner` user
-		- https://www.baeldung.com/linux/redirect-output-permission-denied
-			- the pip
+			- github action runs with `runner` user
+			- https://www.baeldung.com/linux/redirect-output-permission-denied
+		- Fixed by change file permission owners to `runner` in a following step
+-
+- Debugging
+	- when downloaded the `trace` file from artifacts, make sure unzip it first using `unzip` on Mac
+		- Using default Mac unzip in finder will recursively unzip a zip file if there is only one zip file, until no zip file found
