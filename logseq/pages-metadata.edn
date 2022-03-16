@@ -1,4 +1,13 @@
-[{:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
+[{:block/name "'user",
+  :block/created-at 1647267089334,
+  :block/updated-at 1647267089334}
+ {:block/name "'user/great-books",
+  :block/created-at 1647267089333,
+  :block/updated-at 1647267089333}
+ {:block/name "'user/great-books)",
+  :block/created-at 1647267200931,
+  :block/updated-at 1647267200931}
+ {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1646207546562,
   :block/updated-at 1646207546562}
  {:block/name "@rollup",
@@ -57,7 +66,13 @@
   :block/updated-at 1646985730490}
  {:block/name "clojure for the brave and true",
   :block/created-at 1646890061117,
-  :block/updated-at 1646890061117}
+  :block/updated-at 1647263222906}
+ {:block/name "clojure macros",
+  :block/created-at 1647263231221,
+  :block/updated-at 1647263231221}
+ {:block/name "clojure reader",
+  :block/created-at 1647263216910,
+  :block/updated-at 1647263216910}
  {:block/name "clojurescript",
   :block/created-at 1646985730505,
   :block/updated-at 1646985730505}
@@ -142,12 +157,6 @@
  {:block/name "fonts",
   :block/created-at 1646985731151,
   :block/updated-at 1646985731151}
- {:block/name "fri, 2022/03",
-  :block/created-at 1646984894544,
-  :block/updated-at 1646984894544}
- {:block/name "fri, 2022/03/11",
-  :block/created-at 1646928758844,
-  :block/updated-at 1646928758844}
  {:block/name "frontend brown bag",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -240,7 +249,7 @@
   :block/updated-at 1641967503323}
  {:block/name "learning clojure",
   :block/created-at 1646985730499,
-  :block/updated-at 1647008808457}
+  :block/updated-at 1647263186086}
  {:block/name "leiningen",
   :block/created-at 1646636369073,
   :block/updated-at 1646636369073}
@@ -290,8 +299,8 @@
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
  {:block/name "mon, 2022/03",
-  :block/created-at 1647223255441,
-  :block/updated-at 1647223255441}
+  :block/created-at 1647263230984,
+  :block/updated-at 1647263230984}
  {:block/name "mon, 2022/03/14",
   :block/created-at 1647223201674,
   :block/updated-at 1647223201674}
@@ -412,6 +421,9 @@
  {:block/name "tue, 2022/03/08",
   :block/created-at 1646697600000,
   :block/updated-at 1646697600000}
+ {:block/name "tue, 2022/03/15",
+  :block/created-at 1647273813718,
+  :block/updated-at 1647273813718}
  {:block/name "typeface",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
