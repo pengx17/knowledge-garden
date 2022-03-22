@@ -1,5 +1,22 @@
+- Chapter 4: Core functions in depth
+	- Clojure is like JS's "duck typing"
+	- `seq` related function
+		- `map` #[[Clojure Gotchas]]
+			- can take multiple collections
+			- can take a collection of functions
+			- the result will be called with `list`
+		- `reduce`, `take`, `drop` etc - can directly work on maps since **map in Clojure is also a Sequence**
+			- Q: When use `(take 3 {:a 1 :b 2 :c 3 :d 4})` we got a list of pairs. Is there a `Object.fromEntries` version in Clojure?
+			- Y: use `into`: `(into {} (take 3 {:a 1 :b 2 :c 3 :d 4}))`
+		- `sort-by`
+			- `(sort-by keyfn coll)` `(sort-by keyfn comp coll)`
+			- sorted in asc order (if no `comp` provided)
+		- **Lazy Seqs**
+			- `map` `filter` etc are lazy
+			-
 - DONE [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
   id:: 622f3e19-89b1-46da-a277-9b3c587facc2
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2022-03-16 Wed 09:47:35]--[2022-03-16 Wed 09:47:35] =>  00:00:00
   :END:
@@ -17,7 +34,7 @@
 					- `(deref #'user/great-books)` === `great-books`
 			- Var bound to the current namespace. Only used for bootstrapping.
 		- Quoting any Clojure form tells Clojure not to evaluate it but to treat it as data
-		- Creating namespaces: core functions `create-ns`, `in-ns` and `ns` macro
+		- ⭐ **Creating and switching namespaces:** core functions `create-ns`, `in-ns` and `ns` macro
 			- `create-ns`: simply create a ns
 			- `in-ns`: create and switch into it
 		- Accessing other namespace
@@ -36,6 +53,7 @@
 		- `require`: load and evaluate (ensure) a file in the project. also create a namespace that is available to `refer`. Similar to `require` in JS
 			- `(require '[the-divine-cheese-code.visualization.svg :as svg])` combine with `alias`
 			- `use`: combine `require` and `refer`
+				- `(use 'clojure.core)` to refer core library
 				- `(use '[the-divine-cheese-code.visualization.svg :as svg])`
 				- take the same in ((622f569a-4dad-4e4e-93b4-b173e8b4012b))
 				- `(use '[the-divine-cheese-code.visualization.svg :as svg :only [points]])`
