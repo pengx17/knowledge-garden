@@ -1,0 +1,1 @@
+- `flatten` will do flat recursively

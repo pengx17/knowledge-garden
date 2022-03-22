@@ -10,7 +10,6 @@ icon:: 🧑‍🎓
 		- [Clojure ns syntax cheat-sheet](https://gist.github.com/ghoseb/287710/) ⭐
 		- ((6225d5f3-1a9f-4baf-abbf-f8b1ff668456))
 		- ((622f3e19-89b1-46da-a277-9b3c587facc2))
-		-
 	- Knowledge of the core library
 		- Find out the most suitable functions is hard
 		- Since Clojure is a [[hosted language]], it is possible to use Java or JavaScript libraries, which makes interpolation harder
@@ -34,7 +33,7 @@ icon:: 🧑‍🎓
 	  :LOGBOOK:
 	  CLOCK: [2022-03-10 Thu 16:23:38]
 	  :END:
-		- recommended several times
+		- being recommended for several times
 	- NOW  [[https://4clojure.oxal.org]]
 	  collapsed:: true
 	  id:: 622705ee-0ea3-49cd-92f9-2a5c6c28e599
@@ -57,11 +56,19 @@ icon:: 🧑‍🎓
 - Cheatsheets
   id:: 622af365-535c-4bdc-af35-e0f5e9276120
 	- https://cljs.info/cheatsheet/
+	- **destructuring** https://clojure.org/guides/destructuring
+	- [CLJS interop with JS](https://lwhorton.github.io/2018/10/20/clojurescript-interop-with-javascript.html)
+		- ```clojure
+		  ((. js/document -getElementsByTagName) "html")
+		  (js-invoke js/LSPluginCore "reload" id)
+		  ```
 - Style Guide
 	- https://guide.clojure.style/
 - Books
 	- [[Clojure for the Brave and True]]
 	- [[How to Design Programs, Second Edition]]
+- {{embed [[Clojure Gotchas]]}}
+	-
 - ---
 - Thoughts: Clojure’s stability can improve your lifestyle, [ref](https://github.com/braveclojure/bcjobs-blog/blob/master/source/2022-02-11-long-term-clojure-benefits.html.md)
 	- For JS, we have many kinds of tools to upgrade library version in CI (Renovate, dependbot, etc), but for Clojure, the API could stay for several years because of the simplicity of language.

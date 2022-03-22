@@ -1,5 +1,8 @@
-- [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
+- DONE [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
   id:: 622f3e19-89b1-46da-a277-9b3c587facc2
+  :LOGBOOK:
+  CLOCK: [2022-03-16 Wed 09:47:35]--[2022-03-16 Wed 09:47:35] =>  00:00:00
+  :END:
 	- questions before reading
 		- How to
 			- resolve an external dependency
