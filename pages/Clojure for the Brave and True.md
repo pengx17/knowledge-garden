@@ -1,4 +1,4 @@
-- Chapter 4: Core functions in depth
+- DONE Chapter 4: Core functions in depth
 	- Clojure is like JS's "duck typing"
 	- `seq` related function
 		- `map` #[[Clojure Gotchas]]
@@ -12,11 +12,21 @@
 			- `(sort-by keyfn coll)` `(sort-by keyfn comp coll)`
 			- sorted in asc order (if no `comp` provided)
 		- **Lazy Seqs**
+			- can be infinite
+				- `(repeat "na")`
+				- `repeatedly` - takes a function
 			- `map` `filter` etc are lazy
-			-
+			- compute a lazy seq is called **realize**
+				- `realized?` to check if a lazy seq is realized
+			- use `time` to print the elapsed time
+			- Clojure will **realize 32 elements at once preemptively for lazy seq** for performance concern #[[Clojure Gotchas]]
+				- this will only happen ONCE!
+			- use `lazy-seq` to directly construct one
+		- IO functions
+			- `slurp` to read files, http
+			- `spit`
 - DONE [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
   id:: 622f3e19-89b1-46da-a277-9b3c587facc2
-  collapsed:: true
   :LOGBOOK:
   CLOCK: [2022-03-16 Wed 09:47:35]--[2022-03-16 Wed 09:47:35] =>  00:00:00
   :END:
