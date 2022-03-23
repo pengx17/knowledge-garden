@@ -34,7 +34,7 @@ icon:: 🧑‍🎓
 	  CLOCK: [2022-03-10 Thu 16:23:38]
 	  :END:
 		- being recommended for several times
-	- NOW  [[https://4clojure.oxal.org]]
+	- NOW  [[https://4clojure.oxal.org]] ((62315623-a335-4f46-987a-c89a9cb243a2))
 	  collapsed:: true
 	  id:: 622705ee-0ea3-49cd-92f9-2a5c6c28e599
 	  :LOGBOOK:

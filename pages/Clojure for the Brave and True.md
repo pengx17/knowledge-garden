@@ -25,6 +25,9 @@
 		- IO functions
 			- `slurp` to read files, http
 			- `spit`
+- Chapter 5, functional programming
+	- "Referentially Transparent"
+	- can use `memoize` for pure functions to memorize results! ⭐ ❗
 - DONE [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
   id:: 622f3e19-89b1-46da-a277-9b3c587facc2
   :LOGBOOK:
