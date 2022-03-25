@@ -3,4 +3,3 @@
 ## Shortcuts
 	- [[About Me]]
 	- [[Blog Posts]]
-	- [[journals]]

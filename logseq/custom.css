@@ -11,3 +11,7 @@
 .genshin {
   font-family: Genshin;
 }
+
+#journals .journal-item:first-child {
+  min-height: fit-content;
+}
