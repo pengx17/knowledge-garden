@@ -22,5 +22,21 @@ tags:: remix, frontend
 		- The Routes will be able to load data in parallel with this pattern
 	- Core apis also provide a `action` handler for handling `form` actions, thus support mutations
 		- LATER may refer to [[remix]] on this?
-	- Putting a lot of configs for route/routes  may be
+	- Putting a lot of configs for route/routes  may be too heavy. It is also possible to define **route modules**
+		- ```tsx
+		  export async function loader(args) {
+		    let actualLoader = await import("./actualModule").loader;
+		    return actualLoader(args);
+		  }
+		  
+		  export async function action(args) {
+		    let actualAction = await import("./actualModule").action;
+		    return actualAction(args);
+		  }
+		  
+		  export const Component = React.lazy(() => import("./actualModule").default);
+		  ```
+- Repository Merge
+	- history, react router, remix repos will be merged into one monorepo
+- Remix is "just a compiler and server for React Router".
 -
