@@ -17,8 +17,10 @@ tags:: remix, frontend
 				    }
 				  />
 				  ```
-				- access the data in `Projects` component with `useLoaderData`
+			- access the data in `Projects` component with `useLoaderData`
+			- access loading state with `useTransition`
 		- The Routes will be able to load data in parallel with this pattern
 	- Core apis also provide a `action` handler for handling `form` actions, thus support mutations
+		- LATER may refer to [[remix]] on this?
 	-
 -
