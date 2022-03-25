@@ -22,5 +22,5 @@ tags:: remix, frontend
 		- The Routes will be able to load data in parallel with this pattern
 	- Core apis also provide a `action` handler for handling `form` actions, thus support mutations
 		- LATER may refer to [[remix]] on this?
-	-
+	- Putting a lot of configs for route/routes  may be
 -
