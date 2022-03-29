@@ -1,0 +1,24 @@
+- [User Manual](https://shadow-cljs.github.io/)
+- Introduction.
+	- [A blog post](https://code.thheller.com/blog/shadow-cljs/2017/09/15/shadow-cljs-introduction.html)
+	- It does **use the default ClojureScript compiler and analyzer** but not much beyond that. Everything related to “bundling” is **rewritten completely.**
+	- **Code-splitting (aka. :modules) was the initial motivation** to start this tool 3+ years ago but it has grown far beyond that.
+	- shadow-cljs can even handle NPM dependencies?
+	- Initial Thought: might be a "Webpack" for CLJS?
+	- Short Version for shadow-cljs from [What shadow-cljs is and isn't](https://code.thheller.com/blog/shadow-cljs/2019/03/01/what-shadow-cljs-is-and-isnt.html)
+		- I think this is another one that can be a better introduction to Shadow-cljs
+		- a fully featured **build tool for ClojureScript and JavaScript**
+		- integrates with the npm JavaScript ecosystem and allows accessing it from ClojureScript.
+		- **runs on the JVM** and uses the **Closure Compiler** to process JavaScript and create optimized (aka. minified) JavaScript output.
+		- It does not use self-hosted ClojureScript, meaning that it still **requires Java** to run.
+- [Why not using Webpack?](https://code.thheller.com/blog/shadow-cljs/2018/06/15/why-not-webpack.html)
+	- Official [[ClojureScript]] website has a post on [using webpack with CLJS](https://clojurescript.org/guides/webpack) and [a second one](https://code.thheller.com/blog/shadow-cljs/2020/05/08/how-about-webpack-now.html)
+		- So CLJS and Closure want everything to be global and namespaced but all we have is IIFEs (immediately-invoked function expressions). We somehow need to bridge the two systems and that is exactly what the [guide](https://clojurescript.org/guides/webpack) is all about. You manually setup a .js file that pulls the JS dependencies you want into the global scope by explicitly assigning them to window.
+			- This explains why there is a long `externs.js` file in logseq? Not sure, maybe this is required by Google Closure compiler, otherwise unused codes will be removed
+	- The main issues
+		- Webpack + ClojureScript with Code Splitting is pretty hard
+		- `shadow$provide.module$node_modules$lib$bar`
+- Code Splitting
+  id:: 623eb56b-47d3-4010-9dab-79eaafaccb09
+	- https://shadow-cljs.github.io/docs/UsersGuide.html#CodeSplitting
+	- A blog post by the author. Worth reading https://code.thheller.com/blog/shadow-cljs/2019/03/03/code-splitting-clojurescript.html
