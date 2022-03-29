@@ -1,6 +1,10 @@
 tags:: Code Kitchen
 
 - Hackernews?
-- Integrate with other solutions
-	- Frameworks like Next.js and
-	-
+- Integrate with Fullstack Frameworks like Next.js and Remix
+- Supporting other frameworks than React
+	- Vue support
+	- Svelte support #[[Code Kitchen Svelte]]
+	- Solid.js support
+- Supporting lazy load dependencies
+-
