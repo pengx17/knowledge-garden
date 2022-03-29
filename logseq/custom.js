@@ -26,8 +26,8 @@ function quoteTextInTextarea(textarea, quote) {
         selectedText +
         quote +
         textarea.value.substring(selectionEnd);
-      textarea.selectionStart = selectionStart;
-      textarea.selectionEnd = selectionEnd + 2;
+      textarea.selectionStart = selectionStart + 1;
+      textarea.selectionEnd = selectionEnd + 1;
       return true;
     }
   }
@@ -40,7 +40,6 @@ window.addEventListener(
       const textarea = getActiveTextarea();
       if (textarea) {
         const quoted = quoteTextInTextarea(textarea, '"');
-        console.log(quoted);
         if (quoted) {
           e.stopPropagation();
           e.preventDefault();
@@ -48,5 +47,4 @@ window.addEventListener(
       }
     }
   },
-  true
 );
