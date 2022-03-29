@@ -8,4 +8,6 @@ tags:: Svelte, Code Kitchen
 	- https://github.com/EMH333/esbuild-svelte
 - Svelte compiler
 	- https://svelte.dev/docs#compile-time
+- Svelte
+- https://www.google.com/
 -
