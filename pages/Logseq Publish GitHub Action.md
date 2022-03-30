@@ -126,7 +126,7 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 	- {{tweet https://twitter.com/logseq/status/1479115586437222405}}
 - [[Mon, 2022/01/10]]
 	- Contributor [[Xuanwo]] and reported some publish issues
-	- LATER Should have a better way to determine the timing when publish is finished
+	- DONE Should have a better way to determine the timing when publish is finished
 -
 -
 -

@@ -238,6 +238,9 @@
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "infra ui api demo fair",
+  :block/created-at 1648609826566,
+  :block/updated-at 1648609826566}
  {:block/name "inode",
   :block/created-at 1645599789377,
   :block/updated-at 1645599789377}
@@ -288,7 +291,7 @@
   :block/updated-at 1647503831464}
  {:block/name "logseq publish github action",
   :block/created-at 1646985730829,
-  :block/updated-at 1646985730829}
+  :block/updated-at 1648609844564}
  {:block/name "logseq theme",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
