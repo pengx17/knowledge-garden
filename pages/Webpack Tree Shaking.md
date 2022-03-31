@@ -1,4 +1,4 @@
-- Recently got a issue for demos in [[code-kitchen]] that some runtime dependencies are not found in production build
+- Recently got a issue for demos in [[Code Kitchen]] that some runtime dependencies are not found in production build
 	- It seems to be related to [[Webpack]] tree shaking
 		- https://webpack.js.org/configuration/optimization/#optimizationprovidedexports
 		- > ... which exports are provided by modules to generate more efficient code for `export * from ....` By default optimization.providedExports is enabled.
