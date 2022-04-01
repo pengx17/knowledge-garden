@@ -1,4 +1,5 @@
 - DONE Chapter 4: Core functions in depth
+  collapsed:: true
 	- Clojure is like JS's "duck typing"
 	- `seq` related function
 		- `map` #[[Clojure Gotchas]]
@@ -26,10 +27,12 @@
 			- `slurp` to read files, http
 			- `spit`
 - Chapter 5, functional programming
+  collapsed:: true
 	- "Referentially Transparent"
 	- can use `memoize` for pure functions to memorize results! ⭐ ❗
 - DONE [Chapter 6, Organizing Your Project: A Librarian’s Tale](https://www.braveclojure.com/organization/)
   id:: 622f3e19-89b1-46da-a277-9b3c587facc2
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2022-03-16 Wed 09:47:35]--[2022-03-16 Wed 09:47:35] =>  00:00:00
   :END:
@@ -88,7 +91,14 @@
 				- `(:import)`
 				- `(:gen-class)`
 				- `(:load)`: rarely used
-- [Chapter 7, Clojure Alchemy: Reading, Evaluation, and Macros](https://www.braveclojure.com/read-and-eval/)
--
-	-
+- [Chapter 7, Clojure Alchemy: Reading, Evaluation, and Macros](https://www.braveclojure.com/read-and-eval/) and chapter 8
+	- Learnt basics of Macro syntax. \`, \~@ etc
+- Chapter 9, concurrency
+	- use `@` to get the value of a future. It also blocks.
+		- can use `deref` to give timeout/default value
+		- use `realized?` to check if it is ready
+	- what's the differences between `future`, `delay` and `promise`?
+		- `delay` won't do anything until being deref
+			- use `force` to trigger it
+			- should be the same with `deref`?
 -
