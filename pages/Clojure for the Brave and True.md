@@ -101,4 +101,5 @@
 		- `delay` won't do anything until being deref
 			- use `force` to trigger it
 			- should be the same with `deref`?
--
+		- `promise` is a function which returns a promise instance that can be "resolved" by `deliver`
+		-
