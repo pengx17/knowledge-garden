@@ -1,1 +1,2 @@
 - `URL.createObjectURL()`
+- Playground https://stackblitz.com/edit/react-ts-gjt6fb
