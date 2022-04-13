@@ -22,5 +22,7 @@ title:: Why React 18 types break?
 	- https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56210
 	- https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59838 add an exported map
 		- this breaks `require('!raw-loader?esModule=false!@types/react/index.d.ts')`
+			- use file path instead:
+				- `require('!raw-loader?esModule=false!../node_modules/@types/react/index.d.ts')`
 		- which causes similar issues for ((62566574-0718-4119-9df4-952a6ca9378e))
 -
