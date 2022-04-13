@@ -15,4 +15,5 @@ title:: Why React 18 types break?
 	  }
 	  ```
 - There is even a codemod to fix this
-	- https://github.com/eps1lon/types-react-codemod#implicit-children
+	- https://github.com/eps1lon/types-react-codemod
+	- `npx types-react-codemod preset-18 ./src`
