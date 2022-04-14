@@ -210,7 +210,7 @@
   :block/updated-at 1649829257599}
  {:block/name "fri, 2022/04/08",
   :block/created-at 1649401180243,
-  :block/updated-at 1649401180243}
+  :block/updated-at 1649908476312}
  {:block/name "frontend",
   :block/created-at 1648177818874,
   :block/updated-at 1648177818874}
@@ -323,8 +323,8 @@
   :block/created-at 1646985730879,
   :block/updated-at 1646985730879}
  {:block/name "logseq ideas",
-  :block/created-at 1649401180235,
-  :block/updated-at 1649401180235}
+  :block/created-at 1649927472709,
+  :block/updated-at 1649927472709}
  {:block/name "logseq plugin link preview",
   :block/created-at 1649701576503,
   :block/updated-at 1649701609499}
@@ -394,7 +394,7 @@
   :block/updated-at 1649643143211}
  {:block/name "mon, 2022/04/11",
   :block/created-at 1649607583268,
-  :block/updated-at 1649647614114}
+  :block/updated-at 1649908611575}
  {:block/name "mono wang",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -604,7 +604,7 @@
   :block/updated-at 1649903404306}
  {:block/name "thu, 2022/04/14",
   :block/created-at 1649865604617,
-  :block/updated-at 1649906177781}
+  :block/updated-at 1649927466326}
  {:block/name "til",
   :block/created-at 1648177058512,
   :block/updated-at 1648177058512}
@@ -641,6 +641,9 @@
  {:block/name "typescript 4.6",
   :block/created-at 1646985731145,
   :block/updated-at 1646985731145}
+ {:block/name "valtio",
+  :block/created-at 1649908368335,
+  :block/updated-at 1649908368335}
  {:block/name "variable fonts",
   :block/created-at 1646985731151,
   :block/updated-at 1646985731151}
@@ -691,13 +694,16 @@
   :block/updated-at 1649225335301}
  {:block/name "wed, 2022/04/13",
   :block/created-at 1649779905017,
-  :block/updated-at 1649838818352}
+  :block/updated-at 1649920782734}
  {:block/name "why pnpm use hard link instead of symbolic link_",
   :block/created-at 1646985731185,
   :block/updated-at 1646985731185}
  {:block/name "why react 18 types break_",
   :block/created-at 1649821633379,
   :block/updated-at 1649834645961}
+ {:block/name "why we don't have a parent selector",
+  :block/created-at 1649914214981,
+  :block/updated-at 1649914216709}
  {:block/name "xdm",
   :block/created-at 1646985731333,
   :block/updated-at 1646985731333}
