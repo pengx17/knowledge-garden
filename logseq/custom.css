@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.25.1/custom.css");
+@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.25.2/custom.css");
 
 @font-face {
   font-family: "Genshin";
@@ -10,20 +10,4 @@
 
 .genshin {
   font-family: Genshin;
-}
-
-#journals .journal-item:first-child {
-  min-height: fit-content;
-}
-
-.block-body  {
-  width: 100%;
-}
-
-.raw_html, .link_preview__root {
-  max-width: 100%;
-}
-
-html.is-native-iphone #left-sidebar {
-  top: 0 !important;
 }
