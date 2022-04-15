@@ -24,3 +24,6 @@
   max-width: 100%;
 }
 
+html.is-native-iphone #left-sidebar {
+  top: 0 !important;
+}
