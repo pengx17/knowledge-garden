@@ -15,3 +15,12 @@
 #journals .journal-item:first-child {
   min-height: fit-content;
 }
+
+.block-body  {
+  width: 100%;
+}
+
+.raw_html, .link_preview__root {
+  max-width: 100%;
+}
+
