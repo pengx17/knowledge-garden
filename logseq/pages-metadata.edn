@@ -144,7 +144,7 @@
   :block/updated-at 1646985730529}
  {:block/name "datascript",
   :block/created-at 1646985730554,
-  :block/updated-at 1646985730554}
+  :block/updated-at 1650336429441}
  {:block/name "datascript js playground",
   :block/created-at 1646984894545,
   :block/updated-at 1646984894545}
@@ -673,7 +673,7 @@
   :block/updated-at 1650002917255}
  {:block/name "tue, 2022/04/19",
   :block/created-at 1650297622162,
-  :block/updated-at 1650336339526}
+  :block/updated-at 1650336452639}
  {:block/name "twoslash",
   :block/created-at 1649735039823,
   :block/updated-at 1649735039823}
