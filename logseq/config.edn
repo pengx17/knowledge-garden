@@ -119,6 +119,8 @@
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
 
+ :start-of-week 0
+
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
  :feature/enable-journals? true
