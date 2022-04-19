@@ -1,6 +1,7 @@
 Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 
 - ## Some backgrounds of implementing the GitHub Action
+  collapsed:: true
 	- There are some good public knowledge gardens that are powered by Logseq already that you can find on the Web. To list a few:
 		- https://zhanghanduo.com/
 		- https://note.xuanwo.io/
