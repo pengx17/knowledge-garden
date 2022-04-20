@@ -1,7 +1,6 @@
 - Task, [Support for queries](https://github.com/pengx17/logseq-plugin-todo-master/issues/19)
-	- {{renderer :todomaster}}
-	  #+BEGIN_QUERY
-	  {:title "🔥 NOW 🔥"
+	- #+BEGIN_QUERY
+	  {:title "{{renderer :todomaster}}"
 	      :query [:find (pull ?h [*])
 	              :where
 	              [?h :block/marker ?marker]
