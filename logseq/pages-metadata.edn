@@ -692,6 +692,9 @@
  {:block/name "vite-logseq-plugin",
   :block/created-at 1648112780067,
   :block/updated-at 1648112780067}
+ {:block/name "vitest",
+  :block/created-at 1650421056802,
+  :block/updated-at 1650421056802}
  {:block/name "w3c 中文排版需求",
   :block/created-at 1646985731157,
   :block/updated-at 1646985731157}
@@ -739,7 +742,7 @@
   :block/updated-at 1649920782734}
  {:block/name "wed, 2022/04/20",
   :block/created-at 1650384085590,
-  :block/updated-at 1650384085590}
+  :block/updated-at 1650421093246}
  {:block/name "why pnpm use hard link instead of symbolic link_",
   :block/created-at 1646985731185,
   :block/updated-at 1646985731185}
