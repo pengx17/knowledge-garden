@@ -11,7 +11,3 @@
 .genshin {
   font-family: Genshin;
 }
-
-.journal-item + .w-full.p-4:last-child {
-  transform: translateY(160px);
-}
