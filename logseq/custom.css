@@ -120,10 +120,6 @@ html.is-native-iphone #left-sidebar {
   width: 100%;
 }
 
-#left-container#left-container {
-  overflow: initial !important;
-}
-
 #main-container {
   position: absolute;
   width: 100%;
