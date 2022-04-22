@@ -172,6 +172,12 @@
  {:block/name "ebpf",
   :block/created-at 1648610512178,
   :block/updated-at 1648610514745}
+ {:block/name "elasticsearch",
+  :block/created-at 1650593017248,
+  :block/updated-at 1650593017248}
+ {:block/name "elk",
+  :block/created-at 1650593017252,
+  :block/updated-at 1650593017252}
  {:block/name "es-module-shims",
   :block/created-at 1650469003509,
   :block/updated-at 1650469003509}
@@ -214,6 +220,9 @@
  {:block/name "fri, 2022/04/15",
   :block/created-at 1650469003837,
   :block/updated-at 1650469003837}
+ {:block/name "fri, 2022/04/22",
+  :block/created-at 1650593017091,
+  :block/updated-at 1650593017091}
  {:block/name "front-end performance 2021_ planning and metrics",
   :block/created-at 1650010329363,
   :block/updated-at 1650010329363}
@@ -304,6 +313,9 @@
  {:block/name "justfont_ 字型下載之前，先看看⋯⋯",
   :block/created-at 1650469024395,
   :block/updated-at 1650469024395}
+ {:block/name "kibana",
+  :block/created-at 1650593017247,
+  :block/updated-at 1650593017247}
  {:block/name "knowledge garden",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -355,6 +367,9 @@
  {:block/name "logseq/embed twitter",
   :block/created-at 1646985731308,
   :block/updated-at 1646985731308}
+ {:block/name "logstash",
+  :block/created-at 1650593017247,
+  :block/updated-at 1650593017247}
  {:block/name "magic-string",
   :block/created-at 1650469002447,
   :block/updated-at 1650469002447}
