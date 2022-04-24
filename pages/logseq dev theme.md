@@ -20,7 +20,7 @@ id:: 610173e1-964e-4fe6-8e57-ac177a2f1522
 	  later:: 1624458989486
 	  waiting:: 1624459000961
 	- CANCELED [#C] Canceled task
-		- NOW working task
+		- DONE working task
 		  later:: 1624459087696
 		  now:: 1624459089292
 - Progress Bar [:progress {:max 10 :value 3}]

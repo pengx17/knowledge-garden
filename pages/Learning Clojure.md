@@ -1,4 +1,5 @@
 icon:: 🧑‍🎓
+progress:: {{renderer :todomaster}}
 
 - NOW learn a lot from the comments from:  [What do beginners struggle with?]( https://clojureverse.org/t/what-do-beginners-struggle-with/5383)
   :LOGBOOK:
