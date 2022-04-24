@@ -225,7 +225,7 @@
   :block/updated-at 1650469003837}
  {:block/name "fri, 2022/04/22",
   :block/created-at 1650593017091,
-  :block/updated-at 1650593080852}
+  :block/updated-at 1650610212028}
  {:block/name "front-end performance 2021_ planning and metrics",
   :block/created-at 1650010329363,
   :block/updated-at 1650010329363}
@@ -352,6 +352,9 @@
  {:block/name "logseq plugin reload",
   :block/created-at 1647503831464,
   :block/updated-at 1647503831464}
+ {:block/name "logseq plugins",
+  :block/created-at 1650606518192,
+  :block/updated-at 1650606518192}
  {:block/name "logseq publish github action",
   :block/created-at 1646985730829,
   :block/updated-at 1648609844564}
@@ -566,6 +569,12 @@
  {:block/name "sat, 2022/03/26",
   :block/created-at 1650469002646,
   :block/updated-at 1650469002646}
+ {:block/name "sat, 2022/04",
+  :block/created-at 1650767661263,
+  :block/updated-at 1650767661263}
+ {:block/name "sat, 2022/04/23",
+  :block/created-at 1650643761508,
+  :block/updated-at 1650643761508}
  {:block/name "shadow-cljs",
   :block/created-at 1648276835382,
   :block/updated-at 1648298469811}
@@ -611,6 +620,9 @@
  {:block/name "sun, 2022/04/17",
   :block/created-at 1650469003901,
   :block/updated-at 1650469003901}
+ {:block/name "sun, 2022/04/24",
+  :block/created-at 1650729952969,
+  :block/updated-at 1650729952969}
  {:block/name "svelte",
   :block/created-at 1648539779586,
   :block/updated-at 1648542574108}
@@ -754,7 +766,7 @@
   :block/updated-at 1650469003687}
  {:block/name "wed, 2022/04/20",
   :block/created-at 1650469004070,
-  :block/updated-at 1650469098526}
+  :block/updated-at 1650768396693}
  {:block/name "why pnpm use hard link instead of symbolic link_",
   :block/created-at 1646985731185,
   :block/updated-at 1646985731185}
