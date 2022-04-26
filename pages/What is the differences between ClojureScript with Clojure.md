@@ -4,7 +4,7 @@
 		- Equality on numbers works like JavaScript, not Clojure: (= 0.0 0) ⇒ true
 	- Chars
 		- CLJS does not have char literal, but single char strings
-	- read
+	- Read
 		- The read and read-string functions are located in the `cljs.reader` namespace
 		- which are globally available in Clojure
 	- Concurrent

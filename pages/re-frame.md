@@ -1,2 +1,2 @@
-- {{renderer :linkpreview,http://day8.github.io/re-frame/}}
+- http://day8.github.io/re-frame/
 -
