@@ -67,6 +67,9 @@
  {:block/name "clipboarditem",
   :block/created-at 1647409898904,
   :block/updated-at 1647410849399}
+ {:block/name "clj-kondo",
+  :block/created-at 1651073031904,
+  :block/updated-at 1651073031904}
  {:block/name "clojure",
   :block/created-at 1646985730490,
   :block/updated-at 1646985730490}
@@ -665,12 +668,15 @@
  {:block/name "thu, 2022/04/21",
   :block/created-at 1650521540706,
   :block/updated-at 1650521540706}
+ {:block/name "thu, 2022/04/28",
+  :block/created-at 1651075201552,
+  :block/updated-at 1651076605961}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}
  {:block/name "tldraw",
   :block/created-at 1651064889981,
-  :block/updated-at 1651064889981}
+  :block/updated-at 1651076582069}
  {:block/name "todo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -772,7 +778,7 @@
   :block/updated-at 1650768396693}
  {:block/name "wed, 2022/04/27",
   :block/created-at 1650989995892,
-  :block/updated-at 1651064983955}
+  :block/updated-at 1651076588234}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1650956347019,
