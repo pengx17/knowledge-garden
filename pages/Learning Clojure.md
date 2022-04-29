@@ -31,6 +31,7 @@ alias:: Learning CLJ
 	- Reader
 	- Macros
 - Learning materials online
+  id:: 626bf4a6-d48a-4fcb-9aa9-24ca992cf983
 	- NOW https://exercism.org/tracks/clojure ⭐
 	  :LOGBOOK:
 	  CLOCK: [2022-03-10 Thu 16:23:38]

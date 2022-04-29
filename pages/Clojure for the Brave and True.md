@@ -103,3 +103,4 @@
 			- should be the same with `deref`?
 		- `promise` is a function which returns a promise instance that can be "resolved" by `deliver`
 		-
+-
