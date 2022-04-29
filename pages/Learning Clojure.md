@@ -65,9 +65,7 @@ alias:: Learning CLJ
 		  (js-invoke js/LSPluginCore "reload" id)
 		  ```
 - Style Guide
-  id:: 62666da7-2dbe-47f0-8d0b-8f2f9f249303
-	- {{renderer :linkpreview,https://guide.clojure.style/}}
-	  id:: 62666da7-7abb-4ce2-8674-0f46b51c038b
+	- https://guide.clojure.style/
 - Books
 	- [[Clojure for the Brave and True]]
 	- [[How to Design Programs, Second Edition]]
