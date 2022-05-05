@@ -67,7 +67,7 @@ alias:: Learning CLJ
 		  ```
 - [Clojure Style Guide](https://guide.clojure.style/)
   id:: 626ccf5a-8fa1-413b-bbaf-583728beb2d8
-	-
+-
 - Books
 	- [[Clojure for the Brave and True]]
 	- [[How to Design Programs, Second Edition]]
@@ -76,4 +76,4 @@ alias:: Learning CLJ
 - ---
 - Thoughts: Clojure’s stability can improve your lifestyle, [ref](https://github.com/braveclojure/bcjobs-blog/blob/master/source/2022-02-11-long-term-clojure-benefits.html.md)
 	- For JS, we have many kinds of tools to upgrade library version in CI (Renovate, dependbot, etc), but for Clojure, the API could stay for several years because of the simplicity of language.
-	-
+-
