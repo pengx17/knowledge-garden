@@ -1,0 +1,4 @@
+- [Start up guide](https://codemirror.net/6/docs/guide/#functional-core%2C-imperative-shell)
+	- `EditorState`, `view`
+	- Provide a `basic-setup` to quickly setup the baseline editor
+	-
