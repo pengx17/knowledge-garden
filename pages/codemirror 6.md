@@ -1,4 +1,15 @@
 - [Start up guide](https://codemirror.net/6/docs/guide/#functional-core%2C-imperative-shell)
-	- `EditorState`, `view`
+	- `EditorState`, `document`, `view`
 	- Provide a `basic-setup` to quickly setup the baseline editor
-	-
+	- ### "Functional Core, Imperative Shell"
+		- ==document, state data structures **are immutable**==
+			- direct changes to values will NOT have any effect
+		- view component exposes imperative API
+			- view's state is purely dependent on `EditorState`
+			- state will get updated via transactions
+	- ### Extension
+		- provided as values to editor state
+		- priority/precedence is determined by `Prec` and its ordering
+		- document (`Text`) is indexed by lines
+			- `let doc = Text.of(["line 1", "line 2", "line 3"])`
+		-
