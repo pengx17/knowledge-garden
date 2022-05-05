@@ -190,9 +190,6 @@
  {:block/name "draw tests",
   :block/created-at 1646985731216,
   :block/updated-at 1646985731216}
- {:block/name "draws/2022-04-30-14-07-55.excalidraw",
-  :block/created-at 1651501344368,
-  :block/updated-at 1651501344368}
  {:block/name "ebpf",
   :block/created-at 1648610512178,
   :block/updated-at 1648610514745}
@@ -680,12 +677,6 @@
  {:block/name "sun, 2022/04/24",
   :block/created-at 1650729952969,
   :block/updated-at 1650770344689}
- {:block/name "sun, 2022/05",
-  :block/created-at 1651501344368,
-  :block/updated-at 1651501344368}
- {:block/name "sun, 2022/05/01",
-  :block/created-at 1651339996924,
-  :block/updated-at 1651339996924}
  {:block/name "svelte",
   :block/created-at 1648539779586,
   :block/updated-at 1648542574108}
@@ -710,9 +701,6 @@
  {:block/name "test5",
   :block/created-at 1651255624204,
   :block/updated-at 1651255624204}
- {:block/name "test8",
-  :block/created-at 1651298780703,
-  :block/updated-at 1651298780703}
  {:block/name "thoughtworks radar",
   :block/created-at 1648609978069,
   :block/updated-at 1648610711177}
