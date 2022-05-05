@@ -12,4 +12,14 @@
 		- priority/precedence is determined by `Prec` and its ordering
 		- document (`Text`) is indexed by lines
 			- `let doc = Text.of(["line 1", "line 2", "line 3"])`
+		- Extensions could contribute different "Facet" of the state
+			- https://codemirror.net/6/docs/ref/#state.Facet%5Edefine
+	- ### Data Model
+	- ### Transactions
+		- created with state's update method
+		- if reseting a state, the best way is to provide the a completely new state
+		-
+	- Virtual rendering only the viewport
+		-
+		-
 		-
