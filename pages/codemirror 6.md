@@ -18,8 +18,4 @@
 	- ### Transactions
 		- created with state's update method
 		- if reseting a state, the best way is to provide the a completely new state
-		-
 	- Virtual rendering only the viewport
-		-
-		-
-		-
