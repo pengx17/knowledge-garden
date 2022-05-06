@@ -1,4 +1,5 @@
 - https://orgpad.com/o/D6TrZny7tNhYqWygzax7Wx
 - https://museapp.com/
 - https://www.scrintal.com/
+- https://blog.worldanvil.com/2022/04/02/whiteboards-take-your-creativity-to-the-next-level/ Used [[tldraw]]
 -
