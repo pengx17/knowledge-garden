@@ -175,6 +175,9 @@
  {:block/name "datomic",
   :block/created-at 1646984894545,
   :block/updated-at 1646984894545}
+ {:block/name "datomic query",
+  :block/created-at 1651813996950,
+  :block/updated-at 1651813996950}
  {:block/name "design",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -261,7 +264,7 @@
   :block/updated-at 1651806410885}
  {:block/name "fri, 2022/05/06",
   :block/created-at 1651766459607,
-  :block/updated-at 1651811902891}
+  :block/updated-at 1651814020332}
  {:block/name "front-end performance 2021_ planning and metrics",
   :block/created-at 1650010329363,
   :block/updated-at 1650010329363}
