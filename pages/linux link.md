@@ -1,9 +1,9 @@
 - Two types of links
-	- [[symbolic link]]
-		- a path reference to a file in a file system
-	- [[hard link]]
-		- a reference to the [[inode]] of a real file in a hard drive
-		- folders cannot be hard links
-		- [Why do hard links seem to take the same space as the originals?](https://unix.stackexchange.com/questions/88423/why-do-hard-links-seem-to-take-the-same-space-as-the-originals)
+  - [[symbolic link]]
+    - a path reference to a file in a file system
+  - [[hard link]]
+    - a reference to the [[inode]] of a real file in a hard drive
+    - folders cannot be hard links
+    - [Why do hard links seem to take the same space as the originals?](https://unix.stackexchange.com/questions/88423/why-do-hard-links-seem-to-take-the-same-space-as-the-originals)
 - Use `ls -i` command to see the inode numbers
 - [[Why pnpm use hard link instead of symbolic link?]]

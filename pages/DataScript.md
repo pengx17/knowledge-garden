@@ -1,22 +1,22 @@
 - A [[Datomic]] implementation in [[ClojureScript]]
 - Learning
-	- Example with JS/React https://codesandbox.io/s/datascript-test-forked-kpv91?file=/src/index.js:146-148  [[DataScript JS Playground]]
-	- DataScript tests in js
-		- https://github.com/tonsky/datascript/blob/master/test/js/tests.js
-	- A doc about datascript JS api
-		- https://github.com/kristianmandrup/datascript-tutorial/blob/master/javascript_api.md
-	- DataScript 101
-		- DONE https://udayv.com/blog/2016-05-06-datascript101-chapter2-uniqueness-and-indexing/
-		- DONE -1 index not working, how about `:db/current-tx`?
-	- React DataScript
-		- DONE https://github.com/gurdasnijor/react-datascript
-	- ClojureScript webinar https://vimeo.com/114688970
-	- https://github.dev/papercups-io/papercups
-		- https://github.com/guanghuizeng/papercupsused DataScript as the data store?
-	- https://github.com/MatrixAI/js-tree-order-index A TreeOrder algorithm based on datascript
+  - Example with JS/React https://codesandbox.io/s/datascript-test-forked-kpv91?file=/src/index.js:146-148 [[DataScript JS Playground]]
+  - DataScript tests in js
+    - https://github.com/tonsky/datascript/blob/master/test/js/tests.js
+  - A doc about datascript JS api
+    - https://github.com/kristianmandrup/datascript-tutorial/blob/master/javascript_api.md
+  - DataScript 101
+    - DONE https://udayv.com/blog/2016-05-06-datascript101-chapter2-uniqueness-and-indexing/
+    - DONE -1 index not working, how about `:db/current-tx`?
+  - React DataScript
+    - DONE https://github.com/gurdasnijor/react-datascript
+  - ClojureScript webinar https://vimeo.com/114688970
+  - https://github.dev/papercups-io/papercups
+    - https://github.com/guanghuizeng/papercupsused DataScript as the data store?
+  - https://github.com/MatrixAI/js-tree-order-index A TreeOrder algorithm based on datascript
 - builtin functions #[[datascript queries]]
   id:: 625e22a5-4e75-474d-b939-bd96b9ba9328
-	- https://github1s.com/tonsky/datascript/blob/master/src/datascript/built_ins.cljc#L96
+  - https://github1s.com/tonsky/datascript/blob/master/src/datascript/built_ins.cljc#L96
 - rules #[[datascript rules]]
-	- https://github.com/logseq/logseq/blob/master/src/main/frontend/db/rules.cljc
+  - https://github.com/logseq/logseq/blob/master/src/main/frontend/db/rules.cljc
 -

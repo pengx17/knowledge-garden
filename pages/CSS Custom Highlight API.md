@@ -1,5 +1,5 @@
 - https://css-tricks.com/css-custom-highlight-api-early-loo/
-	- This isn’t a simple problem to solve. We aren’t just wrapping text in a <span> with a class and applying some CSS. Indeed, this requires being able to correctly highlight multiple ranges of text across an arbitrarily complex DOM tree, and **possibly crossing the boundaries of DOM elements**.
-		- https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/s_8E0FC85C45E73C25EFCF623C768360F2F95DBDDEC338D5F6DE316BB0830F6F67_1643109885151_image.png?w=1129&ssl=1
-		- CodeMirror and Monaco renders a highlight overlay on top of the actual editor
-		-
+  - This isn’t a simple problem to solve. We aren’t just wrapping text in a <span> with a class and applying some CSS. Indeed, this requires being able to correctly highlight multiple ranges of text across an arbitrarily complex DOM tree, and **possibly crossing the boundaries of DOM elements**.
+    - https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/s_8E0FC85C45E73C25EFCF623C768360F2F95DBDDEC338D5F6DE316BB0830F6F67_1643109885151_image.png?w=1129&ssl=1
+    - CodeMirror and Monaco renders a highlight overlay on top of the actual editor
+    -
