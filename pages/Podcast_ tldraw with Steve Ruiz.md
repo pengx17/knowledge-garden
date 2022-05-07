@@ -1,0 +1,3 @@
+- https://www.slowandsteadypodcast.com/episodes/draft-steve-ruiz
+- 12:56 - people are taking TLDRAW by forking and do their own one
+-
