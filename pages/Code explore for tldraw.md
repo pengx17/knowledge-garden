@@ -2,6 +2,7 @@
 - does [[tldraw next]] provide custom shape definitions?
 - Joined the discord channel
 - Found [tldraw.dev](https://www.tldraw.dev/) in [discord](https://discord.com/channels/859816885297741824/914873545388064860/966228764600197140)
+  id:: 6bcfee03-8caa-4aad-ad61-a8575c4a2665
 	- tldraw provides the components and services you need to create whiteboards, creative tools and canvas experiences in your product.
 	- The author is building the next repo in a private fork [ref1](https://discord.com/channels/859816885297741824/926464446694580275/949283831767244821), [ref2](https://discord.com/channels/859816885297741824/916307888031563817/930370168947867659)
 	- ![image.png](../assets/image_1651918138169_0.png){:height 120, :width 787}
