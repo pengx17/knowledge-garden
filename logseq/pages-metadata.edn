@@ -1,6 +1,28 @@
 [{:block/name "04dfc0c4-1f89-4b9c-add8-6b82685bb795",
   :block/created-at 1648542465658,
   :block/updated-at 1648542465658}
+ {:block/name "1626361164781 - e.g.",
+  :block/created-at 1651914855131,
+  :block/updated-at 1651914855131}
+ {:block/name "1626361790582 - to deal with complex codes",
+  :block/created-at 1651914855133,
+  :block/updated-at 1651914855133}
+ {:block/name "1626363446669 -",
+  :block/created-at 1651914855135,
+  :block/updated-at 1651914855135}
+ {:block/name "1626363547096 -",
+  :block/created-at 1651914855140,
+  :block/updated-at 1651914855140}
+ {:block/name "1626363555913 -",
+  :block/created-at 1651914855136,
+  :block/updated-at 1651914855136}
+ {:block/name
+  "1626363590037 - it is trained on all public repos in github",
+  :block/created-at 1651914855135,
+  :block/updated-at 1651914855135}
+ {:block/name "1627632313054 - build a",
+  :block/created-at 1651914855562,
+  :block/updated-at 1651914855562}
  {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1646207546562,
   :block/updated-at 1646207546562}
@@ -16,6 +38,9 @@
  {:block/name "__esmodule",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
+ {:block/name "_tests_ without the toil",
+  :block/created-at 1651914855132,
+  :block/updated-at 1651914855132}
  {:block/name "a",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -37,12 +62,18 @@
  {:block/name "assemblyscript",
   :block/created-at 1646985730464,
   :block/updated-at 1646985730464}
+ {:block/name "autofill for _repetitive_ code",
+  :block/created-at 1651914855132,
+  :block/updated-at 1651914855132}
  {:block/name "b",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
  {:block/name "babashka",
   :block/created-at 1646985730707,
   :block/updated-at 1646985730707}
+ {:block/name "biz logic",
+  :block/created-at 1651914855134,
+  :block/updated-at 1651914855134}
  {:block/name "blob tricks",
   :block/created-at 1649699209367,
   :block/updated-at 1649699209367}
@@ -55,6 +86,14 @@
  {:block/name "bugs",
   :block/created-at 1650593100210,
   :block/updated-at 1650593251784}
+ {:block/name
+  "but it’s still possible to get the model to suggest this sort of content _if you try hard enough_.",
+  :block/created-at 1651914855139,
+  :block/updated-at 1651914855139}
+ {:block/name
+  "but some open source licenses don’t allow derivative works",
+  :block/created-at 1651914855136,
+  :block/updated-at 1651914855136}
  {:block/name "c",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -100,6 +139,9 @@
  {:block/name "clojurescript ui frameworks",
   :block/created-at 1648623355767,
   :block/updated-at 1648624034272}
+ {:block/name "code explore for tldraw",
+  :block/created-at 1651918153853,
+  :block/updated-at 1651919087710}
  {:block/name "code kitchen",
   :block/created-at 1646207546562,
   :block/updated-at 1651133662098}
@@ -118,6 +160,9 @@
  {:block/name "codex",
   :block/created-at 1646985730508,
   :block/updated-at 1646985730508}
+ {:block/name "component (web) styles",
+  :block/created-at 1651914855134,
+  :block/updated-at 1651914855134}
  {:block/name "components.ai",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -127,12 +172,18 @@
  {:block/name "computational  notebooks",
   :block/created-at 1649838112905,
   :block/updated-at 1649838138544}
+ {:block/name "conflicts with open source license",
+  :block/created-at 1651914855135,
+  :block/updated-at 1651914855135}
  {:block/name "contents",
   :block/created-at 1648179685496,
   :block/updated-at 1648179685496}
  {:block/name "contributions",
   :block/created-at 1646985730444,
   :block/updated-at 1646985730444}
+ {:block/name "convert _comments_ to code",
+  :block/created-at 1651914855131,
+  :block/updated-at 1651914855131}
  {:block/name "cool tech",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -226,6 +277,9 @@
  {:block/name "excalidraw",
   :block/created-at 1651160522861,
   :block/updated-at 1651160522861}
+ {:block/name "external libraries",
+  :block/created-at 1651914855134,
+  :block/updated-at 1651914855134}
  {:block/name "favorites",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -310,6 +364,9 @@
  {:block/name "graphql",
   :block/created-at 1645083481545,
   :block/updated-at 1645083481545}
+ {:block/name "guess your code's intent which yourself may don't know",
+  :block/created-at 1651914855131,
+  :block/updated-at 1651914855131}
  {:block/name "hackernews",
   :block/created-at 1651297929515,
   :block/updated-at 1651297929515}
@@ -358,6 +415,9 @@
  {:block/name "jun 19th, 2021",
   :block/created-at 1624060800000,
   :block/updated-at 1624060800000}
+ {:block/name "justfont_ 字型下載之前，先看看 ⋯⋯",
+  :block/created-at 1651914855067,
+  :block/updated-at 1651914855067}
  {:block/name "justfont_ 字型下載之前，先看看⋯⋯",
   :block/created-at 1650469024395,
   :block/updated-at 1650469024395}
@@ -370,6 +430,9 @@
  {:block/name "later",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "leaking sensitive personal data",
+  :block/created-at 1651914855137,
+  :block/updated-at 1651914855137}
  {:block/name "learning clj",
   :block/created-at 1651242141725,
   :block/updated-at 1651242141725}
@@ -533,6 +596,9 @@
  {:block/name "nginx",
   :block/created-at 1646985731348,
   :block/updated-at 1646985731348}
+ {:block/name "no matter what is the license",
+  :block/created-at 1651914855136,
+  :block/updated-at 1651914855136}
  {:block/name "no more tofu",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -569,6 +635,9 @@
  {:block/name "playwright",
   :block/created-at 1646985730819,
   :block/updated-at 1646985730819}
+ {:block/name "podcast_ tldraw with steve ruiz",
+  :block/created-at 1651906285298,
+  :block/updated-at 1651908035063}
  {:block/name "re-frame",
   :block/created-at 1650469003087,
   :block/updated-at 1650958182689}
@@ -652,7 +721,37 @@
   :block/updated-at 1651854272954}
  {:block/name "sat, 2022/05/07",
   :block/created-at 1651852802619,
-  :block/updated-at 1651854036518}
+  :block/updated-at 1651918153853}
+ {:block/name "see - https_",
+  :block/created-at 1651914855564,
+  :block/updated-at 1651914855564}
+ {:block/name "see - https_//pengx17-logseq.builtwithdark.com",
+  :block/created-at 1651914855564,
+  :block/updated-at 1651914855564}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_",
+  :block/created-at 1651914855565,
+  :block/updated-at 1651914855565}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_//codesandbox.io",
+  :block/created-at 1651914855566,
+  :block/updated-at 1651914855566}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_//codesandbox.io/s",
+  :block/created-at 1651914855566,
+  :block/updated-at 1651914855566}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_//codesandbox.io/s/74rn3r9k0_fontsize=14&file=",
+  :block/created-at 1651914855567,
+  :block/updated-at 1651914855567}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_//codesandbox.io/s/74rn3r9k0_fontsize=14&file=/src",
+  :block/created-at 1651914855567,
+  :block/updated-at 1651914855567}
+ {:block/name
+  "see - https_//pengx17-logseq.builtwithdark.com/get-tweet_id=1362050255009816577 - and this `react-tweet-embed` looks promising to be used in logseq - codesandbox_ https_//codesandbox.io/s/74rn3r9k0_fontsize=14&file=/src/index.tsx_83-100",
+  :block/created-at 1651914855563,
+  :block/updated-at 1651914855563}
  {:block/name "shadow-cljs",
   :block/created-at 1648276835382,
   :block/updated-at 1648298469811}
@@ -701,6 +800,12 @@
  {:block/name "sun, 2022/04/24",
   :block/created-at 1650729952969,
   :block/updated-at 1650770344689}
+ {:block/name "sun, 2022/05",
+  :block/created-at 1652003725292,
+  :block/updated-at 1652003725292}
+ {:block/name "sun, 2022/05/08",
+  :block/created-at 1651939338505,
+  :block/updated-at 1652001213956}
  {:block/name "svelte",
   :block/created-at 1648539779586,
   :block/updated-at 1648542574108}
@@ -716,6 +821,9 @@
  {:block/name "tailwind ui",
   :block/created-at 1646993473557,
   :block/updated-at 1646993505706}
+ {:block/name "telemetry issues",
+  :block/created-at 1651914855140,
+  :block/updated-at 1651914855140}
  {:block/name "test123",
   :block/created-at 1651255029807,
   :block/updated-at 1651255052379}
@@ -773,9 +881,15 @@
  {:block/name "tldraw",
   :block/created-at 1651064889981,
   :block/updated-at 1651076582069}
+ {:block/name "tldraw next",
+  :block/created-at 1651913068108,
+  :block/updated-at 1651913068108}
  {:block/name "todo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "true - for the technical preview",
+  :block/created-at 1651914855138,
+  :block/updated-at 1651914855138}
  {:block/name "tue, 2022",
   :block/created-at 1646984894544,
   :block/updated-at 1646984894544}
@@ -809,6 +923,9 @@
  {:block/name "tue, 2022/05/03",
   :block/created-at 1651510732477,
   :block/updated-at 1651569795362}
+ {:block/name "tweet content getter",
+  :block/created-at 1651914855563,
+  :block/updated-at 1651914855563}
  {:block/name "twoslash",
   :block/created-at 1650469003599,
   :block/updated-at 1650469003599}
@@ -842,6 +959,10 @@
  {:block/name "wasm",
   :block/created-at 1646985730464,
   :block/updated-at 1646985730464}
+ {:block/name
+  "we have implemented a rudimentary filter that blocks emails when shown in standard formats",
+  :block/created-at 1651914855139,
+  :block/updated-at 1651914855139}
  {:block/name "web api intl",
   :block/created-at 1650469003234,
   :block/updated-at 1650469003234}
@@ -915,6 +1036,9 @@
  {:block/name "字体",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
+ {:block/name "小红书_ 52 设计原则",
+  :block/created-at 1651914856629,
+  :block/updated-at 1651914856629}
  {:block/name "小红书_ 52设计原则",
   :block/created-at 1647840803537,
   :block/updated-at 1647840805691}
