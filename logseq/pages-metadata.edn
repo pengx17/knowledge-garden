@@ -469,6 +469,9 @@
  {:block/name "logseq publish github action",
   :block/created-at 1646985730829,
   :block/updated-at 1648609844564}
+ {:block/name "logseq query playground ui",
+  :block/created-at 1652079302128,
+  :block/updated-at 1652079302128}
  {:block/name "logseq theme",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
@@ -560,6 +563,9 @@
  {:block/name "mon, 2022/05/02",
   :block/created-at 1651420807122,
   :block/updated-at 1651510775149}
+ {:block/name "mon, 2022/05/09",
+  :block/created-at 1652079235852,
+  :block/updated-at 1652110217647}
  {:block/name "mono wang",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
