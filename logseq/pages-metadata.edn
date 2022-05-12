@@ -35,6 +35,10 @@
  {:block/name "@rollup/plugin-node-resolve",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
+ {:block/name
+  "[microfe] container to support alternative layout tech design",
+  :block/created-at 1652354130707,
+  :block/updated-at 1652354130707}
  {:block/name "__esmodule",
   :block/created-at 1645599789376,
   :block/updated-at 1645599789376}
