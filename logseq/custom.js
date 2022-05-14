@@ -55,14 +55,16 @@ function initHeti() {
   script$.src = "https://unpkg.com/heti/umd/heti-addon.min.js";
   document.body.append(script$);
 
-  const style$ = document.createElement("style");
-  style$.src = "https://unpkg.com/heti/umd/heti.min.css";
-  document.head.append(style$);
+  const style$ = document.createElement("link");
+  style$.href = "https://unpkg.com/heti/umd/heti.min.css";
+  style$.rel = "stylesheet";
+  document.body.append(style$);
 
   script$.onload = () => {
     const heti = new window.Heti();
     document.querySelectorAll(".block-content-wrapper").forEach((el) => {
       heti.spacingElement(el);
+      el.classList.add('heti');
     });
 
     const observer = new MutationObserver((mutations) => {
@@ -71,6 +73,7 @@ function initHeti() {
           mutation.type === "childList" &&
           mutation.target.classList.contains("block-content-wrapper")
         ) {
+          mutation.target.classList.add('heti');
           heti.spacingElement(mutation.target);
         }
       });
@@ -83,4 +86,5 @@ function initHeti() {
   };
 }
 
-initHeti();
+// Not working
+// initHeti();
