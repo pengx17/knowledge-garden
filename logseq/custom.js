@@ -61,11 +61,18 @@ function initHeti() {
 
   script$.onload = () => {
     const heti = new window.Heti();
-    heti.spacingElement(document.querySelector("#main-content-container"));
+    document.querySelectorAll(".block-content-wrapper").forEach((el) => {
+      heti.spacingElement(el);
+    });
 
     const observer = new MutationObserver((mutations) => {
       mutations.forEach((mutation) => {
-        console.log(mutation);
+        if (
+          mutation.type === "childList" &&
+          mutation.target.classList.contains("block-content-wrapper")
+        ) {
+          heti.spacingElement(mutation.target);
+        }
       });
     });
 
