@@ -1,4 +1,5 @@
 - ## dev issues
+  id:: 62793896-81b7-4a97-a5db-7ac22841fef8
 	- tldraw uses class syntax for defining shapes and it makes defining shapes in Logseq code base not possible
 	- current build process on a change
 		- build `@tldraw/react` with `yarn` (build in postinstall script)
