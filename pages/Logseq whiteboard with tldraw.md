@@ -1,0 +1,10 @@
+- ## dev issues
+	- tldraw uses class syntax for defining shapes and it makes defining shapes in Logseq code base not possible
+	- current build process on a change
+		- build `@tldraw/react` with `yarn` (build in postinstall script)
+		- build `tldraw-logseq` (`yarn build` or `yarn dev`)
+		- testing `tldraw-logseq` is a pain
+			- started a pure js (vite) environment as a compliment to the cljs demo
+		- once `tldraw-logseq` is ready, move the built assets to Logseq
+		- watching mode for Logseq takes a looong time! Stuck in waiting for `remote-relay` socket connection :(
+	-
