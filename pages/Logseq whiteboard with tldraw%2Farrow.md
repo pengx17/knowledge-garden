@@ -12,7 +12,9 @@ title:: Logseq whiteboard with tldraw/arrow
 		- `component` -> `ReactComponent`
 		- what is `Indicator`?
 			- it is the overlay that when the shape is being selected
-			-
+	- `ArrowSession`
+		- what is a Session?
+		- seems like an update
 - LATER automatic arrow rendering for shapes in the whiteboard
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
