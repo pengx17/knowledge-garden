@@ -11,6 +11,8 @@ title:: Logseq whiteboard with tldraw/arrow
 		- `getShape`: seems to be `defaultProps` in 2.0
 		- `component` -> `ReactComponent`
 		- what is `Indicator`?
+			- it is the overlay that when the shape is being selected
+			-
 - LATER automatic arrow rendering for shapes in the whiteboard
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
