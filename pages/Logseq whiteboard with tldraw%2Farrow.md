@@ -37,4 +37,5 @@ title:: Logseq whiteboard with tldraw/arrow
 	-
 - Using `perfect-freehand` to draw arrows instead of `perfect-arrow`
 - The text shape has a `getAutoSizedBoundingBox`
+- In version 2, actions are modeled into state machines. e.g., `ResizingState`
 -
