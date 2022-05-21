@@ -22,4 +22,5 @@ title:: Logseq whiteboard with tldraw/arrow
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
   :END:
--
+- Seems very interesting to read https://www.steveruiz.me/posts/zoom-ui, which explains how to make an infinite canvas
+- Using `perfect-freehand` to draw arrows instead of `perfect-arrow`
