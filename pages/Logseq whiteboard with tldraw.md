@@ -20,8 +20,9 @@ private:: true
 		- `(shortcut/mixin :shortcut.handler/block-editing-only)` should be manually invoked ?
 -
 - {{renderer :todomaster}}
-	- LATER 调整创建 Logseq shape 的逻辑，目前创建一个空卡片的行为有点奇怪。比如，点击 Logseq shape tool 的时候自动触发搜索功能 (cmd+k)，选完后创建shape在鼠标当前位置创建卡片，并已经是选中状态，允许用户移动卡片位置。
+	- DONE 调整创建 Logseq shape 的逻辑，目前创建一个空卡片的行为有点奇怪。比如，点击 Logseq shape tool 的时候自动触发搜索功能 (cmd+k)，选完后创建shape在鼠标当前位置创建卡片，并已经是选中状态，允许用户移动卡片位置。
 		- 可以参考 https://dragonman225.js.org/p/jade/index.html
+		- LATER 参考 heptabase 用 wheel 事件结束来标记滚动结束?
 	- LATER 可以折叠 shape，只显示 title header，
 	- LATER 单击 shape 选中 shape （可以变化形状等）, 双击 shape 进入 logseq 编辑状态，自动将第一个 block 变成编辑状态。
 	- DONE logseq shape 阻止 pan 的问题：记录当前canvas移动速度，如果速度大于零就继续pan，不然就让 logseq shape 拦截 wheel 事件
@@ -30,4 +31,4 @@ private:: true
 	  :END:
 	- LATER Dark mode
 	- Hold shift to enable scrolling?
--
+	-
