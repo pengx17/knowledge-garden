@@ -20,6 +20,8 @@ title:: Logseq whiteboard with tldraw/arrow
 - LATER automatic arrow rendering for shapes in the whiteboard
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
+  CLOCK: [2022-05-21 Sat 16:21:25]--[2022-05-21 Sat 16:21:26] =>  00:00:01
+  CLOCK: [2022-05-21 Sat 16:21:26]--[2022-05-21 Sat 16:21:27] =>  00:00:01
   :END:
 - DONE Very interesting to read https://www.steveruiz.me/posts/zoom-ui, which explains how to make an infinite canvas, camera etc
 - DONE https://www.steveruiz.me/posts/perfect-dragging explains dragging
