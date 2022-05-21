@@ -31,10 +31,11 @@ private:: true
 	  :END:
 	- LATER Dark mode
 	- ~~Hold shift to enable scrolling?~~
-	- NOW Find out why shortcuts not working?
+	- DONE Find out why shortcuts not working?
 	  :LOGBOOK:
-	  CLOCK: [2022-05-21 Sat 18:28:36]
+	  CLOCK: [2022-05-21 Sat 18:28:36]--[2022-05-21 Sat 18:47:35] =>  00:18:59
 	  :END:
 		- registered using https://github.com/ccampbell/mousetrap - https://craig.is/killing/mice
 		- 1.0 is using https://github.com/JohannesKlauss/react-hotkeys-hook
-		-
+		- Caused by React strict mode https://twitter.com/schickling/status/1523378971458498560
+	-
