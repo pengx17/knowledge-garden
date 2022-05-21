@@ -36,4 +36,5 @@ title:: Logseq whiteboard with tldraw/arrow
 		  You can freely adjust the delta with features like snapping, precision mode, or elastic bounds.
 	-
 - Using `perfect-freehand` to draw arrows instead of `perfect-arrow`
-- what is `getAutoSizedBoundingBox`?
+- The text shape has a `getAutoSizedBoundingBox`
+-
