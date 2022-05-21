@@ -17,7 +17,6 @@ title:: Logseq whiteboard with tldraw/arrow
 		- seems like an update "transaction" for a shape?
 			- when there is some events fired, the embedded shapes will get notified on every frame
 			-
-		-
 - LATER automatic arrow rendering for shapes in the whiteboard
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
@@ -38,4 +37,9 @@ title:: Logseq whiteboard with tldraw/arrow
 - Using `perfect-freehand` to draw arrows instead of `perfect-arrow`
 - The text shape has a `getAutoSizedBoundingBox`
 - In version 2, actions are modeled into state machines. e.g., `ResizingState`
--
+- Hit tests
+	- `hitTestBounds` for selection shapes
+	- `hitTestPoint` and `hitTestLineSegment` for erasing
+- Arrow binding
+	- `canBind` property in shape
+	-
