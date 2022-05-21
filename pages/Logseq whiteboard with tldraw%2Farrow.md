@@ -42,6 +42,7 @@ title:: Logseq whiteboard with tldraw/arrow
 	- `hitTestBounds` for selection shapes
 	- `hitTestPoint` and `hitTestLineSegment` for erasing
 - Arrow/Line ==binding==
+	- Line shape is a special arrow without heads
 	- v1: `canBind` property in shape
 		- my initial thoughts:
 			- an arrow can bind to zero-to-two bindable shapes
