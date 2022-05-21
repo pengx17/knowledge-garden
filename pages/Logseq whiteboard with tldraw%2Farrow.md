@@ -22,9 +22,10 @@ title:: Logseq whiteboard with tldraw/arrow
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
   :END:
 - DONE Very interesting to read https://www.steveruiz.me/posts/zoom-ui, which explains how to make an infinite canvas, camera etc
-- NOW https://www.steveruiz.me/posts/perfect-dragging explains dragging
+- DONE https://www.steveruiz.me/posts/perfect-dragging explains dragging
+  collapsed:: true
   :LOGBOOK:
-  CLOCK: [2022-05-21 Sat 10:35:59]
+  CLOCK: [2022-05-21 Sat 10:35:59]--[2022-05-21 Sat 14:25:17] =>  03:49:18
   :END:
 	- using movement delta from dragging start to dragging current position, instead of the delta between last two pointer positions
 		- ![image.png](../assets/image_1653101221064_0.png)
@@ -40,6 +41,10 @@ title:: Logseq whiteboard with tldraw/arrow
 - Hit tests
 	- `hitTestBounds` for selection shapes
 	- `hitTestPoint` and `hitTestLineSegment` for erasing
-- Arrow binding
-	- `canBind` property in shape
-	-
+- Arrow/Line ==binding==
+	- v1: `canBind` property in shape
+		- my initial thoughts:
+			- an arrow can bind to zero-to-two bindable shapes
+			- binding indicator
+	- next: seems not yet implemented
+-
