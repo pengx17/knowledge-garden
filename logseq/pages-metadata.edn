@@ -90,6 +90,9 @@
  {:block/name "bugs",
   :block/created-at 1650593100210,
   :block/updated-at 1650593251784}
+ {:block/name "build logseq app locally",
+  :block/created-at 1653048454948,
+  :block/updated-at 1653048454948}
  {:block/name
   "but it’s still possible to get the model to suggest this sort of content _if you try hard enough_.",
   :block/created-at 1651914855139,
@@ -352,7 +355,7 @@
   :block/updated-at 1652374793026}
  {:block/name "fri, 2022/05/20",
   :block/created-at 1653034192381,
-  :block/updated-at 1653034192381}
+  :block/updated-at 1653050409399}
  {:block/name "front-end performance 2021_ planning and metrics",
   :block/created-at 1650010329363,
   :block/updated-at 1650010329363}
@@ -509,6 +512,9 @@
  {:block/name "logseq whiteboard with tldraw",
   :block/created-at 1651128385458,
   :block/updated-at 1652802145912}
+ {:block/name "logseq whiteboard with tldraw/arrow",
+  :block/created-at 1653050409396,
+  :block/updated-at 1653100560521}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1650469004008,
   :block/updated-at 1650469004008}
@@ -768,6 +774,9 @@
  {:block/name "sat, 2022/05/14",
   :block/created-at 1652457911866,
   :block/updated-at 1652595690451}
+ {:block/name "sat, 2022/05/21",
+  :block/created-at 1653062403386,
+  :block/updated-at 1653062403386}
  {:block/name "see - https_",
   :block/created-at 1651914855564,
   :block/updated-at 1651914855564}
