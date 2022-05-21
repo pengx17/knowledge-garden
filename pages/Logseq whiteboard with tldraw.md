@@ -30,5 +30,5 @@ private:: true
 	  CLOCK: [2022-05-17 Tue 22:36:40]--[2022-05-18 Wed 22:25:58] =>  23:49:18
 	  :END:
 	- LATER Dark mode
-	- Hold shift to enable scrolling?
+	- ~~Hold shift to enable scrolling?~~
 	-
