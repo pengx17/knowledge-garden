@@ -27,6 +27,12 @@ title:: Logseq whiteboard with tldraw/arrow
   :LOGBOOK:
   CLOCK: [2022-05-21 Sat 10:35:59]
   :END:
-	- using movement delta instead of the
--
+	- using movement delta from dragging start to dragging current position, instead of the delta between last two pointer positions
+		- ![image.png](../assets/image_1653101221064_0.png)
+	- By remember the start position, we could do some features more robustly
+		- You can implement a "dead zone" to prevent accidental drags.
+		  You can update the position while scrolling during the drag.
+		  You can restore a shape's position if the user cancels the drag.
+		  You can freely adjust the delta with features like snapping, precision mode, or elastic bounds.
+	-
 - Using `perfect-freehand` to draw arrows instead of `perfect-arrow`
