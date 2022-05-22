@@ -53,4 +53,5 @@ title:: Logseq whiteboard with tldraw/arrow
 			- binding indicator
 	- next: seems not yet implemented
 		- enhance `TranslatingHandleState`
-	-
+		- Creating & Translating is two different states in next
+		-
