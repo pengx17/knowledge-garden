@@ -14,9 +14,10 @@ title:: Logseq whiteboard with tldraw/arrow
 			- it is the overlay that when the shape is being selected
 	- `ArrowSession`
 		- what is a Session?
-		- seems like an update "transaction" for a shape?
-			- when there is some events fired, the embedded shapes will get notified on every frame
-			-
+			- seems like an update "transaction" for a shape?
+				- when there is some events fired, the embedded shapes will get notified on every frame
+		- See https://github.com/tldraw/tldraw/blob/main/packages/tldraw/src/state/sessions/about-sessions.md
+			- In next version, it is now replaced by an array of  states
 - LATER automatic arrow rendering for shapes in the whiteboard
   :LOGBOOK:
   CLOCK: [2022-05-20 Fri 20:41:19]--[2022-05-20 Fri 20:41:20] =>  00:00:01
