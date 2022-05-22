@@ -52,4 +52,5 @@ title:: Logseq whiteboard with tldraw/arrow
 			- an arrow can bind to zero-to-two bindable shapes
 			- binding indicator
 	- next: seems not yet implemented
--
+		- enhance `TranslatingHandleState`
+	-
