@@ -55,7 +55,6 @@ title:: Logseq whiteboard with tldraw/arrow
 		- enhance `TranslatingHandleState`
 		- Creating & Translating is two different states in next
 		- How does 1.0 handles arrow handle points snapping?
-			- at the end of every update cycle, it will call `cleanup`
+			- **at the end of every update cycle, it will call `cleanup` in `TldrawApp`**   ⭐️
 			- which will then call `TLDR#updateArrowBindings`
-		-
 -
