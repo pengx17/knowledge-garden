@@ -1010,7 +1010,7 @@
   :block/updated-at 1652718587806}
  {:block/name "tue, 2022/05/24",
   :block/created-at 1653321600241,
-  :block/updated-at 1653368026593}
+  :block/updated-at 1653370181495}
  {:block/name "tweet content getter",
   :block/created-at 1651914855563,
   :block/updated-at 1651914855563}
