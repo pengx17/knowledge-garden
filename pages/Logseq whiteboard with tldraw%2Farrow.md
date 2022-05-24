@@ -57,4 +57,9 @@ title:: Logseq whiteboard with tldraw/arrow
 		- How does 1.0 handles arrow handle points snapping?
 			- **at the end of every update cycle, it will call `cleanup` in `TldrawApp`**, which calls `updateArrowBindings`  ⭐️
 			- which will then call `TLDR#updateArrowBindings`
--
+- NOW Change from arrays to maps
+  :LOGBOOK:
+  CLOCK: [2022-05-24 Tue 21:52:20]
+  :END:
+	- It is easier for merging states etc
+	-
