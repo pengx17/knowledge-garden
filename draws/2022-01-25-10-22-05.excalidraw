@@ -1,1 +1,10 @@
-{"type":"excalidraw","version":2,"source":"https://logseq.com","elements":[{"type":"text","version":5,"versionNonce":1513667894,"isDeleted":true,"id":"YGd2DQ07tFgscbogq90U6","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":432.33333333333337,"y":230.88888888888894,"strokeColor":"#000000","backgroundColor":"transparent","width":10,"height":25,"seed":1740206774,"groupIds":[],"strokeSharpness":"sharp","boundElementIds":[],"fontSize":20,"fontFamily":1,"text":"","baseline":18,"textAlign":"left","verticalAlign":"top"},{"type":"text","version":5,"versionNonce":361591350,"isDeleted":true,"id":"14fSuXcUN298VVuXRM5F2","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":751.2222222222223,"y":205.33333333333337,"strokeColor":"#000000","backgroundColor":"transparent","width":10,"height":25,"seed":809985974,"groupIds":[],"strokeSharpness":"sharp","boundElementIds":[],"fontSize":20,"fontFamily":1,"text":"","baseline":18,"textAlign":"left","verticalAlign":"top"},{"id":"EhEWmYTXW1e2ds-aahtvx","type":"rectangle","x":205.41412353515625,"y":122.52877807617188,"width":0,"height":0,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"sharp","seed":1012428330,"version":1,"versionNonce":0,"isDeleted":false,"boundElementIds":null}],"appState":{"gridSize":null,"viewBackgroundColor":"#FFF"}}
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}
