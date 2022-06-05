@@ -340,6 +340,12 @@
  {:block/name "fri, 2022/05/27",
   :block/created-at 1653580803060,
   :block/updated-at 1653621569113}
+ {:block/name "fri, 2022/06",
+  :block/created-at 1654425296127,
+  :block/updated-at 1654425296127}
+ {:block/name "fri, 2022/06/03",
+  :block/created-at 1654185609616,
+  :block/updated-at 1654185609616}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1654069280641,
   :block/updated-at 1654069280641}
@@ -490,6 +496,9 @@
  {:block/name "logseq whiteboard with tldraw/arrow",
   :block/created-at 1653050409396,
   :block/updated-at 1653661143072}
+ {:block/name "logseq whiteboard with tldraw/context menu drifting",
+  :block/created-at 1654109827889,
+  :block/updated-at 1654143767110}
  {:block/name "logseq whiteboard with tldraw/pointer offset",
   :block/created-at 1653890290605,
   :block/updated-at 1653890323239}
@@ -779,6 +788,12 @@
  {:block/name "sat, 2022/05/28",
   :block/created-at 1653667203811,
   :block/updated-at 1653723957588}
+ {:block/name "sat, 2022/06",
+  :block/created-at 1654425296127,
+  :block/updated-at 1654425296127}
+ {:block/name "sat, 2022/06/04",
+  :block/created-at 1654274339841,
+  :block/updated-at 1654274339841}
  {:block/name "see - https:",
   :block/created-at 1654069285116,
   :block/updated-at 1654069285116}
@@ -869,6 +884,12 @@
  {:block/name "sun, 2022/05/22",
   :block/created-at 1653149498493,
   :block/updated-at 1653190030953}
+ {:block/name "sun, 2022/06",
+  :block/created-at 1654425296127,
+  :block/updated-at 1654425296127}
+ {:block/name "sun, 2022/06/05",
+  :block/created-at 1654358457083,
+  :block/updated-at 1654425360561}
  {:block/name "svelte",
   :block/created-at 1648539779586,
   :block/updated-at 1648542574108}
@@ -946,7 +967,7 @@
   :block/updated-at 1654109741334}
  {:block/name "thu, 2022/06/02",
   :block/created-at 1654109698160,
-  :block/updated-at 1654109736265}
+  :block/updated-at 1654425049341}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}
