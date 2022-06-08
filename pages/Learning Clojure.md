@@ -2,10 +2,10 @@ icon:: 🧑‍🎓
 progress:: {{renderer :todomaster}}
 alias:: Learning CLJ
 
-- NOW learn a lot from the comments from: [What do beginners struggle with?](https://clojureverse.org/t/what-do-beginners-struggle-with/5383)
+- DONE learn a lot from the comments from: [What do beginners struggle with?](https://clojureverse.org/t/what-do-beginners-struggle-with/5383)
   :LOGBOOK:
   CLOCK: [2022-03-04 Fri 10:44:23]--[2022-03-05 Sat 15:12:40] => 28:28:17
-  CLOCK: [2022-03-05 Sat 15:12:41]
+  CLOCK: [2022-03-05 Sat 15:12:41]--[2022-06-08 Wed 14:28:48] =>  2279:16:07
   :END:
 	- require / ns syntax
 		- `(require ..)` vs `(ns .. (:require ..))`

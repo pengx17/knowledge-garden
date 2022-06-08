@@ -8,4 +8,5 @@ title:: Logseq whiteboard with tldraw/preview
 	  :LOGBOOK:
 	  CLOCK: [2022-06-08 Wed 14:10:40]
 	  :END:
-		- I think most of the data required for drawing are already there
+		- I think most of the data required for drawing are already there in the .tldr file. Shape rendering is done by rendering the components, which are either raw HTML elements or SVG.
+		- Should we split the SVG rendering from React component, so that this can be used for both rendering & export

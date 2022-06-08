@@ -453,7 +453,7 @@
   :block/updated-at 1651242141725}
  {:block/name "learning clojure",
   :block/created-at 1646985730499,
-  :block/updated-at 1647484774545}
+  :block/updated-at 1654669728214}
  {:block/name "leiningen",
   :block/created-at 1651298138078,
   :block/updated-at 1651298138078}
@@ -492,7 +492,7 @@
   :block/updated-at 1641967503322}
  {:block/name "logseq whiteboard with tldraw",
   :block/created-at 1651128385458,
-  :block/updated-at 1653130065878}
+  :block/updated-at 1654669694769}
  {:block/name "logseq whiteboard with tldraw/arrow",
   :block/created-at 1653050409396,
   :block/updated-at 1653661143072}
@@ -502,6 +502,9 @@
  {:block/name "logseq whiteboard with tldraw/pointer offset",
   :block/created-at 1653890290605,
   :block/updated-at 1653890323239}
+ {:block/name "logseq whiteboard with tldraw/preview",
+  :block/created-at 1654668198994,
+  :block/updated-at 1654669603535}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1650469004008,
   :block/updated-at 1650469004008}
@@ -1134,6 +1137,9 @@
  {:block/name "wed, 2022/06/01",
   :block/created-at 1654063246541,
   :block/updated-at 1654067310882}
+ {:block/name "wed, 2022/06/08",
+  :block/created-at 1654668081286,
+  :block/updated-at 1654668198995}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1650956347019,
