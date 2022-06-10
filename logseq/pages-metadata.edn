@@ -346,6 +346,9 @@
  {:block/name "fri, 2022/06/03",
   :block/created-at 1654185609616,
   :block/updated-at 1654185609616}
+ {:block/name "fri, 2022/06/10",
+  :block/created-at 1654790442955,
+  :block/updated-at 1654790442955}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1654069280641,
   :block/updated-at 1654069280641}
@@ -504,7 +507,7 @@
   :block/updated-at 1653890323239}
  {:block/name "logseq whiteboard with tldraw/preview",
   :block/created-at 1654668198994,
-  :block/updated-at 1654669603535}
+  :block/updated-at 1654839386783}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1650469004008,
   :block/updated-at 1650469004008}
@@ -977,6 +980,9 @@
  {:block/name "thu, 2022/06/02",
   :block/created-at 1654109698160,
   :block/updated-at 1654425049341}
+ {:block/name "thu, 2022/06/09",
+  :block/created-at 1654756034886,
+  :block/updated-at 1654756089667}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}

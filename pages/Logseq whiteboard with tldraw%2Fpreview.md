@@ -10,3 +10,9 @@ title:: Logseq whiteboard with tldraw/preview
 	  :END:
 		- I think most of the data required for drawing are already there in the .tldr file. Shape rendering is done by rendering the components, which are either raw HTML elements or SVG.
 		- Should we split the SVG rendering from React component, so that this can be used for both rendering & export
+- ---
+- How Cloverapp renders minimap:
+	- draw only the bounding rectangles of each shape with a `0.2` opacity background
+- ![image.png](../assets/image_1654839291283_0.png){:height 328, :width 494}
+-
+-
