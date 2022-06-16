@@ -343,12 +343,6 @@
  {:block/name "fri, 2022/06",
   :block/created-at 1654425296127,
   :block/updated-at 1654425296127}
- {:block/name "fri, 2022/06/03",
-  :block/created-at 1654185609616,
-  :block/updated-at 1654185609616}
- {:block/name "fri, 2022/06/10",
-  :block/created-at 1654790442955,
-  :block/updated-at 1654790442955}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1654069280641,
   :block/updated-at 1654069280641}
@@ -611,12 +605,6 @@
  {:block/name "mon, 2022/06",
   :block/created-at 1654450009289,
   :block/updated-at 1654450009289}
- {:block/name "mon, 2022/06/06",
-  :block/created-at 1654445890152,
-  :block/updated-at 1654449969550}
- {:block/name "mon, 2022/06/13",
-  :block/created-at 1655108707143,
-  :block/updated-at 1655108707143}
  {:block/name "mono wang",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -806,9 +794,6 @@
  {:block/name "sat, 2022/06",
   :block/created-at 1654425296127,
   :block/updated-at 1654425296127}
- {:block/name "sat, 2022/06/04",
-  :block/created-at 1654274339841,
-  :block/updated-at 1654274339841}
  {:block/name "see - https:",
   :block/created-at 1654069285116,
   :block/updated-at 1654069285116}
@@ -920,6 +905,9 @@
  {:block/name "tailwind ui",
   :block/created-at 1646993473557,
   :block/updated-at 1646993505706}
+ {:block/name "tc39",
+  :block/created-at 1655260684414,
+  :block/updated-at 1655260684414}
  {:block/name "telemetry issues",
   :block/created-at 1651914855140,
   :block/updated-at 1651914855140}
@@ -986,6 +974,9 @@
  {:block/name "thu, 2022/06/09",
   :block/created-at 1654756034886,
   :block/updated-at 1654756089667}
+ {:block/name "thu, 2022/06/16",
+  :block/created-at 1655308804267,
+  :block/updated-at 1655308804267}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}
@@ -1049,12 +1040,6 @@
  {:block/name "tue, 2022/06",
   :block/created-at 1654615131770,
   :block/updated-at 1654615131770}
- {:block/name "tue, 2022/06/07",
-  :block/created-at 1654615130169,
-  :block/updated-at 1654615130169}
- {:block/name "tue, 2022/06/14",
-  :block/created-at 1655136399794,
-  :block/updated-at 1655136399794}
  {:block/name "tweet content getter",
   :block/created-at 1651914855563,
   :block/updated-at 1651914855563}
@@ -1152,6 +1137,9 @@
  {:block/name "wed, 2022/06/08",
   :block/created-at 1654668081286,
   :block/updated-at 1654668198995}
+ {:block/name "wed, 2022/06/15",
+  :block/created-at 1655260295017,
+  :block/updated-at 1655260845424}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1650956347019,
