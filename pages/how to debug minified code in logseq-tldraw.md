@@ -1,3 +1,5 @@
 - [Option to disable minification of node_modules files · Issue #173 · thheller/shadow-cljs (github.com)](https://github.com/thheller/shadow-cljs/issues/173)
-- Is it possible requiring without using `node_modules`?
+- DONE Is it possible requiring without using `node_modules`?
+	- Made a soft link to the dist files in [commit](https://github.com/pengx17/logseq/commit/6b263ecd5446cf15fd1726150bb3a9fc1aac9c73)
+- Binding does not work at all in my cljs-demo setup. Maybe some transpilation issues?
 -

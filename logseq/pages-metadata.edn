@@ -421,6 +421,9 @@
  {:block/name "hot module reload",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "how to debug minified code in logseq-tldraw",
+  :block/created-at 1655961780460,
+  :block/updated-at 1655965137056}
  {:block/name "how to design programs, second edition",
   :block/created-at 1655637661383,
   :block/updated-at 1655637661383}
@@ -995,6 +998,9 @@
  {:block/name "thu, 2022/06/16",
   :block/created-at 1655308804267,
   :block/updated-at 1655308804267}
+ {:block/name "thu, 2022/06/23",
+  :block/created-at 1655961749348,
+  :block/updated-at 1655965215839}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}
