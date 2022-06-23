@@ -1,0 +1,3 @@
+- [Option to disable minification of node_modules files · Issue #173 · thheller/shadow-cljs (github.com)](https://github.com/thheller/shadow-cljs/issues/173)
+- Is it possible requiring without using `node_modules`?
+-
