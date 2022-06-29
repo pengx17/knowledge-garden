@@ -1,3 +1,5 @@
 title:: Logseq whiteboard with tldraw/save as logseq block
+icon:: 🤨
 
-- A whiteboard can be represented by a Logseq special page
+- Goal: make a whiteboard `.tldr` be represented by a Logseq page?
+- Block
