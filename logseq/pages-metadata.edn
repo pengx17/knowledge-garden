@@ -259,15 +259,6 @@
  {:block/name "draw tests",
   :block/created-at 1656042227913,
   :block/updated-at 1656042227913}
- {:block/name "draws/2022-06-21-10-41-07.excalidraw",
-  :block/created-at 1655779286598,
-  :block/updated-at 1655779286598}
- {:block/name "draws/2022-06-21-10-41-09.excalidraw",
-  :block/created-at 1655779286598,
-  :block/updated-at 1655779286598}
- {:block/name "draws/test.tldr",
-  :block/created-at 1655779286599,
-  :block/updated-at 1655779286599}
  {:block/name "ebpf",
   :block/created-at 1656042213499,
   :block/updated-at 1656042213499}
@@ -527,9 +518,6 @@
  {:block/name "logseq whiteboard with tldraw/save as logseq block",
   :block/created-at 1656553840029,
   :block/updated-at 1656553840029}
- {:block/name "logseq whiteboard with tldraw/use logseq block ",
-  :block/created-at 1656521238516,
-  :block/updated-at 1656521238516}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1650469004008,
   :block/updated-at 1650469004008}
@@ -630,12 +618,6 @@
  {:block/name "mon, 2022/05/30",
   :block/created-at 1656042227318,
   :block/updated-at 1656042227318}
- {:block/name "mon, 2022/06",
-  :block/created-at 1654450009289,
-  :block/updated-at 1654450009289}
- {:block/name "mon, 2022/06/20",
-  :block/created-at 1655654403775,
-  :block/updated-at 1655654403775}
  {:block/name "mono wang",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -822,9 +804,6 @@
  {:block/name "sat, 2022/05/28",
   :block/created-at 1656042227288,
   :block/updated-at 1656042227288}
- {:block/name "sat, 2022/06",
-  :block/created-at 1654425296127,
-  :block/updated-at 1654425296127}
  {:block/name "see - https:",
   :block/created-at 1654069285116,
   :block/updated-at 1654069285116}
@@ -1008,15 +987,12 @@
  {:block/name "thu, 2022/06/09",
   :block/created-at 1656042227383,
   :block/updated-at 1656042227383}
- {:block/name "thu, 2022/06/16",
-  :block/created-at 1655308804267,
-  :block/updated-at 1655308804267}
  {:block/name "thu, 2022/06/23",
   :block/created-at 1655961749348,
   :block/updated-at 1656039093649}
  {:block/name "thu, 2022/06/30",
   :block/created-at 1656573289019,
-  :block/updated-at 1656573289019}
+  :block/updated-at 1656573415368}
  {:block/name "til",
   :block/created-at 1650469002532,
   :block/updated-at 1650469002532}
@@ -1080,9 +1056,6 @@
  {:block/name "tue, 2022/06",
   :block/created-at 1654615131770,
   :block/updated-at 1654615131770}
- {:block/name "tue, 2022/06/21",
-  :block/created-at 1655740866676,
-  :block/updated-at 1655740866676}
  {:block/name "tue, 2022/06/28",
   :block/created-at 1656427689824,
   :block/updated-at 1656428216085}
@@ -1104,6 +1077,9 @@
  {:block/name "variable fonts",
   :block/created-at 1656042229256,
   :block/updated-at 1656042229256}
+ {:block/name "vite 3",
+  :block/created-at 1656573300208,
+  :block/updated-at 1656573300208}
  {:block/name "vite-logseq-plugin",
   :block/created-at 1650469002445,
   :block/updated-at 1650469002445}
