@@ -14,4 +14,8 @@ icon:: 🤨
 	- shape id, type and other metadata
 	- handles etc
 - Block may not have children and have to be at the top level
--
+- ---
+- NOW Understand page/block data saving workflow
+  :LOGBOOK:
+  CLOCK: [2022-07-02 Sat 00:30:54]
+  :END:
