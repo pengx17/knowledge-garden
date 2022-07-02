@@ -19,3 +19,7 @@ icon:: 🤨
   :LOGBOOK:
   CLOCK: [2022-07-02 Sat 00:30:54]
   :END:
+	- **cases**
+		- When a new page is created
+		- When a block is saved
+		- When a block is deleted
