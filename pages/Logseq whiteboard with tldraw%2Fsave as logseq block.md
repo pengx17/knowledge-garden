@@ -27,6 +27,24 @@ icon:: 🤨
 		- When a block is saved
 		- When a block is deleted
 - Should we reuse page handlers as much as possible, or create a dedicated workflow for Whiteboard?
-	- When reusing page handlers, we will
+	- When **reusing page handlers**, we will
 		- create whiteboards under `/pages`
-		-
+		- whiteboard page is a superset of a normal page
+			- page properties to store
+				- tldraw specific values, like bindings
+			- blocks of whiteboard page are _shapes_ of the whiteboard
+			- each block has a set of  properties for Tldraw
+				- shape id, type and other metadata
+				- handles etc
+			- Block may not have children and have to be at the top level
+			- When rendering the whiteboard page on the
+			- Whiteboard link can be written as `[[whiteboard-link]]`
+				- when visiting this link, we will need to redirect the route to the Whiteboard instead
+				- the preview of whiteboard link may be disabled for now. We can add an icon to it.
+		- **Pros**
+			- page can read whiteboard references just by their name
+			- simplifies the routines of tldraw file CRUD
+		- **Cons**
+			- a normal page cannot be opened as a whiteboard normally. This means we may need to patch many different places when embraced whiteboard
+				-
+				-
