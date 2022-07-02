@@ -47,8 +47,4 @@ icon:: 🤨
 		- simplifies the routines of tldraw file CRUD
 	- **Cons**
 		- a normal page cannot be opened as a whiteboard normally. This means we may need to patch many different places when embraced whiteboard
--
 	-
-	-
-	-
-		-
