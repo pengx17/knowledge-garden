@@ -21,5 +21,7 @@ icon:: 🤨
   :END:
 	- **cases**
 		- When a new page is created
+			- Using `frontend.handler.page/create!` to create new pages
+				-
 		- When a block is saved
 		- When a block is deleted
