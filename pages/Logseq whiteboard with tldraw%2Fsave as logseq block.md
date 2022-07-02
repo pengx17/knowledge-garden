@@ -15,15 +15,18 @@ icon:: 🤨
 	- handles etc
 - Block may not have children and have to be at the top level
 - ---
-- NOW Understand page/block data saving workflow
+- DONE Understand page/block data saving workflow
   :LOGBOOK:
-  CLOCK: [2022-07-02 Sat 00:30:54]
+  CLOCK: [2022-07-02 Sat 00:30:54]--[2022-07-02 Sat 18:51:13] =>  18:20:19
   :END:
 	- **cases**
 		- When a new page is created
 			- Using `frontend.handler.page/create!` to create new pages
 				- if page does not exist, compose the datoms and transact!
 		- Read a page
-			-
 		- When a block is saved
 		- When a block is deleted
+- Should we reuse page handlers as much as possible, or create a dedicated workflow for Whiteboard?
+	- When reusing page handlers, we will
+		- create whiteboards under `/pages`
+		-
