@@ -22,6 +22,8 @@ icon:: 🤨
 	- **cases**
 		- When a new page is created
 			- Using `frontend.handler.page/create!` to create new pages
-				-
+				- if page does not exist, compose the datoms and transact!
+		- Read a page
+			-
 		- When a block is saved
 		- When a block is deleted
