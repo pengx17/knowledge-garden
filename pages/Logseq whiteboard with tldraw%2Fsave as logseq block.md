@@ -22,14 +22,19 @@ icon:: 🤨
 	- **cases**
 		- When a new page is created
 			- Using `frontend.handler.page/create!` to create new pages
-				- if page does not exist, compose the datoms and transact!
+				- if page does not exist, compose the datoms and `transact!` into db
+				- NOW when it will be written to file?
+				  :LOGBOOK:
+				  CLOCK: [2022-07-03 Sun 12:37:59]
+				  :END:
+					-
 		- Read a page
 		- When a block is saved
 		- When a block is deleted
 - Should we reuse page handlers as much as possible, or create a dedicated workflow for Whiteboard?
 - ---
 - By saving Logseq whiteboard as block data, we are **reusing page handlers**
-	- create whiteboards under `/pages`
+	- create whiteboards under `/whiteboards`, just like `/pages` & `/journals`
 	- When rendering the whiteboard page, we should also show the Whiteboard page name and allows the user to change the name.
 	- whiteboard page is a **superset of a normal page**
 		- **page properties** to store
