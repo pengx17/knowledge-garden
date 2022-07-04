@@ -1,21 +1,23 @@
-title:: Logseq whiteboard with tldraw/save as logseq block
+title:: Logseq whiteboard with tldraw/save as logseq page
 icon:: 🤨
 
 - Goal: make a whiteboard `.tldr` be represented by a Logseq page?
-- Save as `.md` or `.org` (start with `md` first)
-- Should reuse mldoc logic (no special syntax required)
-- Need hidden page/block properties to make sure
-	- can be correctly loaded as tldraw file
-	- can be filtered out for non-related quries?
-- Page properties
-	- identify it is a tldraw file
-	- stores bindings info etc
-- Block properties
-	- shape id, type and other metadata
-	- handles etc
-- Block may not have children and have to be at the top level
+- Initial thoughts
+	- Save as `.md` or `.org` (start with `md` first)
+	- Should reuse mldoc logic (no special syntax required)
+	- Need hidden page/block properties to make sure
+		- can be correctly loaded as tldraw file
+		- can be filtered out for non-related quries?
+	- Page properties
+		- identify it is a tldraw file
+		- stores bindings info etc
+	- Block properties
+		- shape id, type and other metadata
+		- handles etc
+	- Block may not have children and have to be at the top level
 - ---
 - DONE Understand page/block data saving workflow
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2022-07-02 Sat 00:30:54]--[2022-07-02 Sat 18:51:13] =>  18:20:19
   :END:
@@ -23,11 +25,10 @@ icon:: 🤨
 		- When a new page is created
 			- Using `frontend.handler.page/create!` to create new pages
 				- if page does not exist, compose the datoms and `transact!` into db
-				- NOW when it will be written to file?
+				- DONE when it will be written to file?
 				  :LOGBOOK:
-				  CLOCK: [2022-07-03 Sun 12:37:59]
+				  CLOCK: [2022-07-03 Sun 12:37:59]--[2022-07-04 Mon 10:56:10] =>  22:18:11
 				  :END:
-					-
 		- Read a page
 		- When a block is saved
 		- When a block is deleted
@@ -52,4 +53,7 @@ icon:: 🤨
 		- simplifies the routines of tldraw file CRUD
 	- **Cons**
 		- a normal page cannot be opened as a whiteboard normally. This means we may need to patch many different places when embraced whiteboard
-	-
+-
+- Some work is being tracked here
+  id:: 62c256d4-47f7-4a11-bc05-6a25e909bf95
+	- <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/9sdt5j7MabK6DVrxgTZw25"></iframe>
