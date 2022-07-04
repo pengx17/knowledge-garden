@@ -53,7 +53,7 @@ icon:: 🤨
 		- simplifies the routines of tldraw file CRUD
 	- **Cons**
 		- a normal page cannot be opened as a whiteboard normally. This means we may need to patch many different places when embraced whiteboard
--
-- Some work is being tracked here
-  id:: 62c256d4-47f7-4a11-bc05-6a25e909bf95
-	- <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/9sdt5j7MabK6DVrxgTZw25"></iframe>
+	- Some work is being tracked here
+	  id:: 62c256d4-47f7-4a11-bc05-6a25e909bf95
+		- <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/9sdt5j7MabK6DVrxgTZw25"></iframe>
+	- After talked to Tienson today, we do not need to persist data into md/org. We can **store them as edn or json** instead.
