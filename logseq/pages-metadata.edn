@@ -1121,7 +1121,7 @@
   :block/updated-at 1657075371019}
  {:block/name "tue, 2022/07/05",
   :block/created-at 1657032142259,
-  :block/updated-at 1657032142259}
+  :block/updated-at 1657076259278}
  {:block/name "tweet content getter",
   :block/created-at 1651914855563,
   :block/updated-at 1651914855563}
@@ -1236,7 +1236,7 @@
   :block/updated-at 1657075371019}
  {:block/name "wed, 2022/07/06",
   :block/created-at 1657036803709,
-  :block/updated-at 1657036803709}
+  :block/updated-at 1657076232116}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1656845809762,
