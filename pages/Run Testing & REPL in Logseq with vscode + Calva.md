@@ -1,0 +1,4 @@
+- [repl-test-in-logseq.mp4](../assets/repl-test-in-logseq_1657177777831_0.mp4)
+- `yarn watch`  启动
+- 在 vscode 利用 Calva 连接 REPL 到  `app`  build
+- 打开一个测试用例文件，使用  `(cljs.test/run-tests)`   跑当前 namespace 的测试
