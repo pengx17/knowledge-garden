@@ -379,6 +379,12 @@
  {:block/name "fri, 2022/06/24",
   :block/created-at 1656845808437,
   :block/updated-at 1656845808437}
+ {:block/name "fri, 2022/07",
+  :block/created-at 1657246771693,
+  :block/updated-at 1657246771693}
+ {:block/name "fri, 2022/07/08",
+  :block/created-at 1657209604750,
+  :block/updated-at 1657209604750}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1656845810027,
   :block/updated-at 1656845810027}
@@ -801,6 +807,9 @@
  {:block/name "rum react interop",
   :block/created-at 1656845809602,
   :block/updated-at 1656845809602}
+ {:block/name "run testing & repl in logseq with vscode + calva",
+  :block/created-at 1657177755987,
+  :block/updated-at 1657177977924}
  {:block/name "same-origin iframes",
   :block/created-at 1656042229170,
   :block/updated-at 1656042229170}
@@ -1055,7 +1064,7 @@
   :block/updated-at 1657172528983}
  {:block/name "thu, 2022/07/07",
   :block/created-at 1657158949088,
-  :block/updated-at 1657166152905}
+  :block/updated-at 1657191347102}
  {:block/name "til",
   :block/created-at 1656845810660,
   :block/updated-at 1656845810660}
