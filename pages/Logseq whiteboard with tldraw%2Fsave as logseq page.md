@@ -57,5 +57,28 @@ icon:: 🤨
 	  id:: 62c256d4-47f7-4a11-bc05-6a25e909bf95
 		- [Whiteboard Page Dev (whimsical.com)](https://whimsical.com/whiteboard-page-dev-9sdt5j7MabK6DVrxgTZw25)
 	- After talked to Tienson today, we do not need to persist data into md/org. We can **store them as edn or json** instead.
-- ---
 -
+- ---
+- Using the following file for testing
+	- ```edn
+	  {:pages
+	    (#:block{:name "aseee",
+	             :original-name "edn test file",
+	             :created-at 1657391717436,
+	             :updated-at 1657391717436,
+	             :journal? false,
+	             :file #:file{:path "/Users/pengxiao/Desktop/test-2/whiteboards/aseee.edn"},
+	             :uuid #uuid "62c9ca65-291f-47e1-8bbe-0deb2aed6bce"}),
+	    :blocks
+	    (#:block{:tags [],
+	             :format :markdown,
+	             :path-refs ([:block/name "aseee"]),
+	             :parent #:block{:name "aseee"},
+	             :unordered true,
+	             :content "asdf",
+	             :refs nil,
+	             :page [:block/name "aseee"],
+	             :uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2",
+	             :left #:block{:name "aseee"}})}
+	  ```
+	-
