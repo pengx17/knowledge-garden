@@ -141,3 +141,6 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 	- when downloaded the `trace` file from artifacts, make sure unzip it first using `unzip` on Mac
 		- Using default Mac unzip in finder will recursively unzip a zip file if there is only one zip file, until no zip file found
 - Local Development
+	- clone https://github.com/logseq/logseq.git & https://github.com/pengx17/logseq-publish.git
+	- run `yarn` && `yarn release`
+	-
