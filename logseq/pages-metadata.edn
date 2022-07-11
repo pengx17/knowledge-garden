@@ -87,7 +87,7 @@
   :block/updated-at 1656042227493}
  {:block/name "build logseq app locally",
   :block/created-at 1656845809067,
-  :block/updated-at 1656845809067}
+  :block/updated-at 1657520425161}
  {:block/name "c",
   :block/created-at 1656845814442,
   :block/updated-at 1656845814442}
@@ -489,7 +489,7 @@
   :block/updated-at 1656845808509}
  {:block/name "logseq publish github action",
   :block/created-at 1656845811002,
-  :block/updated-at 1656845811002}
+  :block/updated-at 1657524751150}
  {:block/name "logseq query playground ui",
   :block/created-at 1656845809287,
   :block/updated-at 1656845809287}
