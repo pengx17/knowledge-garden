@@ -143,8 +143,7 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 - Local Development
 	- clone https://github.com/logseq/logseq.git & https://github.com/pengx17/logseq-publish.git
 	- build logseq app
-		- in logseq src root
-		- change `resources/package.json`name to `logseq-xxx`, see ((62c9c8bd-d2b7-4c94-bf67-db5541a186eb))
+		- cd into logseq src root
 		- run `yarn` && `yarn release`
 	- copy logseq static into `logseq-publish/public/static`
 		- in logseq-publish root, run
