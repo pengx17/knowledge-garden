@@ -144,6 +144,8 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 	- clone https://github.com/logseq/logseq.git & https://github.com/pengx17/logseq-publish.git
 	- build logseq app
 		- cd into logseq src root
+		- change  `"name": "Logseq"` in `resources/package.json` to `"name": "something-else"`
+			- this makes sure the electron data will not use the same data in your normal Logseq App
 		- run `yarn` && `yarn release`
 	- copy logseq static into `logseq-publish/public/static`
 		- in logseq-publish root, run
