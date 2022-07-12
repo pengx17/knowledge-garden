@@ -61,24 +61,81 @@ icon:: 🤨
 - ---
 - Using the following file for testing
 	- ```edn
-	  {:pages
-	    (#:block{:name "aseee",
-	             :original-name "edn test file",
-	             :created-at 1657391717436,
-	             :updated-at 1657391717436,
-	             :journal? false,
-	             :file #:file{:path "/Users/pengxiao/Desktop/test-2/whiteboards/aseee.edn"},
-	             :uuid #uuid "62c9ca65-291f-47e1-8bbe-0deb2aed6bce"}),
-	    :blocks
-	    (#:block{:tags [],
-	             :format :markdown,
-	             :path-refs ([:block/name "aseee"]),
-	             :parent #:block{:name "aseee"},
-	             :unordered true,
-	             :content "asdf",
-	             :refs nil,
-	             :page [:block/name "aseee"],
-	             :uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2",
-	             :left #:block{:name "aseee"}})}
+	  {:blocks
+	   [{:block/content "edn-test2 content\ntitle:: edn-test",
+	     :block/format :markdown,
+	     :block/left
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/page
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/parent
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/path-refs
+	     [{:block/name "edn-test",
+	       :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"}],
+	     :block/unordered true,
+	     :block/uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2"}
+	    {:block/content "b123",
+	     :block/format :markdown,
+	     :block/left
+	     {:block/uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2"},
+	     :block/page
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/parent
+	     {:block/uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2"},
+	     :block/path-refs
+	     [{:block/name "edn-test",
+	       :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"}],
+	     :block/unordered true,
+	     :block/uuid #uuid "62c9ca65-e0b4-4c23-a42f-dff988d5c48d"}
+	    {:block/content "c",
+	     :block/format :markdown,
+	     :block/left
+	     {:block/uuid #uuid "62c9ca65-e0b4-4c23-a42f-dff988d5c48d"},
+	     :block/page
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/parent
+	     {:block/uuid #uuid "62c9ca65-e0b4-4c23-a42f-dff988d5c48d"},
+	     :block/path-refs
+	     [{:block/name "edn-test",
+	       :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"}],
+	     :block/unordered true,
+	     :block/uuid #uuid "62c9ca65-ab12-4665-87f0-cc3ffa120d3f"}
+	    {:block/content "kkmmmm",
+	     :block/format :markdown,
+	     :block/left
+	     {:block/uuid #uuid "62c9ca65-2653-4741-82e9-83ca684cadf2"},
+	     :block/page
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/parent
+	     {:block/name "edn-test",
+	      :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"},
+	     :block/path-refs
+	     [{:block/name "edn-test",
+	       :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"}],
+	     :block/unordered true,
+	     :block/uuid #uuid "62ca902f-eccf-4910-9ba2-b73cdf412dff"}],
+	   :pages
+	   ({:block/created-at 1657391717436,
+	     :block/file
+	     {:file/path
+	      "/Users/pengxiao/Desktop/test-2/whiteboards/edn-test.edn"},
+	     :db/id 27,
+	     :block/journal? false,
+	     :block/name "edn-test",
+	     :block/original-name "edn-test",
+	     :block/updated-at 1657442357216,
+	     :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"})}
+	  
 	  ```
+-
+- ---
+- [[Tue, 2022/07/12]]
+	- Writing tests for `parse-file`. It seems I should not persist `:block/file` as well because it is absolute URL.
 	-
