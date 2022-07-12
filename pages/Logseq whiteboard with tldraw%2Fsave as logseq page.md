@@ -138,4 +138,5 @@ icon:: 🤨
 - ---
 - [[Tue, 2022/07/12]]
 	- Writing tests for `parse-file`. It seems I should not persist `:block/file` as well because it is absolute URL.
-	- Also found that blocks/pages should also need further
+	- Also found that blocks/pages should also need further "hydration"
+		-
