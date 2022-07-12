@@ -1,0 +1,3 @@
+.block-content-wrapper > div:first-child {
+  overflow: initial;
+}
