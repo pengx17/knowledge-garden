@@ -139,4 +139,13 @@ icon:: 🤨
 - [[Tue, 2022/07/12]]
 	- Writing tests for `parse-file`. It seems I should not persist `:block/file` as well because it is absolute URL.
 	- Also found that blocks/pages should also need further "hydration"
-	-
+	- For `extract` for normal md/org pages
+		- use `mldoc` to transform the text into ast
+		- `extract-pages-and-blocks` to get pages and blocks
+			- construct blocks and its hierarchy (parent & left)
+			- pages by concating
+				- construct page entity
+				- all referenced pages and tags
+			-
+			-
+		-
