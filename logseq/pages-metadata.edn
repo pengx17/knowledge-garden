@@ -127,6 +127,9 @@
  {:block/name "clojure reader",
   :block/created-at 1656845811447,
   :block/updated-at 1656845811447}
+ {:block/name "clojure testing",
+  :block/created-at 1657615431112,
+  :block/updated-at 1657615431112}
  {:block/name "clojure web server",
   :block/created-at 1656845809434,
   :block/updated-at 1656845809434}
@@ -520,7 +523,7 @@
   :block/updated-at 1657591615079}
  {:block/name "logseq whiteboard with tldraw/save as logseq page",
   :block/created-at 1656845808274,
-  :block/updated-at 1657394264242}
+  :block/updated-at 1657644052311}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1656845809945,
   :block/updated-at 1656845809945}
@@ -1115,7 +1118,7 @@
   :block/updated-at 1657076259278}
  {:block/name "tue, 2022/07/12",
   :block/created-at 1657590914511,
-  :block/updated-at 1657598052419}
+  :block/updated-at 1657615435892}
  {:block/name "tweet content getter",
   :block/created-at 1651914855563,
   :block/updated-at 1651914855563}
@@ -1233,6 +1236,9 @@
  {:block/name "wed, 2022/07/06",
   :block/created-at 1657036803709,
   :block/updated-at 1657076232116}
+ {:block/name "wed, 2022/07/13",
+  :block/created-at 1657641602045,
+  :block/updated-at 1657641602045}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1656845809762,
