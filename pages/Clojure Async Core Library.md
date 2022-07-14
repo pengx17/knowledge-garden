@@ -18,4 +18,35 @@
 - It looks to me that in order to achieve something like  `Promise.all` , we need to
 - go-loop, mix and merge
 	- [Combining & Controlling Channels with core.async's merge and mix (yobriefca.se)](https://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)
-	-
+- Example of `Promise.all` in Async Core:
+	- ```clojure
+	  (defn async-map
+	    [f ch]
+	    (let [res-ch (async/chan)]
+	      (async/go
+	        (async/>! res-ch (f (async/<! ch))))
+	      res-ch))
+	  
+	  (defn wait-all
+	    [chs]
+	    (let [indexed-chs (map-indexed (fn [idx ch] (async-map (fn [v] [idx v]) ch)) chs)
+	          indexed-ch (async/merge indexed-chs)
+	          res-ch (async/chan)]
+	      (async/go-loop [n (count chs)
+	                      res []]
+	        (if (zero? n)
+	          (async/>! res-ch res)
+	          (let [[idx v] (async/<! indexed-ch)]
+	            (recur (dec n) (assoc res idx v)))))
+	      res-ch))
+	  
+	  (async/go
+	    (let [a (async/chan)
+	          b (async/chan)
+	          c (async/chan)]
+	      (async/go (println (async/<! (wait-all [a b c]))))
+	      (async/>! a "a")
+	      (async/>! b "b")
+	      (async/>! c "c")))
+	  
+	  ```
