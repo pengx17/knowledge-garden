@@ -117,7 +117,7 @@
   :block/updated-at 1656845811330}
  {:block/name "clojure async core library",
   :block/created-at 1657780083730,
-  :block/updated-at 1657780105026}
+  :block/updated-at 1657783324899}
  {:block/name "clojure for the brave and true",
   :block/created-at 1656845809914,
   :block/updated-at 1656845809914}
@@ -126,7 +126,7 @@
   :block/updated-at 1656845811397}
  {:block/name "clojure macros",
   :block/created-at 1656845811422,
-  :block/updated-at 1656845811422}
+  :block/updated-at 1657781190395}
  {:block/name "clojure reader",
   :block/created-at 1656845811447,
   :block/updated-at 1656845811447}
