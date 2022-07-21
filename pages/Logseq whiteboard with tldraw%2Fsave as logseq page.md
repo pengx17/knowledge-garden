@@ -60,6 +60,7 @@ icon:: 🤨
 -
 - ---
 - Using the following file for testing
+  collapsed:: true
 	- ```edn
 	  {:blocks
 	   [{:block/content "edn-test2 content\ntitle:: edn-test",
@@ -132,9 +133,7 @@ icon:: 🤨
 	     :block/original-name "edn-test",
 	     :block/updated-at 1657442357216,
 	     :block/uuid #uuid "62ca8942-a6a3-4d2c-bb5f-36998c998a94"})}
-	  
 	  ```
--
 - ---
 - [[Tue, 2022/07/12]]
 	- Writing tests for `parse-file`. It seems I should not persist `:block/file` as well because it is absolute URL.
@@ -146,6 +145,3 @@ icon:: 🤨
 			- pages by concating
 				- construct page entity
 				- all referenced pages and tags
-			-
-			-
-		-

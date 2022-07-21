@@ -1,0 +1,33 @@
+{:blocks
+ ({:block/content "",
+   :block/page
+   {:block/name "test-wb",
+    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
+   :block/properties
+   {:blockType "P",
+    :stroke "var(--ls-primary-text-color)",
+    :collapsed false,
+    :scale [1 1],
+    :pageId "思源字体",
+    :fill "var(--ls-secondary-background-color)",
+    :type "logseq-portal",
+    :size [600 320],
+    :strokeWidth 2,
+    :opacity 1,
+    :id "aa8c74a0-089e-11ed-bf88-f54e378057d5",
+    :point [219.6640625 339.9921875],
+    :parentId "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
+    :collapsedHeight 0,
+    :nonce 1658371314087},
+   :block/refs [{:db/id 1581}],
+   :block/uuid #uuid "aa8c74a0-089e-11ed-bf88-f54e378057d5"}),
+ :pages
+ ({:block/name "test-wb",
+   :block/original-name "test-wb",
+   :block/properties
+   {:id "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
+    :name "page",
+    :bindings {},
+    :nonce 1},
+   :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
+   :block/whiteboard? true})}
