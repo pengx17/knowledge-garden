@@ -1,10 +1,13 @@
 {:blocks (),
  :pages
- ({:block/name "62d8bd1c-8ce0-40a6-8bed-d02e91e46a3f",
+ ({:block/created-at 1658371370493,
+   :block/name "62d8bd1c-8ce0-40a6-8bed-d02e91e46a3f",
    :block/properties
    {:id "62d8bd1c-8ce0-40a6-8bed-d02e91e46a3f",
-    :name "Page",
+    :name "page",
     :bindings {},
-    :nonce 1},
+    :nonce 1,
+    :assets []},
+   :block/updated-at 1658371370493,
    :block/uuid #uuid "62d8bd1c-8ce0-40a6-8bed-d02e91e46a3f",
    :block/whiteboard? true})}
