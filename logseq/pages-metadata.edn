@@ -462,7 +462,7 @@
   :block/updated-at 1658383116675}
  {:block/name "jul 21st, 2022",
   :block/created-at 1658371267502,
-  :block/updated-at 1658383128000}
+  :block/updated-at 1658403695178}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1658371267962,
   :block/updated-at 1658371267962}
@@ -576,7 +576,7 @@
   :block/updated-at 1641967503322}
  {:block/name "logseq whiteboard with tldraw",
   :block/created-at 1656845808274,
-  :block/updated-at 1656845808274}
+  :block/updated-at 1658403673699}
  {:block/name "logseq whiteboard with tldraw/arrow",
   :block/created-at 1656845808617,
   :block/updated-at 1656845808617}
