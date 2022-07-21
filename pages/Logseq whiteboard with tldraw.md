@@ -36,3 +36,5 @@
 		- 1.0 is using https://github.com/JohannesKlauss/react-hotkeys-hook
 		- Caused by React strict mode https://twitter.com/schickling/status/1523378971458498560
 	-
+- Meeting notes today: [Whiteboard Sync - Otter.ai](https://otter.ai/u/cfuRlqSFYSGDJF6hb2yQKLpoLNk?f=home)
+	-
