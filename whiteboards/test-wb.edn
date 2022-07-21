@@ -1,8 +1,5 @@
 {:blocks
- ({:block/content "",
-   :block/page
-   {:block/name "test-wb",
-    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
+ ({:block/uuid #uuid "aa8c74a0-089e-11ed-bf88-f54e378057d5",
    :block/properties
    {:blockType "P",
     :stroke "var(--ls-primary-text-color)",
@@ -20,10 +17,26 @@
     :parentId "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
     :collapsedHeight 0,
     :nonce 1658416416583},
-   :block/refs [{:db/id 1581}],
-   :block/uuid #uuid "aa8c74a0-089e-11ed-bf88-f54e378057d5"}
-  {:block/content "",
+   :block/left
+   {:block/name "test-wb",
+    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
+   :block/refs [{:db/id 1581} {:db/id 2567}],
+   :block/level 1,
+   :block/content "",
+   :block/parent
+   {:block/name "test-wb",
+    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
    :block/page
+   {:block/name "test-wb",
+    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"}}
+  {:block/content "",
+   :block/left
+   {:block/uuid #uuid "aa8c74a0-089e-11ed-bf88-f54e378057d5"},
+   :block/level 1,
+   :block/page
+   {:block/name "test-wb",
+    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
+   :block/parent
    {:block/name "test-wb",
     :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
    :block/properties
@@ -42,7 +55,6 @@
     :parentId "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
     :collapsedHeight 0,
     :nonce 1658416414225},
-   :block/refs [{:db/id 2567}],
    :block/uuid #uuid "aee97570-0907-11ed-b7e4-775d366131a6"}),
  :pages
  ({:block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
@@ -52,6 +64,7 @@
     :bindings {},
     :nonce 2,
     :assets []},
+   :block/journal? false,
    :block/updated-at 1658371370494,
    :block/created-at 1658371370494,
    :block/whiteboard? true,
