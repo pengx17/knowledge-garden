@@ -358,12 +358,15 @@
  {:block/name "fri, 2021/07/30",
   :block/created-at 1656845811825,
   :block/updated-at 1656845811825}
+ {:block/name "fri, 2022",
+  :block/created-at 1658470185464,
+  :block/updated-at 1658470185464}
  {:block/name "fri, 2022/07",
   :block/created-at 1658456784516,
   :block/updated-at 1658456784516}
  {:block/name "fri, 2022/07/22",
   :block/created-at 1658419214922,
-  :block/updated-at 1658419214922}
+  :block/updated-at 1658467717271}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1656845810027,
   :block/updated-at 1656845810027}
