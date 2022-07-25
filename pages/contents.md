@@ -3,4 +3,3 @@
 ## Shortcuts
 	- [[About Me]]
 	- [[Blog Posts]]
-- ((aa8c74a0-089e-11ed-bf88-f54e378057d5))
