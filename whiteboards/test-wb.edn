@@ -1,33 +1,4 @@
-{:blocks
- ({:block/page
-   {:block/name "test-wb",
-    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
-   :block/parent
-   {:block/name "test-wb",
-    :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"},
-   :block/path-refs
-   [{:block/name "test-wb",
-     :block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b"}
-    {:block/uuid #uuid "62d8bccb-9abb-4152-9a1c-4756b6e52d75"}],
-   :block/properties
-   {:blockType "B",
-    :stroke "var(--ls-primary-text-color)",
-    :rotation 0,
-    :collapsed false,
-    :scale [1 1],
-    :pageId "62d8bccb-9abb-4152-9a1c-4756b6e52d75",
-    :ls-type :whiteboard-shape,
-    :fill "var(--ls-secondary-background-color)",
-    :type "logseq-portal",
-    :size [600 110.03125],
-    :strokeWidth 2,
-    :opacity 1,
-    :id "aee97570-0907-11ed-b7e4-775d366131a6",
-    :point [724.35546875 382.09765625],
-    :parentId "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
-    :collapsedHeight 0,
-    :nonce 1658635208877},
-   :block/uuid #uuid "aee97570-0907-11ed-b7e4-775d366131a6"}),
+{:blocks (),
  :pages
  ({:block/uuid #uuid "62d8bce2-c3b4-4a75-88db-e87b3ccd6f5b",
    :block/properties
