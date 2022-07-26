@@ -593,12 +593,15 @@
   "logseq whiteboard with tldraw/arrow binding not working correctly when using in cljs",
   :block/created-at 1656845808436,
   :block/updated-at 1656845808436}
+ {:block/name "logseq whiteboard with tldraw/assets",
+  :block/created-at 1658799432592,
+  :block/updated-at 1658799451960}
  {:block/name "logseq whiteboard with tldraw/context menu drifting",
   :block/created-at 1656845808676,
   :block/updated-at 1656845808676}
  {:block/name "logseq whiteboard with tldraw/performance issue",
   :block/created-at 1658733768932,
-  :block/updated-at 1658733867068}
+  :block/updated-at 1658799099089}
  {:block/name "logseq whiteboard with tldraw/pointer offset",
   :block/created-at 1656845808853,
   :block/updated-at 1656845808853}
@@ -608,6 +611,9 @@
  {:block/name "logseq whiteboard with tldraw/save as logseq page",
   :block/created-at 1656845808274,
   :block/updated-at 1657644052311}
+ {:block/name "logseq whiteboard with tldraw/ux",
+  :block/created-at 1658799427066,
+  :block/updated-at 1658799427066}
  {:block/name "logseq-plugin-heatmap",
   :block/created-at 1656845809945,
   :block/updated-at 1656845809945}
@@ -1079,6 +1085,9 @@
  {:block/name "tue, 2022/07/12",
   :block/created-at 1657590914511,
   :block/updated-at 1657615435892}
+ {:block/name "tue, 2022/07/26",
+  :block/created-at 1658799081847,
+  :block/updated-at 1658799432594}
  {:block/name "twoslash",
   :block/created-at 1656845810152,
   :block/updated-at 1656845810152}
