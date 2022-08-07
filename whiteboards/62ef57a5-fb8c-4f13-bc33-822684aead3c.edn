@@ -1,0 +1,12 @@
+{:blocks (),
+ :pages
+ ({:block/name "62ef57a5-fb8c-4f13-bc33-822684aead3c",
+   :block/original-name "62ef57a5-fb8c-4f13-bc33-822684aead3c",
+   :block/properties
+   {:id "62ef57a5-fb8c-4f13-bc33-822684aead3c",
+    :name "Page",
+    :bindings {},
+    :nonce 1,
+    :assets []},
+   :block/uuid #uuid "62ef57a5-fb8c-4f13-bc33-822684aead3c",
+   :block/whiteboard? true})}
