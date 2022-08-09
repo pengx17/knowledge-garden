@@ -1,0 +1,33 @@
+{:blocks
+ ({:block/properties
+   {:blockType "B",
+    :stroke "var(--ls-primary-text-color)",
+    :collapsed false,
+    :scale [1 1],
+    :pageId "62f1f915-a2cf-405e-be7a-40094eefc31e",
+    :ls-type :whiteboard-shape,
+    :fill "var(--ls-secondary-background-color)",
+    :compact true,
+    :type "logseq-portal",
+    :size [400 90],
+    :strokeWidth 2,
+    :opacity 1,
+    :id "39000d50-17a9-11ed-9a56-357758effb69",
+    :point [342.24609375 227.8203125],
+    :parentId "62f1f7b7-9821-405a-9e01-e1c7010d75b1",
+    :collapsedHeight 0,
+    :nonce 1660025112878}}),
+ :pages
+ ({:block/uuid #uuid "62f1f7b7-9821-405a-9e01-e1c7010d75b1",
+   :block/properties
+   {:id "62f1f7b7-9821-405a-9e01-e1c7010d75b1",
+    :name "page",
+    :bindings {},
+    :nonce 2,
+    :assets []},
+   :block/journal? false,
+   :block/updated-at 1660025077202,
+   :block/created-at 1660025077202,
+   :block/whiteboard? true,
+   :block/name "62f1f7b7-9821-405a-9e01-e1c7010d75b1",
+   :block/original-name "62f1f7b7-9821-405a-9e01-e1c7010d75b1"})}
