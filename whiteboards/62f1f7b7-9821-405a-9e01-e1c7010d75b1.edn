@@ -5,7 +5,7 @@
    {:id "62f1f7b7-9821-405a-9e01-e1c7010d75b1",
     :name "page",
     :bindings {},
-    :nonce 1,
+    :nonce 3,
     :assets []},
    :block/journal? false,
    :block/updated-at 1660025077202,
