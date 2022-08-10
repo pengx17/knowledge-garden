@@ -19,14 +19,20 @@
    :block/parent
    {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
-   :block/uuid #uuid "62f3de8d-1b4d-4555-a55b-f01b6cdbf474"}),
+   :block/uuid #uuid "62f3de8d-1b4d-4555-a55b-f01b6cdbf474"}
+  {:block/content "f",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+    :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
+   :block/uuid #uuid "62f3e5a4-637f-4fd8-a572-b4c4c2ec7cad"}),
  :pages
  ({:block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74",
    :block/properties
    {:id "62f399b1-39f3-4d46-874b-299a4cc79e74",
     :name "page",
     :bindings {},
-    :nonce 3,
+    :nonce 2,
     :assets []},
    :block/journal? false,
    :block/updated-at 1660148420914,
