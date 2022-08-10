@@ -1,32 +1,22 @@
 {:blocks
  ({:block/content "asdasd",
    :block/format :markdown,
+   :block/left
+   {:block/name "62f3a078-a382-4f77-afa2-25f26fe448f1",
+    :block/uuid #uuid "62f3a078-a382-4f77-afa2-25f26fe448f1"},
    :block/parent
    {:block/name "62f3a078-a382-4f77-afa2-25f26fe448f1",
     :block/uuid #uuid "62f3a078-a382-4f77-afa2-25f26fe448f1"},
    :block/uuid #uuid "62f3a0b6-4096-4e7b-8d75-bab6b3b0ef4e"}
   {:block/content "asdasds",
    :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "62f3a0b6-4096-4e7b-8d75-bab6b3b0ef4e"},
    :block/parent
    {:block/name "62f3a078-a382-4f77-afa2-25f26fe448f1",
     :block/uuid #uuid "62f3a078-a382-4f77-afa2-25f26fe448f1"},
    :block/properties {},
-   :block/uuid #uuid "62f3a142-8dab-4b40-b64e-ac8fce30f21a"}
-  {:block/properties
-   {:stroke "#000000",
-    :scale [1 1],
-    :ls-type :whiteboard-shape,
-    :fill "#ffffff",
-    :type "html",
-    :size [600 18],
-    :strokeWidth 2,
-    :opacity 1,
-    :id "fce40d10-18b3-11ed-b91c-bf1ac8f31124",
-    :point [474.94921875 644.546875],
-    :parentId "62f3a078-a382-4f77-afa2-25f26fe448f1",
-    :nonce 1660139683969,
-    :html
-    "<meta charset=\"utf-8\"><div style=\"color: #d4d4d4;background-color: #1e1e1e;font-family: JetBrainsMono Nerd Font, Fira Code, Menlo, Monaco, 'Courier New', monospace, Menlo, Monaco, 'Courier New', monospace;font-weight: normal;font-size: 12px;line-height: 18px;white-space: pre;\"><div><span style=\"color: #d4d4d4;\">(</span><span style=\"color: #dcdcaa;\">js</span><span style=\"color: #dcdcaa;\">/</span><span style=\"color: #dcdcaa;\">console.log</span><span style=\"color: #d4d4d4;\"> (</span><span style=\"color: #dcdcaa;\">clj-&gt;js</span><span style=\"color: #d4d4d4;\"> (</span><span style=\"color: #4ec9b0;\">model</span><span style=\"color: #9cdcfe;\">/</span><span style=\"color: #dcdcaa;\">query-block-by-uuid</span><span style=\"color: #d4d4d4;\"> (</span><span style=\"color: #dcdcaa;\">uuid</span><span style=\"color: #d4d4d4;\"> </span><span style=\"color: #ce9178;\">\"62f3a142-8dab-4b40-b64e-ac8fce30f21a\"</span><span style=\"color: #d4d4d4;\">))))</span></div></div>"}}),
+   :block/uuid #uuid "62f3a142-8dab-4b40-b64e-ac8fce30f21a"}),
  :pages
  ({:block/uuid #uuid "62f3a078-a382-4f77-afa2-25f26fe448f1",
    :block/properties
@@ -35,6 +25,7 @@
     :bindings {},
     :nonce 1,
     :assets []},
+   :block/journal? false,
    :block/updated-at 1660133700244,
    :block/created-at 1660133700244,
    :block/whiteboard? true,
