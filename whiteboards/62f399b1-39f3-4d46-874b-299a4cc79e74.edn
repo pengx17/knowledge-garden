@@ -32,7 +32,7 @@
    {:id "62f399b1-39f3-4d46-874b-299a4cc79e74",
     :name "page",
     :bindings {},
-    :nonce 4,
+    :nonce 1,
     :assets []},
    :block/journal? false,
    :block/updated-at 1660148420914,
