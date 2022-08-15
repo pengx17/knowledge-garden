@@ -2,28 +2,28 @@
  ({:block/content "adsdasd",
    :block/format :markdown,
    :block/left
-   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+   {:block/name "lol",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
    :block/parent
-   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+   {:block/name "lol",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
    :block/uuid #uuid "62f3de0c-6c6f-4390-bc4f-252aab4adc84"}
   {:block/content "dsdaf",
    :block/format :markdown,
    :block/parent
-   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+   {:block/name "lol",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
    :block/uuid #uuid "62f3de89-a018-4964-b25b-297b543bb850"}
   {:block/content "",
    :block/format :markdown,
    :block/parent
-   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+   {:block/name "lol",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
    :block/uuid #uuid "62f3de8d-1b4d-4555-a55b-f01b6cdbf474"}
   {:block/content "f",
    :block/format :markdown,
    :block/parent
-   {:block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
+   {:block/name "lol",
     :block/uuid #uuid "62f399b1-39f3-4d46-874b-299a4cc79e74"},
    :block/uuid #uuid "62f3e5a4-637f-4fd8-a572-b4c4c2ec7cad"}),
  :pages
@@ -38,5 +38,5 @@
    :block/updated-at 1660148420914,
    :block/created-at 1660133420500,
    :block/whiteboard? true,
-   :block/name "62f399b1-39f3-4d46-874b-299a4cc79e74",
-   :block/original-name "62f399b1-39f3-4d46-874b-299a4cc79e74"})}
+   :block/name "lol", 
+   :block/original-name "lol"})}
