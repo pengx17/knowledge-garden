@@ -11,4 +11,12 @@ title:: hls__UI_Design_and_Implementation_-_UNDO_1660709092713_0
   hl-page:: 5
   id:: 62fc6a0b-b021-47c0-9218-e279795adb5d
 	- Whiteboard was being discussed in 2006, lol
-	-
+- the action stream should be divided into chunks from the user’s perspective
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 62fc8408-ba66-4fe1-9445-40f4d4974b0d
+- So which actions does Undo actually undo?– Some applications (e.g. web browsers, IDEs) have Undo/Redo for the editing stream, Back/Forward for the viewpoint stream
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 62fc84d1-fc17-4591-a5c9-6707f4ea7f50
+	- the idea of using
