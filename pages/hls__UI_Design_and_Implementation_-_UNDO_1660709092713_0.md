@@ -19,4 +19,9 @@ title:: hls__UI_Design_and_Implementation_-_UNDO_1660709092713_0
   ls-type:: annotation
   hl-page:: 7
   id:: 62fc84d1-fc17-4591-a5c9-6707f4ea7f50
-	- the idea of using
+	- using separate action streams are
+-
+- Make sure undone effects are visible
+  ls-type:: annotation
+  hl-page:: 10
+  id:: 62fc8582-1427-4b02-8b39-6d89ab4eb424
