@@ -6,4 +6,4 @@
 		- It provides various sorts of angles to let the user to re-transforming the data in customized UI
 			- The fundamental UI should be minimal and let the user to adapt for their own workflow
 		- The persistent format is not so important. We can use markdown to let it easier to be directly read/write in other Apps
-		- For Whiteboard, it uses the same database schema, but serving in different purpose
+		- For Whiteboard, it uses the same database schema, but serving in different views
