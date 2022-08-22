@@ -42,7 +42,7 @@
   :block/updated-at 1656845812963}
  {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
   :block/created-at 1660185910371,
-  :block/updated-at 1661135489554}
+  :block/updated-at 1661162137245}
  {:block/name "@rollup",
   :block/created-at 1656845813897,
   :block/updated-at 1656845813897}
@@ -374,6 +374,9 @@
  {:block/name "frontend brown bag",
   :block/created-at 1656845812347,
   :block/updated-at 1656845812347}
+ {:block/name "frontend developing",
+  :block/created-at 1661161690714,
+  :block/updated-at 1661161690714}
  {:block/name "genshin (font)",
   :block/created-at 1656845812274,
   :block/updated-at 1656845812274}
@@ -574,7 +577,7 @@
   :block/updated-at 1656845812041}
  {:block/name "lol",
   :block/created-at 1660133420500,
-  :block/updated-at 1661148641048}
+  :block/updated-at 1661162131549}
  {:block/name "macchiato",
   :block/created-at 1656845809436,
   :block/updated-at 1656845809436}
@@ -680,7 +683,7 @@
   :block/updated-at 1660636582404}
  {:block/name "mon, 2022/08/22",
   :block/created-at 1661132202060,
-  :block/updated-at 1661132234032}
+  :block/updated-at 1661162170526}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
