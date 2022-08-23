@@ -2,10 +2,10 @@
  ({:block/content "asdfasdf",
    :block/format :markdown,
    :block/left
-   {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
+   {:block/name "testing",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/parent
-   {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
+   {:block/name "testing",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/properties {},
    :block/uuid #uuid "6302e30a-58bc-4843-81b1-b372111b1fdc"}
@@ -14,7 +14,7 @@
    :block/left
    {:block/uuid #uuid "6302e30a-58bc-4843-81b1-b372111b1fdc"},
    :block/parent
-   {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
+   {:block/name "testing",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/uuid #uuid "6302e7b4-7ed7-4932-9fe3-77e00137768f"}
   {:block/content "Retro on Logseq Whiteboard Development",
@@ -22,7 +22,7 @@
    :block/left
    {:block/uuid #uuid "6302e7b4-7ed7-4932-9fe3-77e00137768f"},
    :block/parent
-   {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
+   {:block/name "testing",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/uuid #uuid "6302e7c1-22da-4ff2-ac41-e649d5e4ab95"}
   {:block/properties
@@ -51,42 +51,20 @@
   {:block/content "",
    :block/format :markdown,
    :block/parent
-   {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
+   {:block/name "testing",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
-   :block/uuid #uuid "63043bc9-328d-4ac3-b5ec-ea55fe89a802"}
-  {:block/properties
-   {:blockType "B",
-    :stroke "var(--ls-primary-text-color)",
-    :collapsed false,
-    :index 1,
-    :scale [1 1],
-    :pageId "63043bc9-328d-4ac3-b5ec-ea55fe89a802",
-    :scaleLevel "md",
-    :ls-type :whiteboard-shape,
-    :fill "var(--ls-secondary-background-color)",
-    :compact true,
-    :type "logseq-portal",
-    :size [400 45],
-    :strokeType "line",
-    :strokeWidth 2,
-    :opacity 1,
-    :id "891d7100-228b-11ed-8bfc-6d076f804d2a",
-    :noFill false,
-    :point [-204.376953125 99.10546875],
-    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :collapsedHeight 0,
-    :nonce 1661221833682}}),
+   :block/uuid #uuid "63043bc9-328d-4ac3-b5ec-ea55fe89a802"}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
    :block/properties
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
     :bindings {},
-    :nonce 2,
+    :nonce 1,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661221833683,
+   :block/updated-at 1661221836291,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
-   :block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
-   :block/original-name "62f46cec-4adf-4823-b9e5-2b10484f0864"})}
+   :block/name "testing", 
+   :block/original-name "testing"})}
