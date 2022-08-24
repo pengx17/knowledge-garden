@@ -38,16 +38,16 @@
     :fill "var(--ls-secondary-background-color)",
     :compact false,
     :type "logseq-portal",
-    :size [690.14453125 429],
+    :size [690.14453125 543.9999694824219],
     :strokeType "line",
     :strokeWidth 2,
     :opacity 1,
     :id "e627d140-21c0-11ed-a20d-7fd7d97590ac",
     :noFill false,
-    :point [-38.01953125 -27.76171875],
+    :point [-91.07024845582532 -22.0316784194398],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661306999742}}
+    :nonce 1661307826226}}
   {:block/content "",
    :block/format :markdown,
    :block/left
@@ -64,36 +64,14 @@
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/properties {},
    :block/uuid #uuid "630580af-867b-43f2-aa37-de3ac7bf5329"}
-  {:block/properties
-   {:blockType "B",
-    :stroke "var(--ls-primary-text-color)",
-    :rotation 0,
-    :collapsed false,
-    :index 1,
-    :scale [1 1],
-    :pageId "630580af-867b-43f2-aa37-de3ac7bf5329",
-    :scaleLevel "md",
-    :ls-type :whiteboard-shape,
-    :fill "var(--ls-secondary-background-color)",
-    :compact true,
-    :type "logseq-portal",
-    :size [426.140625 45],
-    :strokeType "line",
-    :strokeWidth 2,
-    :opacity 1,
-    :id "1e69fd70-234d-11ed-8be4-adc0eb7d6233",
-    :noFill false,
-    :point [-852.955896026939 -38.74499952618402],
-    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :collapsedHeight 0,
-    :nonce 1661306999742}}
   {:block/content "repo-handler/persist-db!",
    :block/format :markdown,
    :block/parent
    {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"}
-  {:block/content "repo-handler/persist-db!",
+  {:block/content
+   "DONE Q: How does Logseq stores data into IndexedDB?",
    :block/format :markdown,
    :block/parent
    {:block/name "whiteboard on logseq whiteboard development",
@@ -105,7 +83,7 @@
     :stroke "var(--ls-primary-text-color)",
     :rotation 0,
     :collapsed false,
-    :index 2,
+    :index 1,
     :scale [1 1],
     :pageId "6305862d-38b0-46b5-af0e-d989f6002b16",
     :scaleLevel "md",
@@ -113,22 +91,22 @@
     :fill "var(--ls-secondary-background-color)",
     :compact false,
     :type "logseq-portal",
-    :size [419.30078125 270],
+    :size [660.8125 449.9389208874877],
     :strokeType "line",
     :strokeWidth 2,
     :opacity 1,
     :id "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
     :noFill false,
-    :point [-844.2725228763038 109.24924340808201],
+    :point [-855.7655752284169 -22.589382991345246],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661306999742}}
+    :nonce 1661307595492}}
   {:block/content "electron?",
    :block/format :markdown,
    :block/left
    {:block/uuid #uuid "630586b8-56e3-4da3-8e24-63e5e7ed6db5"},
    :block/parent
-   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   {:block/uuid #uuid "630586b8-56e3-4da3-8e24-63e5e7ed6db5"},
    :block/properties {},
    :block/uuid #uuid "6305866c-bd0e-491e-b425-3157b1fc9358"}
   {:block/content "ipc `saveGraph`",
@@ -150,81 +128,95 @@
   {:block/content "save-graph!",
    :block/format :markdown,
    :block/left
-   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   {:block/uuid #uuid "63058902-49af-4a5a-9870-f763dff0eb25"},
    :block/parent
-   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   {:block/uuid #uuid "63058902-49af-4a5a-9870-f763dff0eb25"},
    :block/properties {},
    :block/uuid #uuid "630586b8-56e3-4da3-8e24-63e5e7ed6db5"}
-  {:block/properties
-   {:stroke "var(--ls-primary-text-color, #000)",
-    :index 3,
-    :scale [1 1],
-    :ls-type :whiteboard-shape,
-    :fill "#ffffff",
-    :type "line",
-    :strokeType "line",
-    :strokeWidth 1,
-    :opacity 1,
-    :label "",
-    :id "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
-    :noFill true,
-    :point [-643.3 7.26],
-    :handles
-    {:start
-     {:id "start",
-      :canBind true,
-      :point [2.75 0],
-      :bindingId "dd2af810-2350-11ed-ba36-5f5f1e9c9e34"},
-     :end
-     {:id "end",
-      :canBind true,
-      :point [0 97.99],
-      :bindingId "385dd4f1-2351-11ed-ba36-5f5f1e9c9e34"}},
-    :decorations {:end "arrow"},
-    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :nonce 1661306999742}}
-  {:block/content "save into a `.transit` file",
+  {:block/content
+   "save into a `.transit` file under the `${home}/.logseq/graphs` directory",
    :block/format :markdown,
    :block/left
    {:block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"},
    :block/parent
    {:block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"},
    :block/properties {},
-   :block/uuid #uuid "63058866-10b1-4c1f-a337-f93b8d1b7b9c"}),
+   :block/uuid #uuid "63058866-10b1-4c1f-a337-f93b8d1b7b9c"}
+  {:block/content "save into the browser",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305868a-2035-414e-84ef-184301091e34"},
+   :block/parent
+   {:block/uuid #uuid "6305868a-2035-414e-84ef-184301091e34"},
+   :block/properties {},
+   :block/uuid #uuid "630588d2-a17a-4fc2-9fe3-57ce81383265"}
+  {:block/content "repo-handler/persist-db!",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/parent
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/properties {},
+   :block/uuid #uuid "63058902-49af-4a5a-9870-f763dff0eb25"}
+  {:block/content "how often it is being saved?",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "63058902-49af-4a5a-9870-f763dff0eb25"},
+   :block/parent
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/properties {},
+   :block/uuid #uuid "630589d6-e093-4416-bec9-f2504374f85d"}
+  {:block/content "switching graph",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "630589d6-e093-4416-bec9-f2504374f85d"},
+   :block/parent
+   {:block/uuid #uuid "630589d6-e093-4416-bec9-f2504374f85d"},
+   :block/properties {},
+   :block/uuid #uuid "63058a14-9c5e-4f05-b1e0-650ca3f4d257"}
+  {:block/content "closing window",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "63058a14-9c5e-4f05-b1e0-650ca3f4d257"},
+   :block/parent
+   {:block/uuid #uuid "630589d6-e093-4416-bec9-f2504374f85d"},
+   :block/properties {},
+   :block/uuid #uuid "63058a1b-b9c5-4ed0-bd98-968f5be3a44e"}
+  {:block/properties
+   {:isSizeLocked true,
+    :stroke "#850000",
+    :borderRadius 0,
+    :index 2,
+    :scale [1 1],
+    :ls-type :whiteboard-shape,
+    :fill "#850000",
+    :type "text",
+    :size [416 34],
+    :fontFamily
+    "var(--ls-font-family), 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    :strokeType "line",
+    :strokeWidth 2,
+    :opacity 1,
+    :id "bc44da00-2353-11ed-ba36-5f5f1e9c9e34",
+    :padding 4,
+    :fontWeight 400,
+    :noFill true,
+    :point [-856.1838232589787 -63.59158243103303],
+    :lineHeight 1.2,
+    :fontSize 20,
+    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
+    :nonce 1661307817975,
+    :text "Q: How does Logseq stores data into IndexedDB?"}}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
    :block/properties
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
-    :bindings
-    {:dd2af810-2350-11ed-ba36-5f5f1e9c9e34
-     {:id "dd2af810-2350-11ed-ba36-5f5f1e9c9e34",
-      :type "line",
-      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
-      :toId "1e69fd70-234d-11ed-8be4-adc0eb7d6233",
-      :handleId "start",
-      :point [0.5 0.5],
-      :distance 4},
-     :dd2af811-2350-11ed-ba36-5f5f1e9c9e34
-     {:id "dd2af811-2350-11ed-ba36-5f5f1e9c9e34",
-      :type "line",
-      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
-      :toId "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
-      :handleId "end",
-      :point [0.42 0.58],
-      :distance 4},
-     :385dd4f1-2351-11ed-ba36-5f5f1e9c9e34
-     {:id "385dd4f1-2351-11ed-ba36-5f5f1e9c9e34",
-      :type "line",
-      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
-      :toId "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
-      :handleId "end",
-      :point [0.47 0.53],
-      :distance 4}},
-    :nonce 6,
+    :bindings {},
+    :nonce 8,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661306999743,
+   :block/updated-at 1661307826226,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
    :block/name "whiteboard on logseq whiteboard development",

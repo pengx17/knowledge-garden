@@ -7,3 +7,6 @@
 			- The fundamental UI should be minimal and let the user to adapt for their own workflow
 		- The persistent format is not so important. We can use markdown to let it easier to be directly read/write in other Apps
 		- For Whiteboard, it uses the same database schema, but serving in different views
+	- Local first
+		- Can pasting all kinds of media into your local fs and do not need to worry about cloud service support
+			- pasting videos is supported as well!
