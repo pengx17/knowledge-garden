@@ -2,10 +2,10 @@
  ({:block/content "asdfasdf",
    :block/format :markdown,
    :block/left
-   {:block/name "testing",
+   {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/parent
-   {:block/name "testing",
+   {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/properties {},
    :block/uuid #uuid "6302e30a-58bc-4843-81b1-b372111b1fdc"}
@@ -14,7 +14,7 @@
    :block/left
    {:block/uuid #uuid "6302e30a-58bc-4843-81b1-b372111b1fdc"},
    :block/parent
-   {:block/name "testing",
+   {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/uuid #uuid "6302e7b4-7ed7-4932-9fe3-77e00137768f"}
   {:block/content "Retro on Logseq Whiteboard Development",
@@ -22,7 +22,7 @@
    :block/left
    {:block/uuid #uuid "6302e7b4-7ed7-4932-9fe3-77e00137768f"},
    :block/parent
-   {:block/name "testing",
+   {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
    :block/uuid #uuid "6302e7c1-22da-4ff2-ac41-e649d5e4ab95"}
   {:block/properties
@@ -53,20 +53,51 @@
    :block/left
    {:block/uuid #uuid "e627d140-21c0-11ed-a20d-7fd7d97590ac"},
    :block/parent
-   {:block/name "testing",
+   {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
-   :block/uuid #uuid "63043bc9-328d-4ac3-b5ec-ea55fe89a802"}),
+   :block/uuid #uuid "63043bc9-328d-4ac3-b5ec-ea55fe89a802"}
+  {:block/content
+   "LATER Q: How does Logseq stores data into IndexedDB?",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "whiteboard on logseq whiteboard development",
+    :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
+   :block/properties {},
+   :block/uuid #uuid "630580af-867b-43f2-aa37-de3ac7bf5329"}
+  {:block/properties
+   {:blockType "B",
+    :stroke "var(--ls-primary-text-color)",
+    :rotation 0,
+    :collapsed false,
+    :index 1,
+    :scale [1 1],
+    :pageId "630580af-867b-43f2-aa37-de3ac7bf5329",
+    :scaleLevel "md",
+    :ls-type :whiteboard-shape,
+    :fill "var(--ls-secondary-background-color)",
+    :compact true,
+    :type "logseq-portal",
+    :size [426.140625 45],
+    :strokeType "line",
+    :strokeWidth 2,
+    :opacity 1,
+    :id "1e69fd70-234d-11ed-8be4-adc0eb7d6233",
+    :noFill false,
+    :point [-852.955896026939 -38.74499952618402],
+    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
+    :collapsedHeight 0,
+    :nonce 1661305071480}}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
    :block/properties
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
     :bindings {},
-    :nonce 1,
+    :nonce 7,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661225744280,
+   :block/updated-at 1661305071481,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
-   :block/name "testing", 
-   :block/original-name "testing"})}
+   :block/name "whiteboard on logseq whiteboard development",
+   :block/original-name "Whiteboard on Logseq Whiteboard Development"})}
