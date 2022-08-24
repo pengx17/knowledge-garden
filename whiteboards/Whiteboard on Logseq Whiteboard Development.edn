@@ -47,7 +47,7 @@
     :point [-38.01953125 -27.76171875],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661225601533}}
+    :nonce 1661306999742}}
   {:block/content "",
    :block/format :markdown,
    :block/left
@@ -86,17 +86,145 @@
     :point [-852.955896026939 -38.74499952618402],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661305071480}}),
+    :nonce 1661306999742}}
+  {:block/content "repo-handler/persist-db!",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "whiteboard on logseq whiteboard development",
+    :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
+   :block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"}
+  {:block/content "repo-handler/persist-db!",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "whiteboard on logseq whiteboard development",
+    :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
+   :block/properties {},
+   :block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"}
+  {:block/properties
+   {:blockType "B",
+    :stroke "var(--ls-primary-text-color)",
+    :rotation 0,
+    :collapsed false,
+    :index 2,
+    :scale [1 1],
+    :pageId "6305862d-38b0-46b5-af0e-d989f6002b16",
+    :scaleLevel "md",
+    :ls-type :whiteboard-shape,
+    :fill "var(--ls-secondary-background-color)",
+    :compact false,
+    :type "logseq-portal",
+    :size [419.30078125 270],
+    :strokeType "line",
+    :strokeWidth 2,
+    :opacity 1,
+    :id "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
+    :noFill false,
+    :point [-844.2725228763038 109.24924340808201],
+    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
+    :collapsedHeight 0,
+    :nonce 1661306999742}}
+  {:block/content "electron?",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "630586b8-56e3-4da3-8e24-63e5e7ed6db5"},
+   :block/parent
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/properties {},
+   :block/uuid #uuid "6305866c-bd0e-491e-b425-3157b1fc9358"}
+  {:block/content "ipc `saveGraph`",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305866c-bd0e-491e-b425-3157b1fc9358"},
+   :block/parent
+   {:block/uuid #uuid "6305866c-bd0e-491e-b425-3157b1fc9358"},
+   :block/properties {},
+   :block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"}
+  {:block/content "`indexed-db/set-batch!`",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"},
+   :block/parent
+   {:block/uuid #uuid "6305866c-bd0e-491e-b425-3157b1fc9358"},
+   :block/properties {},
+   :block/uuid #uuid "6305868a-2035-414e-84ef-184301091e34"}
+  {:block/content "save-graph!",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/parent
+   {:block/uuid #uuid "6305862d-38b0-46b5-af0e-d989f6002b16"},
+   :block/properties {},
+   :block/uuid #uuid "630586b8-56e3-4da3-8e24-63e5e7ed6db5"}
+  {:block/properties
+   {:stroke "var(--ls-primary-text-color, #000)",
+    :index 3,
+    :scale [1 1],
+    :ls-type :whiteboard-shape,
+    :fill "#ffffff",
+    :type "line",
+    :strokeType "line",
+    :strokeWidth 1,
+    :opacity 1,
+    :label "",
+    :id "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
+    :noFill true,
+    :point [-643.3 7.26],
+    :handles
+    {:start
+     {:id "start",
+      :canBind true,
+      :point [2.75 0],
+      :bindingId "dd2af810-2350-11ed-ba36-5f5f1e9c9e34"},
+     :end
+     {:id "end",
+      :canBind true,
+      :point [0 97.99],
+      :bindingId "385dd4f1-2351-11ed-ba36-5f5f1e9c9e34"}},
+    :decorations {:end "arrow"},
+    :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
+    :nonce 1661306999742}}
+  {:block/content "save into a `.transit` file",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"},
+   :block/parent
+   {:block/uuid #uuid "6305867c-cb1d-46de-a27d-cc8b778a1e19"},
+   :block/properties {},
+   :block/uuid #uuid "63058866-10b1-4c1f-a337-f93b8d1b7b9c"}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
    :block/properties
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
-    :bindings {},
-    :nonce 7,
+    :bindings
+    {:dd2af810-2350-11ed-ba36-5f5f1e9c9e34
+     {:id "dd2af810-2350-11ed-ba36-5f5f1e9c9e34",
+      :type "line",
+      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
+      :toId "1e69fd70-234d-11ed-8be4-adc0eb7d6233",
+      :handleId "start",
+      :point [0.5 0.5],
+      :distance 4},
+     :dd2af811-2350-11ed-ba36-5f5f1e9c9e34
+     {:id "dd2af811-2350-11ed-ba36-5f5f1e9c9e34",
+      :type "line",
+      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
+      :toId "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
+      :handleId "end",
+      :point [0.42 0.58],
+      :distance 4},
+     :385dd4f1-2351-11ed-ba36-5f5f1e9c9e34
+     {:id "385dd4f1-2351-11ed-ba36-5f5f1e9c9e34",
+      :type "line",
+      :fromId "dd2af812-2350-11ed-ba36-5f5f1e9c9e34",
+      :toId "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
+      :handleId "end",
+      :point [0.47 0.53],
+      :distance 4}},
+    :nonce 6,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661305071481,
+   :block/updated-at 1661306999743,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
    :block/name "whiteboard on logseq whiteboard development",
