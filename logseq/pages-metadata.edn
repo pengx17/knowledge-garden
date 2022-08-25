@@ -1100,6 +1100,9 @@
  {:block/name "thu, 2022/08/11",
   :block/created-at 1660147203986,
   :block/updated-at 1660209302296}
+ {:block/name "thu, 2022/08/25",
+  :block/created-at 1661396343928,
+  :block/updated-at 1661396343928}
  {:block/name "til",
   :block/created-at 1656845810660,
   :block/updated-at 1656845810660}
@@ -1319,7 +1322,7 @@
   :block/updated-at 1656845809762}
  {:block/name "whiteboard on logseq whiteboard development",
   :block/created-at 1660185910371,
-  :block/updated-at 1661307826226}
+  :block/updated-at 1661396346117}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1656845808790,
   :block/updated-at 1656845808790}

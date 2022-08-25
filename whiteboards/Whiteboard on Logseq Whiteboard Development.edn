@@ -90,8 +90,9 @@
     :ls-type :whiteboard-shape,
     :fill "var(--ls-secondary-background-color)",
     :compact false,
+    :isAutoResizing true,
     :type "logseq-portal",
-    :size [660.8125 449.9389208874877],
+    :size [660.8125 447.0000305175781],
     :strokeType "line",
     :strokeWidth 2,
     :opacity 1,
@@ -100,7 +101,7 @@
     :point [-855.7655752284169 -22.589382991345246],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661307595492}}
+    :nonce 1661396346116}}
   {:block/content "electron?",
    :block/format :markdown,
    :block/left
@@ -205,7 +206,8 @@
     :lineHeight 1.2,
     :fontSize 20,
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :nonce 1661307817975,
+    :nonce 1661396346116,
+    :italic false,
     :text "Q: How does Logseq stores data into IndexedDB?"}}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
@@ -213,10 +215,10 @@
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
     :bindings {},
-    :nonce 8,
+    :nonce 1,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661307826226,
+   :block/updated-at 1661396346117,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
    :block/name "whiteboard on logseq whiteboard development",
