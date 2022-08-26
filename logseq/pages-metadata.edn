@@ -367,7 +367,7 @@
   :block/updated-at 1660577164065}
  {:block/name "fri, 2022/08/26",
   :block/created-at 1661500049421,
-  :block/updated-at 1661500049421}
+  :block/updated-at 1661501459218}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1656845810027,
   :block/updated-at 1656845810027}
@@ -767,7 +767,7 @@
   :block/updated-at 1657391292488}
  {:block/name "random read later",
   :block/created-at 1661500049327,
-  :block/updated-at 1661500999611}
+  :block/updated-at 1661501365295}
  {:block/name "re-frame",
   :block/created-at 1656845809763,
   :block/updated-at 1656845809763}
