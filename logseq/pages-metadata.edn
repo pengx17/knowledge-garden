@@ -365,6 +365,9 @@
  {:block/name "fri, 2022/08/12",
   :block/created-at 1660283888823,
   :block/updated-at 1660577164065}
+ {:block/name "fri, 2022/08/26",
+  :block/created-at 1661500049421,
+  :block/updated-at 1661500049421}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1656845810027,
   :block/updated-at 1656845810027}
@@ -762,6 +765,9 @@
  {:block/name "progress",
   :block/created-at 1657391292488,
   :block/updated-at 1657391292488}
+ {:block/name "random read later",
+  :block/created-at 1661500049327,
+  :block/updated-at 1661500049327}
  {:block/name "re-frame",
   :block/created-at 1656845809763,
   :block/updated-at 1656845809763}
@@ -1322,7 +1328,7 @@
   :block/updated-at 1656845809762}
  {:block/name "whiteboard on logseq whiteboard development",
   :block/created-at 1660185910371,
-  :block/updated-at 1661396346117}
+  :block/updated-at 1661481429914}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1656845808790,
   :block/updated-at 1656845808790}
