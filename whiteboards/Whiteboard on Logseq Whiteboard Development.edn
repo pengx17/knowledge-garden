@@ -98,10 +98,10 @@
     :opacity 1,
     :id "7b7c4150-2350-11ed-ba36-5f5f1e9c9e34",
     :noFill false,
-    :point [-855.7655752284169 -22.589382991345246],
+    :point [-853.7929189784169 -26.394070491345246],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1661396346116}}
+    :nonce 1661481429913}}
   {:block/content "electron?",
    :block/format :markdown,
    :block/left
@@ -206,7 +206,7 @@
     :lineHeight 1.2,
     :fontSize 20,
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :nonce 1661396346116,
+    :nonce 1661481429914,
     :italic false,
     :text "Q: How does Logseq stores data into IndexedDB?"}}),
  :pages
@@ -218,7 +218,7 @@
     :nonce 1,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661396346117,
+   :block/updated-at 1661481429914,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
    :block/name "whiteboard on logseq whiteboard development",
