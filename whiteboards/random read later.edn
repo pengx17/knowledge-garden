@@ -20,39 +20,47 @@
     :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
    :block/properties {},
    :block/uuid #uuid "630c9cef-fdfe-4c6d-adef-812a1ab4dd22"}
-  {:block/properties
-   {:blockType "B",
-    :stroke "var(--ls-primary-text-color)",
-    :collapsed false,
-    :index 0,
-    :scale [1 1],
-    :pageId "630c9cef-fdfe-4c6d-adef-812a1ab4dd22",
-    :scaleLevel "md",
-    :ls-type :whiteboard-shape,
-    :fill "var(--ls-secondary-background-color)",
-    :compact true,
-    :isAutoResizing true,
-    :type "logseq-portal",
-    :size [400 45],
-    :strokeType "line",
-    :strokeWidth 2,
-    :opacity 1,
-    :id "2a09aa40-278a-11ed-9c3e-abab28c1de95",
-    :noFill false,
-    :point [376.9453125 215.33203125],
-    :parentId "6308611e-e8cf-4051-9816-7dbc2e29b054",
-    :collapsedHeight 0,
-    :nonce 1661770991295}}),
+  {:block/content "asdfasdfasdf\n\n\nasdadasdasd",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "random read later",
+    :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
+   :block/uuid #uuid "630c9d06-7646-4742-9f9c-4a83b39aa6f9"}
+  {:block/content "asdfasdfasdf\n\n\nasdadasdasd",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "random read later",
+    :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
+   :block/uuid #uuid "630c9d06-4869-4640-ba09-a57292861a6e"}
+  {:block/content "asdfasdfasdf\n\n\nasdadasdasd",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "random read later",
+    :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
+   :block/uuid #uuid "630c9d06-8b89-43e0-8405-7a5fecc7d151"}
+  {:block/content "asdfasdfasdf\n\n\nasdadasdasd",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "random read later",
+    :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
+   :block/uuid #uuid "630c9d08-6719-4778-9b19-e223841a8329"}
+  {:block/content "asdadas\nid:: 630c9d10-6820-4769-b470-7f3227bda42d",
+   :block/format :markdown,
+   :block/parent
+   {:block/name "random read later",
+    :block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054"},
+   :block/properties {:id "630c9d10-6820-4769-b470-7f3227bda42d"},
+   :block/uuid #uuid "630c9d10-6820-4769-b470-7f3227bda42d"}),
  :pages
  ({:block/uuid #uuid "6308611e-e8cf-4051-9816-7dbc2e29b054",
    :block/properties
    {:id "6308611e-e8cf-4051-9816-7dbc2e29b054",
     :name "page",
     :bindings {},
-    :nonce 1,
+    :nonce 2,
     :assets []},
    :block/journal? false,
-   :block/updated-at 1661770993458,
+   :block/updated-at 1661771812278,
    :block/created-at 1661500049327,
    :block/whiteboard? true,
    :block/name "random read later",

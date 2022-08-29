@@ -1,0 +1,8 @@
+{:blocks (),
+ :pages
+ ({:block/created-at 1661771786616,
+   :block/name "test",
+   :block/properties
+   {:id "", :name "Page", :bindings {}, :nonce 1, :assets []},
+   :block/updated-at 1661771786616, 
+   :block/whiteboard? true})}
