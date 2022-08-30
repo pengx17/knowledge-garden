@@ -1,6 +1,6 @@
-body {
+html body {
   --ls-font-family: "Source Sans Pro";
-  font-family: "Source Sans Pro";
+  font-family: "Source Sans Pro" !important;
 }
 
 :not(pre):not(mark) > code {
