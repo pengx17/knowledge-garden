@@ -553,6 +553,9 @@
  {:block/name "logseq whiteboard with tldraw/save as logseq page",
   :block/created-at 1656845808274,
   :block/updated-at 1657644052311}
+ {:block/name "logseq whiteboard with tldraw/shape reordering",
+  :block/created-at 1661869796171,
+  :block/updated-at 1661869856237}
  {:block/name
   "logseq whiteboard with tldraw/single block model portal",
   :block/created-at 1658821381856,
@@ -1205,6 +1208,9 @@
  {:block/name "tue, 2022/08/23",
   :block/created-at 1661184137742,
   :block/updated-at 1661228207095}
+ {:block/name "tue, 2022/08/30",
+  :block/created-at 1661869774213,
+  :block/updated-at 1661869796172}
  {:block/name "twoslash",
   :block/created-at 1656845810152,
   :block/updated-at 1656845810152}
@@ -1334,7 +1340,7 @@
   :block/updated-at 1656845809762}
  {:block/name "whiteboard on logseq whiteboard development",
   :block/created-at 1660185910371,
-  :block/updated-at 1661481429914}
+  :block/updated-at 1661870045035}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1656845808790,
   :block/updated-at 1656845808790}
