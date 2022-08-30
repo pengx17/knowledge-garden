@@ -2,3 +2,8 @@ body {
   --ls-font-family: "Source Sans Pro";
   font-family: "Source Sans Pro";
 }
+
+:not(pre):not(mark)>code {
+  font-family: "JetBrainsMono Nerd Font" !important;
+  font-size: 0.8em;
+}
