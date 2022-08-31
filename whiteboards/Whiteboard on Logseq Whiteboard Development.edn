@@ -59,7 +59,7 @@
     :lineHeight 1.2,
     :fontSize 20,
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
-    :nonce 1661870045034,
+    :nonce 1661913412158,
     :italic false,
     :text "Q: How does Logseq stores data into IndexedDB?"}}
   {:block/content "ipc `saveGraph`",
@@ -224,17 +224,27 @@
    :block/parent
    {:block/name "whiteboard on logseq whiteboard development",
     :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
-   :block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"}),
+   :block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"}
+  {:block/content "{{renderer :todomaster}}",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "bc44da00-2353-11ed-ba36-5f5f1e9c9e34"},
+   :block/parent
+   {:block/name "whiteboard on logseq whiteboard development",
+    :block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"},
+   :block/properties {},
+   :block/uuid #uuid "630ec944-a456-4b18-ba2f-4a5ce4c88f03"}),
  :pages
  ({:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864",
    :block/properties
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
     :bindings {},
-    :nonce 1,
-    :assets []},
+    :nonce 3,
+    :assets [],
+    :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1661870045035,
+   :block/updated-at 1661913422942,
    :block/created-at 1660185910371,
    :block/whiteboard? true,
    :block/name "whiteboard on logseq whiteboard development",
