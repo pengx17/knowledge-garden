@@ -8,18 +8,46 @@
    :block/parent
    {:block/name "test",
     :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
-   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}),
+   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}
+  {:block/properties
+   {:rotation 0,
+    :index 0,
+    :scale [1 1],
+    :scaleLevel "xs",
+    :ls-type :whiteboard-shape,
+    :type "html",
+    :size [558.013671875 286.166015625],
+    :id "5472a4f0-2ada-11ed-bfa0-89ffc7a06275",
+    :point [268.046875 140.92578125],
+    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :nonce 1662135396183,
+    :html
+    "<iframe src=\"https://codesandbox.io/embed/framer-motion-drag-and-drop-d7en2?codemirror=1&fontsize=14&hidenavigation=1&theme=dark\"\n     style=\"width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;\"\n     title=\"framer-motion-drag-and-drop\"\n     allow=\"accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking\"\n     sandbox=\"allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts\"\n   ></iframe>"}}
+  {:block/properties
+   {:rotation 0,
+    :index 1,
+    :scale [1 1],
+    :scaleLevel "lg",
+    :ls-type :whiteboard-shape,
+    :type "html",
+    :size [558.013671875 286.166015625],
+    :id "9e8b9ba0-2ada-11ed-bfa0-89ffc7a06275",
+    :point [967.98046875 165.40234375],
+    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :nonce 1662135399142,
+    :html
+    "<iframe src=\"https://codesandbox.io/embed/framer-motion-drag-and-drop-d7en2?codemirror=1&fontsize=14&hidenavigation=1&theme=dark\"\n     style=\"width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;\"\n     title=\"framer-motion-drag-and-drop\"\n     allow=\"accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking\"\n     sandbox=\"allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts\"\n   ></iframe>"}}),
  :pages
  ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
    :block/properties
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 1,
+    :nonce 11,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1662103179013,
+   :block/updated-at 1662135399143,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 
