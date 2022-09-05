@@ -8,18 +8,64 @@
    :block/parent
    {:block/name "test",
     :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
-   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}),
+   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}
+  {:block/content "asdsdf",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"},
+   :block/parent
+   {:block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"},
+   :block/uuid #uuid "63156014-e2b6-4892-a155-191c443cb963"}
+  {:block/properties
+   {:blockType "B",
+    :stroke "var(--ls-primary-text-color)",
+    :collapsed false,
+    :index 0,
+    :scale [1 1],
+    :pageId "63156014-e2b6-4892-a155-191c443cb963",
+    :scaleLevel "md",
+    :ls-type :whiteboard-shape,
+    :fill "var(--ls-secondary-background-color)",
+    :compact false,
+    :isAutoResizing true,
+    :type "logseq-portal",
+    :size [400 146],
+    :strokeType "line",
+    :strokeWidth 2,
+    :opacity 1,
+    :id "2f5f6820-2cc3-11ed-96ec-8f97f34aea6f",
+    :noFill false,
+    :point [350.3359375 239.1875],
+    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :collapsedHeight 0,
+    :nonce 1662345252840}}
+  {:block/content "asasd",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "63156014-e2b6-4892-a155-191c443cb963"},
+   :block/parent
+   {:block/uuid #uuid "63156014-e2b6-4892-a155-191c443cb963"},
+   :block/properties {},
+   :block/uuid #uuid "6315601e-f3f8-42f4-b2e1-bfe9a3b0cf8c"}
+  {:block/content "asdasd",
+   :block/format :markdown,
+   :block/left
+   {:block/uuid #uuid "63156014-e2b6-4892-a155-191c443cb963"},
+   :block/parent
+   {:block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"},
+   :block/properties {},
+   :block/uuid #uuid "63156020-47d2-46db-a4e7-fa453349726b"}),
  :pages
  ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
    :block/properties
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 12,
+    :nonce 20,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1662135420020,
+   :block/updated-at 1662345252840,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 
