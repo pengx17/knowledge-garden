@@ -38,7 +38,7 @@
     :point [350.3359375 239.1875],
     :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :collapsedHeight 0,
-    :nonce 1662345252840}}
+    :nonce 1662483130383}}
   {:block/content "asasd",
    :block/format :markdown,
    :block/left
@@ -61,11 +61,11 @@
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 20,
+    :nonce 22,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1662345252840,
+   :block/updated-at 1662483130384,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 
