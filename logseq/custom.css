@@ -4,6 +4,6 @@ html body {
 }
 
 :not(pre):not(mark) > code {
-  font-family: "JetBrainsMono Nerd Font", monospace !important;
+  font-family: "JetBrainsMono Nerd Font" !important;
   font-size: 0.8em;
 }

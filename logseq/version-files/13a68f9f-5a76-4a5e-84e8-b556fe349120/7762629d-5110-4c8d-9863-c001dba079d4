@@ -54,57 +54,18 @@
    :block/parent
    {:block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"},
    :block/properties {},
-   :block/uuid #uuid "63156020-47d2-46db-a4e7-fa453349726b"}
-  {:block/content "wwwwasdfasdf",
-   :block/format :markdown,
-   :block/left
-   {:block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"},
-   :block/parent
-   {:block/name "test",
-    :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
-   :block/uuid #uuid "63194fd8-2782-45a6-9c33-57ed00af48ce"}
-  {:block/properties
-   {:blockType "B",
-    :stroke "var(--ls-primary-text-color)",
-    :collapsed false,
-    :index 1,
-    :scale [1 1],
-    :pageId "63194fd8-2782-45a6-9c33-57ed00af48ce",
-    :scaleLevel "md",
-    :ls-type :whiteboard-shape,
-    :fill "var(--ls-secondary-background-color)",
-    :compact false,
-    :isAutoResizing true,
-    :type "logseq-portal",
-    :size [400 146],
-    :strokeType "line",
-    :strokeWidth 2,
-    :opacity 1,
-    :id "dbad17d0-2f1b-11ed-a66c-778fbc312455",
-    :noFill false,
-    :point [426.76953125 555.7421875],
-    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
-    :collapsedHeight 0,
-    :nonce 1662603228058}}
-  {:block/content "wwww",
-   :block/format :markdown,
-   :block/left
-   {:block/uuid #uuid "63194fd8-2782-45a6-9c33-57ed00af48ce"},
-   :block/parent
-   {:block/uuid #uuid "63194fd8-2782-45a6-9c33-57ed00af48ce"},
-   :block/properties {},
-   :block/uuid #uuid "63194fdc-3ed7-4a7e-a94c-a56f539142b8"}),
+   :block/uuid #uuid "63156020-47d2-46db-a4e7-fa453349726b"}),
  :pages
  ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
    :block/properties
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 29,
+    :nonce 22,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1662603229151,
+   :block/updated-at 1662483130384,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 

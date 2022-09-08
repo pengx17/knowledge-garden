@@ -1,0 +1,26 @@
+{:blocks
+ ({:block/content
+   "https://cdn-animation.artstation.com/p/video_sources/000/932/661/final-01-1920-1080.mp4",
+   :block/format :markdown,
+   :block/left
+   {:block/name "test",
+    :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
+   :block/parent
+   {:block/name "test",
+    :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
+   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}),
+ :pages
+ ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+   :block/properties
+   {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :name "page",
+    :bindings {},
+    :nonce 1,
+    :assets [],
+    :ls-type :whiteboard-page},
+   :block/journal? false,
+   :block/updated-at 1662103179013,
+   :block/created-at 1661773538345,
+   :block/whiteboard? true,
+   :block/name "test", 
+   :block/original-name "test"})}

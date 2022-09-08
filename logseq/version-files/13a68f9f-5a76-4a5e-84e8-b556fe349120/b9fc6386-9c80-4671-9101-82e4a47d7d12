@@ -1,0 +1,49 @@
+{:blocks
+ ({:block/content
+   "https://cdn-animation.artstation.com/p/video_sources/000/932/661/final-01-1920-1080.mp4",
+   :block/format :markdown,
+   :block/left
+   {:block/name "test",
+    :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
+   :block/parent
+   {:block/name "test",
+    :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
+   :block/uuid #uuid "630eda8d-56f9-4ae6-b1a9-a7459ce00e61"}
+  {:block/properties
+   {:blockType "B",
+    :stroke "var(--ls-primary-text-color)",
+    :collapsed false,
+    :index 0,
+    :scale [1 1],
+    :pageId "630eda8d-56f9-4ae6-b1a9-a7459ce00e61",
+    :scaleLevel "md",
+    :ls-type :whiteboard-shape,
+    :fill "var(--ls-secondary-background-color)",
+    :compact true,
+    :isAutoResizing true,
+    :type "logseq-portal",
+    :size [400 93],
+    :strokeType "line",
+    :strokeWidth 2,
+    :opacity 1,
+    :id "1316cc80-28e0-11ed-99b4-334c79c78025",
+    :noFill false,
+    :point [257.13671875 225.3515625],
+    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :collapsedHeight 0,
+    :nonce 1661917837662}}),
+ :pages
+ ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+   :block/properties
+   {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
+    :name "page",
+    :bindings {},
+    :nonce 1,
+    :assets [],
+    :ls-type :whiteboard-page},
+   :block/journal? false,
+   :block/updated-at 1661917837662,
+   :block/created-at 1661773538345,
+   :block/whiteboard? true,
+   :block/name "test", 
+   :block/original-name "test"})}
