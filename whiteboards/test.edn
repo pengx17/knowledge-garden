@@ -58,9 +58,9 @@
     :id "c63f9b40-36f8-11ed-a285-d7a8ba94c9d3",
     :url
     "https://gist.github.com/steveruizok/3d1bf2b95c1bbac9b46658527a2ca717",
-    :point [303.7005073569958 174.2776529248028],
+    :point [350.97848890933307 272.0626805690027],
     :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
-    :nonce 1663469501386}}
+    :nonce 1663470160143}}
   {:block/content
    "(Now that this gist is public) the goal here is to attempt to remove the caching, while properly exposing tldraw's latency problem of showing shapes' outlines, sometime when the user drags a huge selection over many shapes. Caching here only improves the throughput at the cost of worst-case latency, which isn't what we want (and is generally not what we want in a UI app since we should be modeling it as a soft real-time system, not a backend service). Though it is very appealing, since for these common actions, the shapes and their outline don't move. Still, UX-wise, we should think about what happen when many of them do move. The answer right now would be: the calculations would be even slower, since now you need to rerun getOutline and have a cache invalidation. The cache's also unbounded for a while. Even if we do keep the cache, it's nice to think in a direction where we can't afford it, for the sake of code simplicity (caching is one of the hardest problems) and optimization.",
    :block/format :markdown,
@@ -76,11 +76,11 @@
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 119,
+    :nonce 156,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1663469501387,
+   :block/updated-at 1663470160143,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 
