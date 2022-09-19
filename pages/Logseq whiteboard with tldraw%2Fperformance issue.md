@@ -13,4 +13,16 @@ title:: Logseq whiteboard with tldraw/performance issue
 	- [proxy-state-tree](https://www.npmjs.com/package/proxy-state-tree)
 	- [proxy-watcher](https://www.npmjs.com/package/proxy-watcher)
 		- I think this one is close to what I want?
-- How about - add a subscriber to every shape and the `TLPage` class. When any related shape changes, push a
+- How about - add a subscriber to every shape and the `TLPage` class. When any related shape changes, push the changed ID to the list
+	- like this one? in https://github.com/mobxjs/mobx-utils#queueprocessor
+	  ```js
+	  const pendingNotifications = observable([])
+	  const stop = queueProcessor(pendingNotifications, msg => {
+	    // show Desktop notification
+	    new Notification(msg);
+	  })
+	  
+	  // usage:
+	  pendingNotifications.push("test!")
+	  ```
+	-
