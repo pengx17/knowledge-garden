@@ -12,4 +12,4 @@ title:: Logseq whiteboard with tldraw/performance issue
 	- [proxyequal](https://www.npmjs.com/package/proxyequal)
 	- [proxy-state-tree](https://www.npmjs.com/package/proxy-state-tree)
 	- [proxy-watcher](https://www.npmjs.com/package/proxy-watcher)
-	-
+		- I think this one is close to what I want :/

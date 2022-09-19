@@ -1,14 +1,26 @@
-{:blocks (),
+{:blocks
+ ({:block/properties
+   {:index 0,
+    :scale [1 1],
+    :ls-type :whiteboard-shape,
+    :type "iframe",
+    :size [853 480],
+    :id "d5cc2e00-37e5-11ed-92ce-a7bf8b8d0453",
+    :url
+    "https://stackblitz.com/edit/nodemon-ssuyjf?embed=1&file=index.js",
+    :point [317.34765625 188.9453125],
+    :parentId "631b5fc2-b74e-44fe-bc06-b6802fc82086",
+    :nonce 1663569579232}}),
  :pages
  ({:block/created-at 1663566042782,
    :block/name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
    :block/properties
    {:id "631b5fc2-b74e-44fe-bc06-b6802fc82086",
-    :name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
-    :ls-type :whiteboard-page,
+    :name "page",
     :bindings {},
-    :nonce 1,
-    :assets []},
-   :block/updated-at 1663566042782,
+    :nonce 3,
+    :assets [],
+    :ls-type :whiteboard-page},
+   :block/updated-at 1663569579233,
    :block/uuid #uuid "631b5fc2-b74e-44fe-bc06-b6802fc82086",
    :block/whiteboard? true})}
