@@ -12,4 +12,5 @@ title:: Logseq whiteboard with tldraw/performance issue
 	- [proxyequal](https://www.npmjs.com/package/proxyequal)
 	- [proxy-state-tree](https://www.npmjs.com/package/proxy-state-tree)
 	- [proxy-watcher](https://www.npmjs.com/package/proxy-watcher)
-		- I think this one is close to what I want :/
+		- I think this one is close to what I want?
+- How about - add a subscriber to every shape and the `TLPage` class. When any related shape changes, push a
