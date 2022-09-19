@@ -8,5 +8,8 @@ title:: Logseq whiteboard with tldraw/performance issue
 	- it **clones ALL shape props recursively** and **deep copy the current page model**
 	- This is OK when the number of shapes are small, but is super slow when there are lots of shapes
 - Try use some proxy base approach?
-	-
+	- https://github.com/dai-shi/proxy-compare
+	- [proxyequal](https://www.npmjs.com/package/proxyequal)
+	- [proxy-state-tree](https://www.npmjs.com/package/proxy-state-tree)
+	- [proxy-watcher](https://www.npmjs.com/package/proxy-watcher)
 	-
