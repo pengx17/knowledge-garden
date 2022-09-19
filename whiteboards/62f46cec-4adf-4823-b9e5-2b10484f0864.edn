@@ -45,10 +45,10 @@
     :opacity 1,
     :id "e627d140-21c0-11ed-a20d-7fd7d97590ac",
     :noFill false,
-    :point [111.75390625 41.6171875],
+    :point [81.9741009118917 -392.5056164755658],
     :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :collapsedHeight 0,
-    :nonce 1662483124817}}
+    :nonce 1663550245957}}
   {:block/content "",
    :block/format :markdown,
    :block/parent
@@ -61,11 +61,11 @@
    {:id "62f46cec-4adf-4823-b9e5-2b10484f0864",
     :name "page",
     :bindings {},
-    :nonce 7,
+    :nonce 11,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1662483124818,
+   :block/updated-at 1663550245959,
    :block/created-at 1662482979834,
    :block/whiteboard? true,
    :block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",

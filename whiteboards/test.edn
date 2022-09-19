@@ -48,19 +48,6 @@
    {:block/uuid #uuid "63194fd8-2782-45a6-9c33-57ed00af48ce"},
    :block/properties {},
    :block/uuid #uuid "63194fdc-3ed7-4a7e-a94c-a56f539142b8"}
-  {:block/properties
-   {:rotation 0,
-    :index 0,
-    :scale [1 1],
-    :ls-type :whiteboard-shape,
-    :type "iframe",
-    :size [1081.5262726492517 869.9338598016614],
-    :id "c63f9b40-36f8-11ed-a285-d7a8ba94c9d3",
-    :url
-    "https://gist.github.com/steveruizok/3d1bf2b95c1bbac9b46658527a2ca717",
-    :point [487.0652066319621 281.4945476467896],
-    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
-    :nonce 1663490789538}}
   {:block/content
    "(Now that this gist is public) the goal here is to attempt to remove the caching, while properly exposing tldraw's latency problem of showing shapes' outlines, sometime when the user drags a huge selection over many shapes. Caching here only improves the throughput at the cost of worst-case latency, which isn't what we want (and is generally not what we want in a UI app since we should be modeling it as a soft real-time system, not a backend service). Though it is very appealing, since for these common actions, the shapes and their outline don't move. Still, UX-wise, we should think about what happen when many of them do move. The answer right now would be: the calculations would be even slower, since now you need to rerun getOutline and have a cache invalidation. The cache's also unbounded for a while. Even if we do keep the cache, it's nice to think in a direction where we can't afford it, for the sake of code simplicity (caching is one of the hardest problems) and optimization.",
    :block/format :markdown,
@@ -69,30 +56,18 @@
    :block/parent
    {:block/name "test",
     :block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b"},
-   :block/uuid #uuid "6326871e-bd88-4d6f-a174-109b3c513714"}
-  {:block/properties
-   {:rotation 0,
-    :index 1,
-    :scale [1 1],
-    :ls-type :whiteboard-shape,
-    :type "iframe",
-    :size [853 732.9247374130264],
-    :id "c429cb10-372e-11ed-a4ba-f1bffd6a1a61",
-    :url "https://twitter.com/_chenglou/status/1571125630540054529",
-    :point [2212.7440692134796 480.0271914070463],
-    :parentId "630ca6e2-4afc-4043-8508-e5ce50232e0b",
-    :nonce 1663490954602}}),
+   :block/uuid #uuid "6326871e-bd88-4d6f-a174-109b3c513714"}),
  :pages
  ({:block/uuid #uuid "630ca6e2-4afc-4043-8508-e5ce50232e0b",
    :block/properties
    {:id "630ca6e2-4afc-4043-8508-e5ce50232e0b",
     :name "page",
     :bindings {},
-    :nonce 166,
+    :nonce 169,
     :assets [],
     :ls-type :whiteboard-page},
    :block/journal? false,
-   :block/updated-at 1663490954603,
+   :block/updated-at 1663513731336,
    :block/created-at 1661773538345,
    :block/whiteboard? true,
    :block/name "test", 
