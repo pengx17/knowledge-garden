@@ -7,4 +7,5 @@ title:: Logseq whiteboard with tldraw/performance issue
 - Whenever shape is updated through updated call, a Mobx `reaction` in `TLPage` will be called
 	- it **clones ALL shape props recursively** and **deep copy the current page model**
 	- This is OK when the number of shapes are small, but is super slow when there are lots of shapes
-- https://github.com/tldraw/tldraw/issues/957
+-
+	-
