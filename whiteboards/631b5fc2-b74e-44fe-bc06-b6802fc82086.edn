@@ -1,0 +1,14 @@
+{:blocks (),
+ :pages
+ ({:block/created-at 1663566042782,
+   :block/name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
+   :block/properties
+   {:id "631b5fc2-b74e-44fe-bc06-b6802fc82086",
+    :name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
+    :ls-type :whiteboard-page,
+    :bindings {},
+    :nonce 1,
+    :assets []},
+   :block/updated-at 1663566042782,
+   :block/uuid #uuid "631b5fc2-b74e-44fe-bc06-b6802fc82086",
+   :block/whiteboard? true})}

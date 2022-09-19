@@ -7,3 +7,13 @@ html body {
   font-family: "JetBrainsMono Nerd Font" !important;
   font-size: 0.8em;
 }
+
+.block-highlight,
+.content .selected {
+  background: linear-gradient(
+      to left,
+      var(--ls-block-highlight-color),
+      var(--ls-block-highlight-color)
+    )
+    no-repeat 20px 0;
+}
