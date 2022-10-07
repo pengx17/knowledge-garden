@@ -40,9 +40,6 @@
  {:block/name "62763866-3fb3-480f-b5db-058defd3ffb7",
   :block/created-at 1656845812963,
   :block/updated-at 1656845812963}
- {:block/name "62f46cec-4adf-4823-b9e5-2b10484f0864",
-  :block/created-at 1662482979834,
-  :block/updated-at 1663988544600}
  {:block/name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
   :block/created-at 1663566042782,
   :block/updated-at 1663570819484}
@@ -386,6 +383,12 @@
  {:block/name "fri, 2022/09/02",
   :block/created-at 1664432197861,
   :block/updated-at 1664432197861}
+ {:block/name "fri, 2022/10",
+  :block/created-at 1665131129836,
+  :block/updated-at 1665131129836}
+ {:block/name "fri, 2022/10/07",
+  :block/created-at 1665130849961,
+  :block/updated-at 1665131127910}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1664432199829,
   :block/updated-at 1664432199829}
@@ -1274,12 +1277,6 @@
  {:block/name "tue, 2022/08/30",
   :block/created-at 1664432197877,
   :block/updated-at 1664432197877}
- {:block/name "tue, 2022/09",
-  :block/created-at 1663032673221,
-  :block/updated-at 1663032673221}
- {:block/name "tue, 2022/09/13",
-  :block/created-at 1663031940631,
-  :block/updated-at 1663031940631}
  {:block/name "twoslash",
   :block/created-at 1664432199940,
   :block/updated-at 1664432199940}
@@ -1400,16 +1397,13 @@
  {:block/name "wed, 2022/08/17",
   :block/created-at 1664432197971,
   :block/updated-at 1664432197971}
- {:block/name "wed, 2022/09",
-  :block/created-at 1663032673221,
-  :block/updated-at 1663032673221}
- {:block/name "wed, 2022/09/07",
-  :block/created-at 1662482977341,
-  :block/updated-at 1662482977341}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
   :block/updated-at 1664432199598}
+ {:block/name "whiteboard on logseq whiteboard development",
+  :block/created-at 1660185910371,
+  :block/updated-at 1664432464095}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1664432198788,
   :block/updated-at 1664432198788}
