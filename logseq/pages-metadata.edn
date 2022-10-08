@@ -810,9 +810,6 @@
  {:block/name "progress",
   :block/created-at 1657391292488,
   :block/updated-at 1657391292488}
- {:block/name "random read later",
-  :block/created-at 1661500049327,
-  :block/updated-at 1661776474327}
  {:block/name "re-frame",
   :block/created-at 1664432200180,
   :block/updated-at 1664432200180}
@@ -1187,9 +1184,6 @@
  {:block/name "thu, 2022/09/08",
   :block/created-at 1664432197664,
   :block/updated-at 1664432197664}
- {:block/name "thu, 2022/09/29",
-  :block/created-at 1664432197354,
-  :block/updated-at 1664432197354}
  {:block/name "til",
   :block/created-at 1664432198253,
   :block/updated-at 1664432198253}
@@ -1409,7 +1403,7 @@
   :block/updated-at 1664432199598}
  {:block/name "whiteboard on logseq whiteboard development",
   :block/created-at 1660185910371,
-  :block/updated-at 1664432464095}
+  :block/updated-at 1665221408784}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1664432198788,
   :block/updated-at 1664432198788}
