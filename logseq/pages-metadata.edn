@@ -40,9 +40,6 @@
  {:block/name "62763866-3fb3-480f-b5db-058defd3ffb7",
   :block/created-at 1656845812963,
   :block/updated-at 1656845812963}
- {:block/name "631b5fc2-b74e-44fe-bc06-b6802fc82086",
-  :block/created-at 1663566042782,
-  :block/updated-at 1663570819484}
  {:block/name "@rollup",
   :block/created-at 1656845813897,
   :block/updated-at 1656845813897}
@@ -733,8 +730,8 @@
   :block/created-at 1665363410784,
   :block/updated-at 1665365241779}
  {:block/name "mon, 2022/10/17",
-  :block/created-at 1665972817668,
-  :block/updated-at 1665973330874}
+  :block/created-at 1665973814902,
+  :block/updated-at 1665974517449}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
@@ -823,11 +820,11 @@
   :block/created-at 1657391292488,
   :block/updated-at 1657391292488}
  {:block/name "quick capture",
-  :block/created-at 1665972817643,
-  :block/updated-at 1665972817643}
+  :block/created-at 1665973814842,
+  :block/updated-at 1665973814842}
  {:block/name "random read later 123",
-  :block/created-at 1661500049327,
-  :block/updated-at 1665365308844}
+  :block/created-at 1665974414130,
+  :block/updated-at 1665974414130}
  {:block/name "re-frame",
   :block/created-at 1664432200180,
   :block/updated-at 1664432200180}
@@ -848,8 +845,8 @@
   :block/created-at 1656845813760,
   :block/updated-at 1656845813760}
  {:block/name "react rfc",
-  :block/created-at 1665972817666,
-  :block/updated-at 1665972817666}
+  :block/created-at 1665973814900,
+  :block/updated-at 1665973814900}
  {:block/name "react types: removal of implicit children",
   :block/created-at 1656845813721,
   :block/updated-at 1656845813721}
@@ -970,12 +967,6 @@
  {:block/name "sat, 2022/09/17",
   :block/created-at 1664432197599,
   :block/updated-at 1664432197599}
- {:block/name "sat, 2022/10",
-  :block/created-at 1665196889911,
-  :block/updated-at 1665196889911}
- {:block/name "sat, 2022/10/08",
-  :block/created-at 1665194490293,
-  :block/updated-at 1665194490293}
  {:block/name "see - https:",
   :block/created-at 1654069285116,
   :block/updated-at 1654069285116}
@@ -1089,12 +1080,6 @@
  {:block/name "sun, 2022/09/18",
   :block/created-at 1664432197562,
   :block/updated-at 1664432197562}
- {:block/name "sun, 2022/10",
-  :block/created-at 1665293447727,
-  :block/updated-at 1665293447727}
- {:block/name "sun, 2022/10/09",
-  :block/created-at 1665293446373,
-  :block/updated-at 1665293446373}
  {:block/name "svelte",
   :block/created-at 1656845811695,
   :block/updated-at 1656845811695}
@@ -1216,11 +1201,11 @@
   :block/created-at 1664432197664,
   :block/updated-at 1664432197664}
  {:block/name "thu, 2022/10",
-  :block/created-at 1665972817645,
-  :block/updated-at 1665972817645}
+  :block/created-at 1665973814845,
+  :block/updated-at 1665973814845}
  {:block/name "thu, 2022/10/13",
-  :block/created-at 1665972817644,
-  :block/updated-at 1665972817644}
+  :block/created-at 1665973814843,
+  :block/updated-at 1665973814843}
  {:block/name "til",
   :block/created-at 1664432198253,
   :block/updated-at 1664432198253}
@@ -1314,12 +1299,6 @@
  {:block/name "tue, 2022/08/30",
   :block/created-at 1664432197877,
   :block/updated-at 1664432197877}
- {:block/name "tue, 2022/10",
-  :block/created-at 1665436981172,
-  :block/updated-at 1665436981172}
- {:block/name "tue, 2022/10/11",
-  :block/created-at 1665417923103,
-  :block/updated-at 1665417923103}
  {:block/name "twoslash",
   :block/created-at 1664432199940,
   :block/updated-at 1664432199940}
@@ -1446,7 +1425,7 @@
   :block/updated-at 1664432199598}
  {:block/name "whiteboard on logseq whiteboard development",
   :block/created-at 1660185910371,
-  :block/updated-at 1665457979678}
+  :block/updated-at 1665974175558}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1664432198788,
   :block/updated-at 1664432198788}
