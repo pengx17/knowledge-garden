@@ -734,7 +734,7 @@
   :block/updated-at 1665365241779}
  {:block/name "mon, 2022/10/17",
   :block/created-at 1665969284597,
-  :block/updated-at 1665971471283}
+  :block/updated-at 1665971739644}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
@@ -840,9 +840,16 @@
  {:block/name "react 18 issues",
   :block/created-at 1664432200182,
   :block/updated-at 1664432200182}
+ {:block/name
+  "react first class promise support of use hook and suspense",
+  :block/created-at 1665971739640,
+  :block/updated-at 1665971748609}
  {:block/name "react hot module reloading",
   :block/created-at 1656845813760,
   :block/updated-at 1656845813760}
+ {:block/name "react rfc",
+  :block/created-at 1665971739641,
+  :block/updated-at 1665971739641}
  {:block/name "react types: removal of implicit children",
   :block/created-at 1656845813721,
   :block/updated-at 1656845813721}
