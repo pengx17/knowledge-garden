@@ -130,4 +130,5 @@
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["logseq whiteboard with tldraw/save as logseq page" "Logseq whiteboard with tldraw" "思源字体" "Learning Clojure" "nextjs mdx rendering" "Logseq Publish GitHub Action" "jsplay"]
  :feature/enable-flashcards? false
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? true
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 0}, :calendar {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 1}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}}
