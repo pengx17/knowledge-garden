@@ -1203,6 +1203,9 @@
  {:block/name "thu, 2022/10/13",
   :block/created-at 1665973814843,
   :block/updated-at 1665973814843}
+ {:block/name "thu, 2022/10/20",
+  :block/created-at 1666232643853,
+  :block/updated-at 1666232673477}
  {:block/name "til",
   :block/created-at 1664432198253,
   :block/updated-at 1664432198253}
@@ -1421,7 +1424,7 @@
   :block/updated-at 1666163530889}
  {:block/name "wed, 2022/10/19",
   :block/created-at 1666163258149,
-  :block/updated-at 1666174395751}
+  :block/updated-at 1666232681720}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
