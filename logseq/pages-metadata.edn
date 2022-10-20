@@ -1424,7 +1424,7 @@
   :block/updated-at 1666163530889}
  {:block/name "wed, 2022/10/19",
   :block/created-at 1666163258149,
-  :block/updated-at 1666232847623}
+  :block/updated-at 1666234513125}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
