@@ -732,9 +732,6 @@
  {:block/name "mon, 2022/10/17",
   :block/created-at 1665973814902,
   :block/updated-at 1665974517449}
- {:block/name "mon, 2022/10/24",
-  :block/created-at 1666621627665,
-  :block/updated-at 1666621627665}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
@@ -763,8 +760,8 @@
   :block/created-at 1656845814082,
   :block/updated-at 1656845814082}
  {:block/name "nextjs 13",
-  :block/created-at 1666745282351,
-  :block/updated-at 1666745282351}
+  :block/created-at 1666755203486,
+  :block/updated-at 1666755203486}
  {:block/name "nextjs conf",
   :block/created-at 1666745266335,
   :block/updated-at 1666745266335}
@@ -1445,7 +1442,7 @@
   :block/updated-at 1666234513125}
  {:block/name "wed, 2022/10/26",
   :block/created-at 1666745248916,
-  :block/updated-at 1666745358010}
+  :block/updated-at 1666755361639}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
