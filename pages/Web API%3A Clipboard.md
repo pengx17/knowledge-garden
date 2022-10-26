@@ -1,2 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1173c393db31aad9f6d36c0def1253f267836213ecac4dd3c8439e7f73e1029cce16eadd98c8501</Key><RequestId>WHW3Z8VVWKE67SEM</RequestId><HostId>cr2FQdB9aYZb90aL1MSFiQ7xK5lnkaNvSd9p1II0bky1qz7v2CuWj7tJiVmQA0RL29yv76D8Bkg=</HostId></Error>
+title:: Web API: Clipboard
+
+- [Cut, Copy and Paste in JavaScript with the Clipboard API - SitePoint](https://www.sitepoint.com/clipboard-api/)
+- [Unblocking clipboard access (web.dev)](https://web.dev/async-clipboard/)
+	- Pasting is more complex because multiple `ClipboardItem` objects can be returned with differing content types. It’s therefore necessary to iterate through each type until a useful format is found. For example:
+	  id:: 62af02d0-0443-42e8-a284-946c162b0f89

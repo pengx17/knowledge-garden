@@ -1,2 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d12e3c23699839c4d73a0fc0eff8222b21653e3d3dcac4dd2cd411ccb2c9d4e6f01c40bf559b1d44</Key><RequestId>4MRKSAS3N38Z5YA9</RequestId><HostId>3RuMm2QlmhnMvaI0sxBP2aVpk/W1LJnXQRXrdwikDI0ggKZwVg5McyoXsFGSzmFp44RRrexBM18=</HostId></Error>
+icon:: ▲
+
+- There are several different approaches to [[MDX]] rendering in [[next.js]]
+	- `@next/mdx` https://nextjs.org/docs/advanced-features/using-mdx
+		- directly rendering `.mdx` files as pages / routes
+		- pros: easy to get started
+		- cons: layout is configured as default export, which is not easy to configure universal ones
+	- `next-mdx-remote` https://github.com/hashicorp/next-mdx-remote
+		- a MDX compiler that can be easily combined with `getStaticProps`
+		- we can use a standalone `[slug].tsx` to separate layouts and page contents
+		- page content can be managed in another place, even remotely
+	- `mdx-bundler` https://github.com/kentcdodds/mdx-bundler
+		- a MDX bundler ([[xdm]] with [[esbuild]])
+		- the approach is very similar to `next-mdx-remote`, but it allows "import/export"
+		- cons: the output size is 4x larger than `next-mdx-remote` according to https://github.com/hashicorp/next-mdx-remote#:~:text=at%20least%20400%25%20larger
+- ## 💡 How rendering works
+	- The approach to `next-mdx-remote` and `mdx-bundler` is pretty similar. In the `[slug].tsx`
+		- `getStaticPaths` to get the list of files to be built
+			- use `fs` to traverse the posts folder and list all `.mdx`
+			- use different `fallback` values to configure pre-rendering behavior for large number of files
+			- can even combine with remote API calls
+		- `getStaticProps` to get the mdx `->` **React Elements** for rendering
+			- this is where `next-mdx-remote` and `mdx-bundler` starts to kick in. We can compile/bundle the mdx file here during the **build time**.
+			- `next-mdx-remote/serialize` or `import {bundleMDX} from 'mdx-bundler'`
+		- `render`
+			- in `getStaticProps`, we have the MDX React elements **STRING** compiled. The elements will need the corresponding client to get rendered.
+			- both libraries use `Function` constructor to wrap the element string and then evaluate them to the page
+				- see https://github.com/kentcdodds/mdx-bundler/blob/a25d7f11b64e4261dee25388b61f2b96f8fee141/src/client.js#L32
+				- or https://github.com/hashicorp/next-mdx-remote/blob/f08d88581925df1ea4280f8add5af0ce3dfddf76/src/index.tsx#L69-L99
+-
+- asdasd
+	- asdasd
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

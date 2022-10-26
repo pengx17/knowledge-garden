@@ -1,2 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d109372f78806accce270785fbfc2f2a6d393a375ea69eb93c41da9915f20f555de0359e</Key><RequestId>PEKF3TDQ3PT3ZVX3</RequestId><HostId>Dz9W4uBYj/uJN0ep172TVJmYAzIGFv/pJttfvlysHc7BeVKn2FJMsisuEbZmefe+/LBE+fCbD3E=</HostId></Error>
+tags:: typeface
+
+- Blog posts
+  - [The birth of Inter: How the new open-source typeface used by GitHub and Mozilla came to be](https://www.figma.com/blog/the-birth-of-inter/)
+  - https://rsms.me/inter
+- Lab: https://rsms.me/inter/lab
+- Podcasts:
+  - https://changelog.com/podcast/449
+  - [#155：没有 face 的 interface 字体](https://www.xiaoyuzhoufm.com/episode/60e3883ec0919d0648c06445?s=eyJ1IjogIjVmMzI2OTZkZTBmNWU3MjNiYjUzYzVmNCJ9)

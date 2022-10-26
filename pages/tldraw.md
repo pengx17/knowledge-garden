@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d134353f6f933dcad73a84c09d2ee3de259b721f1ed1ce1e0b43</Key><RequestId>4NJZH86JA0NG6470</RequestId><HostId>pUrtR6qWzGgwr1EVtXhMHiZ4UyhAZS2VAZXYxuMZYCUksUHPO5nWnviVRx32zEgsfJwVOsA591A=</HostId></Error>
+alias:: tl:draw
+
+- Files end with `.tldr`
+- The VSCode plugin https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode
+- DOM based. Not using `canvas`
+- Documentations
+  - https://github.com/tldraw/tldraw/blob/main/guides/documentation.md
+-

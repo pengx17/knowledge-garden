@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d103353477873881e93d0589ede96c1a0d3731213b89ccce3836e38f37ccb2cf2fe57242c5d4711b33edfc0a48d70a</Key><RequestId>PEK2G73T21ZX9VNN</RequestId><HostId>4wYHclrSUTkfic++RFVr0mx4pD2yaKE0oMKn9ML2/LqpHelKZ32Aii7Zfd/uUPwF464NTXYjzQQ=</HostId></Error>
+- [Hiccup](https://github.com/weavejester/hiccup)
+  - Nov 2009
+  - All the frameworks I saw dependent on this syntax for writing JSX/HTML
+- [Reagent](https://github.com/reagent-project/reagent)
+  id:: 6244012f-3743-48fb-b69f-4593862ebd05
+  - Dec 2013
+- [Rum](https://github.com/tonsky/rum/)
+  id:: 6243ff14-4209-4a63-b874-992203a9073e
+  - since Dec 2014
+- [re-frame](https://github.com/Day8/re-frame)
+  id:: 6243ff6f-1d92-471d-ac32-da5414086692
+  - build ontop of ((6244012f-3743-48fb-b69f-4593862ebd05))
+  - since Dec 2014
+- [respo](https://github.com/Respo/respo.calcit) by Tiye, but it is no longer a CLJS project ...
+- [citrus](https://github.com/clj-commons/citrus) state management for ((6243ff14-4209-4a63-b874-992203a9073e))
+  - since Feb 2017
+  - Inspired by ((6243ff6f-1d92-471d-ac32-da5414086692))
+- https://www.reddit.com/r/Clojure/comments/fkvumc/reagent_vs_rum/

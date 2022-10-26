@@ -1,2 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10d3c2f7cad6aa8df261e83fcf1622220c4a837cf36a917c48cde4cf1ff26151f</Key><RequestId>4NJJP0QQFKCRJWM1</RequestId><HostId>uWTOlcGIxcgV9Fj9bWKEyuYNO1XiuVdM9YrrygXuEV/TJJtUNJ2vOPoKkjUPmVj29NkK8U/RVgg=</HostId></Error>
+title:: Meta: Lexical
+
+- https://codesandbox.io/s/lexical-plain-text-example-g932e?file=/src/nodes/EmojiNode.js
+- Seems a very promising text editor
+- Good plugin support
+-

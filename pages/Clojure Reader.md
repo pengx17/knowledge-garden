@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1033534778738819a0c1281f9f83e6129736661e5aeafa7c14460858470194c3a6f</Key><RequestId>Z95K8GBTSCBT8VNR</RequestId><HostId>XvNXZaWwTIDbiThwQwuotUcmLkoVUSwL7iykOsObT0NZJF4Td+dWq8WwRI5E8/+OmMUKLgkgZSo=</HostId></Error>
+- https://clojure.org/reference/reader#_metadata
+  - `^:dynamic` https://stackoverflow.com/questions/11730828/clojure-and-dynamic
+    - `binding`: https://clojuredocs.org/clojure.core/binding
+    - ;; As of Clojure 1.3, vars need to be explicitly marked as `^:dynamic` in order for
+      ;; them to be dynamically rebindable:
+    -
+-

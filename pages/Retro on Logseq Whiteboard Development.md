@@ -1,2 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1123c2f6f9d6a8bd47e3b8ffaee293e64403f3a2e81cbd63636ecdc5dc4a0d0f0d9e6513fcda6299d07143e099ffc75c7c65bff083693700f12</Key><RequestId>Z95MJQAWT3403ZKR</RequestId><HostId>ppEl84x8zSpMqwVgjzyo6GWS6N/yDOqHSSuyu33cXZqhd/clNBHNEvIqakbc9C89Ih16tvjfcXI=</HostId></Error>
+- goal: compose a blog post on the story behind
+- Claims
+	- Logseq is a *database*, like Airtable.
+		- The database is a generated from the baseline UI that the default App provides
+			- For Logseq, the basic entity of database is a Block
+		- It provides various sorts of angles to let the user to re-transforming the data in customized UI
+			- The fundamental UI should be minimal and let the user to adapt for their own workflow
+		- The persistent format is not so important. We can use markdown to let it easier to be directly read/write in other Apps
+		- For Whiteboard, it uses the same database schema, but serving in different views
+	- Local first
+		- Can pasting all kinds of media into your local fs and do not need to worry about cloud service support
+			- pasting videos is supported as well!

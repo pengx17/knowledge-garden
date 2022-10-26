@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1283c37719d6a93d52c1b84b3f028a888b5341e5a6bcc45e751112a3abcce</Key><RequestId>4MRR0DCS3V4TX503</RequestId><HostId>d9jofJQAhj7ojAaTwxYBiC8R4PK4XepcUcjbtTgvyl08OZcZ8Zok1QoAG+XYsLjcLHaglSzN9J4=</HostId></Error>
+type:: blogpost
+date:: [[Jun 19th, 2021]]
+
+- First blood!
+-

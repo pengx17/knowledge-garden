@@ -1,2 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10c363c6e973bc4cd361e94f8ff232e367377243390c1992328ec8e78d6f387dac6f34e3ccca06a910db38fa7fc2c3dda7cdcbad23c79e04cef7c6aec748cdf47d9534b4a</Key><RequestId>4NJMCJ2NWWESP5P4</RequestId><HostId>cHf0rPzIMvbQZOAx2B9wRcrhuXvoD8voOMRQSaL8uEXQ4222ccnpFcuQo8/3wK4rtUQhuW/Sv9I=</HostId></Error>
+title:: Logseq whiteboard with tldraw/performance issue
+
+- DONE `getTextLabelSize` memorize
+  :LOGBOOK:
+  CLOCK: [2022-07-26 Tue 09:31:32]--[2022-07-26 Tue 09:31:32] =>  00:00:00
+  :END:
+- Whenever shape is updated through updated call, a Mobx `reaction` in `TLPage` will be called
+	- it **clones ALL shape props recursively** and **deep copy the current page model**
+	- This is OK when the number of shapes are small, but is super slow when there are lots of shapes
+- Try use some proxy base approach?
+	- https://github.com/dai-shi/proxy-compare
+	- [proxyequal](https://www.npmjs.com/package/proxyequal)
+	- [proxy-state-tree](https://www.npmjs.com/package/proxy-state-tree)
+	- [proxy-watcher](https://www.npmjs.com/package/proxy-watcher)
+		- I think this one is close to what I want?
+- How about - add a subscriber to every shape and the `TLPage` class. When any related shape changes, push the changed ID to the list
+	- like this one? in https://github.com/mobxjs/mobx-utils#queueprocessor
+	  ```js
+	  const pendingNotifications = observable([])
+	  const stop = queueProcessor(pendingNotifications, msg => {
+	    // show Desktop notification
+	    new Notification(msg);
+	  })
+	  
+	  // usage:
+	  pendingNotifications.push("test!")
+	  ```
+	-

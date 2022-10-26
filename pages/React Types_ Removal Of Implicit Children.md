@@ -1,2 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1123c3a7e866ab0c32e1293c2bd1e2a2978213236c4e6df770de58c75c8b5dce896d55433cfb675950dfe87e3612d544dac0aa8395bc6f73c3d839162</Key><RequestId>WHW75ZC9KRQN5512</RequestId><HostId>q7EbIi0rIsQuVQGvn5MzopXPIMYpY19eZgwG1WbdSD8ZrLdh30/VQ0O/Jt6e7CH+3dwIRcslprE=</HostId></Error>
+title:: React Types: Removal Of Implicit Children
+
+- https://solverfox.dev/writing/no-implicit-children/

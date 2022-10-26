@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10c363c6e973bc4cd361e94f8ff232e367377243390c1992328ec8e78d6f387dac3f8583583ba6e8317bf98feb53623df6b9da1d3cbdf05cc56c597df781d3512d998aba0e40ced536fbdcf</Key><RequestId>HP2APPJT94JQC9PW</RequestId><HostId>dSHiPH+aLQRpC38xRKC0Fh5CnO5lfDT9Z4pbP5tdM4rnBkmV2HXf/qDS9EPkpaTLcWkkiOl8PF0=</HostId></Error>
+title:: Logseq whiteboard with tldraw/undo history improvement
+
+- https://courses.csail.mit.edu/6.831/archive/2006/lectures/L15.pdf
+- ![UI Design and Implementation - UNDO.pdf](../assets/UI_Design_and_Implementation_-_UNDO_1660709092713_0.pdf)

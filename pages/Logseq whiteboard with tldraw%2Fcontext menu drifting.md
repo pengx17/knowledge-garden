@@ -1,2 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10c363c6e973bc4cd361e94f8ff232e367377243390c1992328ec8e78d6f387dad5f9522ec6aa73d00eb584f2b53b3cc67f86bed8c19406dce30a850c4d553801ee6020b95a176ecd</Key><RequestId>WHW3D5R7KBPVCKFK</RequestId><HostId>z6JKLg9eDUpu3BXwX5A0K4nFtTrhiali+0b70xAG55jMPgHMw6NXmQgTABknFvfOgGgrlfVy/ts=</HostId></Error>
+title:: Logseq whiteboard with tldraw/context menu drifting
+
+- Seems to be an issue related to zoom (esp. when zoom < 1)
+	- The `screenBounds` value seems to be incorrect caused by camera position (top-left)?
+	- minX, minY
+	-

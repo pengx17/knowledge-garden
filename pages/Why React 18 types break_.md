@@ -1,2 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d11731223da02f85d92a57d1a5bd3836347224733896ccd83c1ba6917d078b084de08633a414ab028b69f9cb61</Key><RequestId>HP2D1GBVC70CKRXQ</RequestId><HostId>Fkh/ik766/Ol9/W29LS23M/g/PIGsim72N1OtN5rTGsyYo0bUJxdxrAXNsnmNQW46NdZPXQek5U=</HostId></Error>
+title:: Why React 18 types break?
+
+- {{renderer :linkpreview,https://github.com/facebook/react/issues/24304}}
+	- before
+	  ```ts
+	  interface FunctionComponent<P = {}> {
+	        (props: PropsWithChildren<P>, context?: any): ReactElement<any, any> | null;
+	        ...
+	  }
+	  ```
+	- after
+	  ```ts
+	  interface FunctionComponent<P = {}> {
+	    (props: P, context?: any): ReactElement<any, any> | null;
+	  }
+	  ```
+- There is a blog post explaining this [[React Types: Removal Of Implicit Children]]
+- There is even a ==codemod to fix this==
+	- https://github.com/eps1lon/types-react-codemod
+	- `npx types-react-codemod preset-18 ./src`
+- React 18 Types PR
+	- https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56210
+	- https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59838 add an exported map
+		- this breaks `require('!raw-loader?esModule=false!@types/react/index.d.ts')`
+			- use file path instead:
+				- `require('!raw-loader?esModule=false!../node_modules/@types/react/index.d.ts')`
+		- which causes similar issues for ((62566574-0718-4119-9df4-952a6ca9378e))
+-

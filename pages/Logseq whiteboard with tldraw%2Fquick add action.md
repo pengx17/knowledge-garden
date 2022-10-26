@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10c363c6e973bc4cd361e94f8ff232e367377243390c1992328ec8e78d6f387dac7e35539c8f2669407f08be4e13621c1379fb3f74f4545764b9c5045a27face77d2a71</Key><RequestId>Z95GP5MBQKV42BQ1</RequestId><HostId>RXQv4nNCAWsDevUXX4b+X/rmtdoBlKJ2nU4sVDM1xr0W02Ntc1Q+ZMsb8ZaJPPgMZMT3lOITVDk=</HostId></Error>
+title:: Logseq whiteboard with tldraw/quick add action
+
+- Double click to invoke the input
+	-

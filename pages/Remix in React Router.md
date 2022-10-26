@@ -1,2 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1123c36748a6a8dd47e2585fcfe386f167822273f9687d4330ada304eced5ac317578ae1de7490039</Key><RequestId>4NJJ0MJWYN3QEB3A</RequestId><HostId>PUN9xVFQXHPlSrrT9of0qNE3bN7WKKvq4yQMtGXPdJVswLl04ha24UMSTC1YCsdCSjOjQbTQUYk=</HostId></Error>
+tags:: remix, frontend
+
+- https://remix.run/blog/remixing-react-router
+- TL;DR
+  - RR will use [[Render As You Fetch]] pattern
+    - The core APIs, `<Routes />`, `<Route />` will have `loader` etc related data fetching props
+      - Define a route like this
+        - ```jsx
+          <Route
+            path=":projectId"
+            element={<Projects />}
+            // a lot of your loading is gonna be this simple, React
+            // Router will handle all the pending states and expose it
+            // to you so you can build pending/optimistic UI
+            loader={async ({ signal, params }) =>
+              fetch(`/api/projects/${params.projectId}`, { signal })
+            }
+          />
+          ```
+      - access the data in `Projects` component with `useLoaderData`
+      - access loading state with `useTransition`
+    - The Routes will be able to load data in parallel with this pattern
+  - Core apis also provide a `action` handler for handling `form` actions, thus support mutations
+    - LATER may refer to [[remix]] on this?
+  - Putting a lot of configs for route/routes may be too heavy. It is also possible to define **route modules**
+    - ```tsx
+      export async function loader(args) {
+        let actualLoader = await import("./actualModule").loader;
+        return actualLoader(args);
+      }
+
+      export async function action(args) {
+        let actualAction = await import("./actualModule").action;
+        return actualAction(args);
+      }
+
+      export const Component = React.lazy(
+        () => import("./actualModule").default
+      );
+      ```
+- Repository Merge
+  - history, react router, remix repos will be merged into one monorepo
+- Remix is "just a compiler and server for React Router".
+-

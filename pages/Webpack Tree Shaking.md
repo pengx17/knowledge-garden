@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1173c396d93298f9a0a0585f8bd1f27257c3e3d3dcac4dda7b367ae7af2b17dea01fdc50177442c</Key><RequestId>4MRZCCBWR8MW1S3K</RequestId><HostId>EakK2tLuruBAN09jELvQPJvjb650sSmhTzotQwT2fg+r3KD71GYHb3v6MHZXn9zBQ8Qo5FV7bpU=</HostId></Error>
+- Recently got a issue for demos in [[Code Kitchen]] that some runtime dependencies are not found in production build
+  - It seems to be related to [[Webpack]] tree shaking
+    - https://webpack.js.org/configuration/optimization/#optimizationprovidedexports
+    - > ... which exports are provided by modules to generate more efficient code for `export * from ....` By default optimization.providedExports is enabled.
+  - The issue will surface if use babel instead of [[SWC]]
+    - https://github.com/vercel/next.js/blob/canary/packages/next/build/babel/preset.ts
+    - I think Babel did the correct job

@@ -1,2 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10c363c6e973bc4cd361e94f8ff232e367377243390c1992328ec8e78d6f387dac5fe5d2ac6f275950ca28ee2e73620c8379fb3225353ea03eeb17b666184bc366a88f8</Key><RequestId>4MRVR6PNR9EAKVF0</RequestId><HostId>8z5UPUuo0eAJwN7eBL+9GWO4KTbYGZPDYbz9b9tjbO9l86ZzTAHv75Sw5uFRvLsLLMDiZOFVBCg=</HostId></Error>
+title:: Logseq whiteboard with tldraw/shape reordering
+
+- makes sense thanks for the explanation, so I guess currently the z-order was a number assigned on import, so say I import a stack of 50 pics, the z-order is set between 1-50 (so more  `move backwards`  are needed ? if I import 3 images the z is between 1 - 3 ?
+	- Yes
+- The plan to fix it
+	- lets say you want to change the ordering of shape

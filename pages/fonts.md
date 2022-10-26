@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d126363569816489de2544306a77b85abf395952df6e6e2e5f</Key><RequestId>Z95W81C9E8JXVE7H</RequestId><HostId>R7foriUR4d5PHX5u09iQ0P8SzF+jxyU2vEh0a/K7Ysg67sydTY61kKULNAmYy8zCnJ2l8NXb5wk=</HostId></Error>
+alias:: 字体
+
+- [[Font Glossary]]
+- LATER To read https://fonts.google.com/knowledge/using_type/styling_type_on_the_web_with_variable_fonts

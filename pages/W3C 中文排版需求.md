@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1176a183d16f2495cc8f006130fabc6ccfecbd3bc552b973a20efc82389af4476e7d25e46dddbdd2467</Key><RequestId>4MRSSRWD00G4FQMX</RequestId><HostId>nv76M3Y9eEfU30Eujnr7Q17dfP8VR22uSgooQzkEieq0PIwO57N62GPmfklSZbhmVcrn/a8SJoI=</HostId></Error>
+tags:: css, typeface
+
+- https://w3c.github.io/clreq/#chinese_and_western_mixed_text_composition
+- Logseq has a plugin to mimic the spacing between CJK & Latin letters
+  - https://github.com/sethyuan/logseq-plugin-charspacing

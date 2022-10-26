@@ -1,2 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1123c3a7e866a82d32c0494bdfe202e37647723288bc4d02421a88f6cd1a6daeec2b6533c83a7749543b885e8fe7f2fc17dd2a4c3d5ca0ed60bcddd35f819baf2a5f8a54425181f082e1ef4b783</Key><RequestId>4NJXR7WDXTMHD1F7</RequestId><HostId>IKqIFJva7iEVgcjPDqbalgeeRsBPPGQXArA8DQ0frsPr2HoOhxFv7nebRrbjrRJwqua2eKLRZDU=</HostId></Error>
+- https://github.com/acdlite/rfcs/blob/first-class-promises/text/0000-first-class-support-for-promises.md
+-
