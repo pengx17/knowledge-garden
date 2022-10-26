@@ -3,6 +3,10 @@ html body {
   font-family: "Source Sans Pro" !important;
 }
 
+.title {
+  font-family: var(--ls-font-family) !important;
+}
+
 :not(pre):not(mark) > code {
   font-family: "JetBrainsMono Nerd Font" !important;
   font-size: 0.8em;
