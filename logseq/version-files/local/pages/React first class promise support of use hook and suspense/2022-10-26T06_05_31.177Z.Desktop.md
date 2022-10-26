@@ -1,0 +1,2 @@
+- https://github.com/acdlite/rfcs/blob/first-class-promises/text/0000-first-class-support-for-promises.md
+-

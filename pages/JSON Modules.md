@@ -1,7 +1,2 @@
-- https://github.com/tc39/proposal-json-modules
-- Stage 3
-- ```js
-  import json from "./foo.json" assert { type: "json" };
-  import("foo.json", { assert: { type: "json" } });
-  ```
-- Not yet supported by babel
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10a0a1453d2078bde2b1b85eeb3212b56adbfade32c6f615322e6357bc1ec32</Key><RequestId>HP24RJW1FKCEKBRR</RequestId><HostId>Ghn7DrMwH8WlfYsS+lNvNO3X8abcDTjyudkST/64I7/SUP4AChZosviI4uc6v9tpiKaM4LGSRLY=</HostId></Error>

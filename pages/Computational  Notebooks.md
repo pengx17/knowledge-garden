@@ -1,8 +1,2 @@
-- https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
-- https://github.com/nextjournal/clerk
-- https://nextjournal.com/
-- https://observablehq.com/
-- https://github.com/gzuidhof/starboard-notebook - which is an opensource alternative to ObservableHQ
-  id:: 63436ecd-adac-455e-9c9f-1bf05eab10b5
-- [Node.js Notebooks vscode extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook)
-  id:: 63436ef4-b9b6-40d9-bdba-5fe033d1ad5f
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d10336366d873e85ce37188efcf16c6f0a782336388bc6d2246ae598f1a4dd3bde4a7458302f02042852a06f</Key><RequestId>4NJXVQQVCF15HPAD</RequestId><HostId>+7xprzyY2CkVYz3gZdjH74IED1AnBYz1Skax5H1khaNkXMtPRhGcbFmMg9cF+WfUQXCXsVq7eQY=</HostId></Error>

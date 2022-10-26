@@ -1,5 +1,2 @@
-title:: justfont: 字型下載之前，先看看 ⋯⋯
-src:: https://blog.justfont.com/2015/07/check-this-out-b4-downloading-fonts/
-
-- https://www.youtube.com/watch?v=ON_ADrrLkqk
--
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d12a2c286994258ace015705300aa9d1cff3efd8b258205deecf6d75944e6a3979331edbc628359b7b815b45651ef060c27df3a65fdf6fd58c3383cb54d6e366cacc</Key><RequestId>HP24H4QCYW9G1VJ6</RequestId><HostId>mvW/3yfgV6zgBaMAKXh3FmpKKpqAEbIFzT1G6UMfWGkG26bWJdMB1Ty3y3RSdm+mbQGKAC9yQvI=</HostId></Error>

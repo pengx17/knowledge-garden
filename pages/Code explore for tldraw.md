@@ -1,11 +1,2 @@
-- Seems [[tldraw]] is pretty stable since Jan.
-- does [[tldraw next]] provide custom shape definitions?
-- Joined the discord channel
-- Found [tldraw.dev](https://www.tldraw.dev/) in [discord](https://discord.com/channels/859816885297741824/914873545388064860/966228764600197140)
-  id:: 6bcfee03-8caa-4aad-ad61-a8575c4a2665
-	- tldraw provides the components and services you need to create whiteboards, creative tools and canvas experiences in your product.
-	- The author is building the next repo in a private fork [ref1](https://discord.com/channels/859816885297741824/926464446694580275/949283831767244821), [ref2](https://discord.com/channels/859816885297741824/916307888031563817/930370168947867659)
-	- ![image.png](../assets/image_1651918138169_0.png){:height 120, :width 787}
-	- I guess we could get a working version as the demo (not planning to use this as for long term purpose)?
-- [Tldraw codesandbox integration](https://discord.com/channels/859816885297741824/916307888031563817/923877762798870578)
-	- https://cdn.discordapp.com/attachments/916307888031563817/923877760957567026/code3.gif
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d103363f78d22f9cca321892f8bd2a203637233f3e96c8ce7929ec1fe485a606fdf6698eb4e7b92e0b1108</Key><RequestId>HP24B8MFSFKHX6QJ</RequestId><HostId>vsH5OANaQjdj7/lxQGqQ1eQCRUz+fD+qmQdhi5MsRhDmm853WpkT7nF8cuC+5grRb/QL9mwkXyk=</HostId></Error>

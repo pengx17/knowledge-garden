@@ -1,3 +1,2 @@
--
--
-- foobar
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d1222c3c6edc27802f1d324974179d3f4cca45e4542bcdeb</Key><RequestId>PEKC2JW0YP3RS6JB</RequestId><HostId>ZtJnAmraNWL2v+GEe1ojUf8j6KR4OElte+OeHWf1Yd7XpM616NYYPG96dHskNN7nIAYoeGThcU4=</HostId></Error>

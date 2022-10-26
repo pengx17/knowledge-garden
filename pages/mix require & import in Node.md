@@ -1,6 +1,2 @@
-- https://www.kindacode.com/article/node-js-how-to-use-import-and-require-in-the-same-file/
-- ```js
-  // These lines make "require" available
-  import { createRequire } from "module";
-  const require = createRequire(import.meta.url);
-  ```
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>e16ebb99-4a65-4193-82ce-118690e1af3d/55b5d2b1-85d0-4370-800a-9c8caca198ee/e.4188385288d12d30233d802f95cf370585bdbb6c26296738212ec4c0d7770ae7987c8fbbd1afb0217c20d02af58d9e3ecc04bb6a94</Key><RequestId>WHWDDMTRA363CKT0</RequestId><HostId>aiHLmdXddmgksSsLz0xKUNC96ydwORZAblL2GKrqBq8jPFd6xb9R1KgaTzzDd+YQMIklNyHq9HM=</HostId></Error>
