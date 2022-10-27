@@ -71,6 +71,9 @@
  {:block/name "amazon codeguru",
   :block/created-at 1656845811146,
   :block/updated-at 1656845811146}
+ {:block/name "app directory in next.js 13",
+  :block/created-at 1666837305026,
+  :block/updated-at 1666837305026}
  {:block/name "application footprint",
   :block/created-at 1656845813671,
   :block/updated-at 1656845813671}
@@ -1235,7 +1238,7 @@
   :block/updated-at 1666779080704}
  {:block/name "thu, 2022/10/27",
   :block/created-at 1666805819312,
-  :block/updated-at 1666805819312}
+  :block/updated-at 1666837372932}
  {:block/name "til",
   :block/created-at 1664432198253,
   :block/updated-at 1664432198253}
