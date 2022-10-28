@@ -394,7 +394,7 @@
   :block/updated-at 1665131127910}
  {:block/name "fri, 2022/10/28",
   :block/created-at 1666886477080,
-  :block/updated-at 1666935697819}
+  :block/updated-at 1666936375644}
  {:block/name "front-end performance 2021: planning and metrics",
   :block/created-at 1664432199829,
   :block/updated-at 1664432199829}
@@ -1050,6 +1050,9 @@
  {:block/name "state of js",
   :block/created-at 1664432200264,
   :block/updated-at 1664432200264}
+ {:block/name "stc the rust typescript type checker",
+  :block/created-at 1666936351314,
+  :block/updated-at 1666936353393}
  {:block/name "sun, 2022",
   :block/created-at 1664432199791,
   :block/updated-at 1664432199791}
