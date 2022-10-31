@@ -746,7 +746,7 @@
   :block/updated-at 1666779087811}
  {:block/name "mon, 2022/10/31",
   :block/created-at 1667184087253,
-  :block/updated-at 1667184087253}
+  :block/updated-at 1667187948787}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
@@ -997,9 +997,6 @@
  {:block/name "sat, 2022/10",
   :block/created-at 1666973592523,
   :block/updated-at 1666973592523}
- {:block/name "sat, 2022/10/29",
-  :block/created-at 1666973508836,
-  :block/updated-at 1666973508836}
  {:block/name "see - https:",
   :block/created-at 1654069285116,
   :block/updated-at 1654069285116}
