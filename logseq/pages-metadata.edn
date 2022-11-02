@@ -80,9 +80,6 @@
  {:block/name "apps build with tldraw",
   :block/created-at 1664432199242,
   :block/updated-at 1664432199242}
- {:block/name "asdfasdfww",
-  :block/created-at 1665224303295,
-  :block/updated-at 1665973387440}
  {:block/name "assemblyscript",
   :block/created-at 1656845811194,
   :block/updated-at 1656845811194}
@@ -614,9 +611,6 @@
  {:block/name "logstash",
   :block/created-at 1656845812041,
   :block/updated-at 1656845812041}
- {:block/name "lol",
-  :block/created-at 1660133420500,
-  :block/updated-at 1661162131549}
  {:block/name "macchiato",
   :block/created-at 1664432199319,
   :block/updated-at 1664432199319}
@@ -1140,9 +1134,6 @@
  {:block/name "tc39",
   :block/created-at 1664432198692,
   :block/updated-at 1664432198692}
- {:block/name "test",
-  :block/created-at 1661773538345,
-  :block/updated-at 1667283276233}
  {:block/name "test-wb",
   :block/created-at 1664432198091,
   :block/updated-at 1664432198091}
@@ -1510,9 +1501,6 @@
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
   :block/updated-at 1664432199598}
- {:block/name "whiteboard on logseq whiteboard development",
-  :block/created-at 1660185910371,
-  :block/updated-at 1665974175558}
  {:block/name "whiteboard ux ideas",
   :block/created-at 1664432198788,
   :block/updated-at 1664432198788}
