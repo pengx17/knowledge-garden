@@ -1245,6 +1245,12 @@
  {:block/name "thu, 2022/10/27",
   :block/created-at 1666805819312,
   :block/updated-at 1666861831520}
+ {:block/name "thu, 2022/11",
+  :block/created-at 1667453963002,
+  :block/updated-at 1667453963002}
+ {:block/name "thu, 2022/11/03",
+  :block/created-at 1667453951550,
+  :block/updated-at 1667453951550}
  {:block/name "til",
   :block/created-at 1664432198253,
   :block/updated-at 1664432198253}
