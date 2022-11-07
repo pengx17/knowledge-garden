@@ -129,6 +129,9 @@
  {:block/name "canvas-based note taking apps",
   :block/created-at 1664432199272,
   :block/updated-at 1664432199272}
+ {:block/name "capacitor",
+  :block/created-at 1667809714295,
+  :block/updated-at 1667809714295}
  {:block/name "card",
   :block/created-at 1664432237150,
   :block/updated-at 1664432237150}
@@ -216,6 +219,9 @@
  {:block/name "cool tech",
   :block/created-at 1656845812346,
   :block/updated-at 1656845812346}
+ {:block/name "cordova",
+  :block/created-at 1667810074746,
+  :block/updated-at 1667810074746}
  {:block/name "css",
   :block/created-at 1666779087843,
   :block/updated-at 1666779087843}
@@ -502,6 +508,9 @@
  {:block/name "inter (typeface)",
   :block/created-at 1656845812504,
   :block/updated-at 1656845812504}
+ {:block/name "ionic",
+  :block/created-at 1667809944840,
+  :block/updated-at 1667809944840}
  {:block/name "is clojure good for making games?",
   :block/created-at 1656845810660,
   :block/updated-at 1656845810660}
@@ -550,6 +559,9 @@
  {:block/name "logseq ideas",
   :block/created-at 1664432200142,
   :block/updated-at 1664432200142}
+ {:block/name "logseq mobile development",
+  :block/created-at 1667809352704,
+  :block/updated-at 1667809702939}
  {:block/name "logseq plugin link preview",
   :block/created-at 1664432200102,
   :block/updated-at 1664432200102}
@@ -763,6 +775,12 @@
  {:block/name "mon, 2022/10/31",
   :block/created-at 1667184087253,
   :block/updated-at 1667187948787}
+ {:block/name "mon, 2022/11",
+  :block/created-at 1667809687414,
+  :block/updated-at 1667809687414}
+ {:block/name "mon, 2022/11/07",
+  :block/created-at 1667809347645,
+  :block/updated-at 1667810074748}
  {:block/name "mono wang",
   :block/created-at 1656845812711,
   :block/updated-at 1656845812711}
