@@ -80,6 +80,9 @@
  {:block/name "apps build with tldraw",
   :block/created-at 1664432199242,
   :block/updated-at 1664432199242}
+ {:block/name "article - ideas for datascript 2",
+  :block/created-at 1667960193807,
+  :block/updated-at 1667960193807}
  {:block/name
   "asdfasdfasdfwwasdfasdfasdfwwasdfasdfasdfwwasdfasdfasdfwwasdfasdfasdfwwasdfasdfasdfwwasdfasdfasdfwwasdfasdfas dfwwasdfasdfasdfwwasdfasdfasdf wwasdfasdfasdfwwasdf",
   :block/created-at 1667644471937,
@@ -1318,6 +1321,9 @@
  {:block/name "todo",
   :block/created-at 1664432237150,
   :block/updated-at 1664432237150}
+ {:block/name "tonsky",
+  :block/created-at 1667960469623,
+  :block/updated-at 1667960469623}
  {:block/name "tue, 2007",
   :block/created-at 1666764321280,
   :block/updated-at 1666764321280}
@@ -1413,7 +1419,7 @@
   :block/updated-at 1667360432800}
  {:block/name "tue, 2022/11/08",
   :block/created-at 1667836980718,
-  :block/updated-at 1667898222198}
+  :block/updated-at 1667960130988}
  {:block/name "turbo",
   :block/created-at 1666745312003,
   :block/updated-at 1666745312003}
@@ -1560,7 +1566,7 @@
   :block/updated-at 1667380928894}
  {:block/name "wed, 2022/11/09",
   :block/created-at 1667923202567,
-  :block/updated-at 1667923202567}
+  :block/updated-at 1667960495758}
  {:block/name
   "what is the differences between clojurescript with clojure",
   :block/created-at 1664432199598,
