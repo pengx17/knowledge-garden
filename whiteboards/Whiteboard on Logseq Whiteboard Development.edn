@@ -16,7 +16,7 @@
 :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864"
 :nonce 1667618560277
 :clipping 0}}
-:block/updated-at 1668478992741} 
+:block/updated-at 1668480929622} 
 {:block/content "asdfasdf"
 :block/format :markdown
 :block/left 
@@ -79,7 +79,7 @@
 :nonce 1661913412159
 :italic false
 :text "Q: How does Logseq stores data into IndexedDB?"}}
-:block/updated-at 1668478992740} 
+:block/updated-at 1668480929622} 
 {:block/content "ipc `saveGraph`"
 :block/format :markdown
 :block/left 
@@ -126,7 +126,7 @@
 :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864"
 :collapsedHeight 0
 :nonce 1661307826494}}
-:block/updated-at 1668478992739} 
+:block/updated-at 1668480929621} 
 {:block/content "save into a `.transit` file under the `${home}/.logseq/graphs` directory"
 :block/format :markdown
 :block/left 
@@ -199,11 +199,11 @@
 :id "0c910850-5cb9-11ed-855b-b125b90023da"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [-1136.9153818701654 767.4896190458248]
+:point [-1167.6410871330327 727.676986024177]
 :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864"
-:nonce 1667618536790
+:nonce 1667618536810
 :clipping 0}}
-:block/updated-at 1668478992740} 
+:block/updated-at 1668480929622} 
 {:block/content "closing window"
 :block/format :markdown
 :block/left 
@@ -268,14 +268,46 @@
 :parentId "62f46cec-4adf-4823-b9e5-2b10484f0864"
 :collapsedHeight 0
 :nonce 1661870045155}}
-:block/updated-at 1668478992739} 
+:block/updated-at 1668480929622} 
 {:block/content "repo-handler/persist-db!"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "630580af-867b-43f2-aa37-de3ac7bf5329"}
 :block/parent 
 {:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"}
-:block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"})
+:block/uuid #uuid "630585b0-c04e-43b2-a404-f8e09616737e"} 
+{:block/created-at 1668480920636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f0c453e0-6490-11ed-b909-15b61a1cb844"
+:noFill true
+:point [-702.64 784.76]
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 41.11]
+:bindingId "f0c42cd0-6490-11ed-b909-15b61a1cb844"}
+:end 
+{:id "end"
+:canBind true
+:point [569.67 0]
+:bindingId "f0c42cd1-6490-11ed-b909-15b61a1cb844"}}
+:decorations 
+{:end "arrow"}
+:parentId "62f46cec-4adf-4823-b9e5-2b10484f0864"
+:nonce 1668480919624}}
+:block/updated-at 1668480929622})
 :pages (
 {:block/uuid #uuid "62f46cec-4adf-4823-b9e5-2b10484f0864"
 :block/properties 
@@ -284,8 +316,23 @@
 {:id "62f46cec-4adf-4823-b9e5-2b10484f0864"
 :name "page"
 :bindings 
-{}
-:nonce 40
+{:f0c42cd0-6490-11ed-b909-15b61a1cb844 
+{:id "f0c42cd0-6490-11ed-b909-15b61a1cb844"
+:type "line"
+:fromId "f0c453e0-6490-11ed-b909-15b61a1cb844"
+:toId "0c910850-5cb9-11ed-855b-b125b90023da"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f0c42cd1-6490-11ed-b909-15b61a1cb844 
+{:id "f0c42cd1-6490-11ed-b909-15b61a1cb844"
+:type "line"
+:fromId "f0c453e0-6490-11ed-b909-15b61a1cb844"
+:toId "e627d140-21c0-11ed-a20d-7fd7d97590ac"
+:handleId "end"
+:point [0.64 0.48]
+:distance 4}}
+:nonce 44
 :assets [
 {:id "0c90e140-5cb9-11ed-855b-b125b90023da"
 :type "image"
@@ -296,7 +343,7 @@
 :src "../assets/image_1667618560197_0.png"
 :size [884 378]}]}}
 :block/journal? false
-:block/updated-at 1668478992739
+:block/updated-at 1668480929621
 :block/created-at 1660185910371
 :block/whiteboard? true
 :block/type "whiteboard"

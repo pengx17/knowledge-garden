@@ -1,0 +1,17 @@
+{:blocks ()
+:pages (
+{:block/created-at 1668481539920
+:block/name "designing"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "63730203-a820-44f8-bf73-5eaaf0edb011"
+:name "63730203-a820-44f8-bf73-5eaaf0edb011"
+:ls-type :whiteboard-page
+:bindings 
+{}
+:nonce 1
+:assets []}}
+:block/type "whiteboard"
+:block/updated-at 1668481539920
+:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"})}
