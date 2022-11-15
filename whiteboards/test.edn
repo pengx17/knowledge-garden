@@ -25,14 +25,21 @@
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
 :nonce 1668481562142}}
-:block/updated-at 1668481605433} 
+:block/updated-at 1668481646859} 
 {:block/content "In the last decade we have seen many interesting developments in databases, in dis‐\ntributed systems, and in the ways we build applications on top of them. There are\nvarious driving forces for these developments:"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"}
 :block/parent 
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"}
-:block/uuid #uuid "63730242-08cd-4bf5-b513-6244ca83fa0c"})
+:block/uuid #uuid "63730242-08cd-4bf5-b513-6244ca83fa0c"} 
+{:block/content "and backend systems, you have probably been bombarded with a plethora of buzz‐"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63730242-08cd-4bf5-b513-6244ca83fa0c"}
+:block/parent 
+{:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"}
+:block/uuid #uuid "6373026d-e804-48b1-97fd-44bb00a73943"})
 :pages (
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :block/properties 
@@ -42,9 +49,9 @@
 :name "page"
 :bindings 
 {}
-:nonce 12
+:nonce 11
 :assets []}}
-:block/updated-at 1668481605433
+:block/updated-at 1668481646859
 :block/created-at 1668481539923
 :block/type "whiteboard"
 :block/name "test"
