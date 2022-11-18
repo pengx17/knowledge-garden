@@ -21,10 +21,10 @@
 :pageId "63772f95-16d4-431f-8188-90e4edb139b7"
 :scaleLevel "md"
 :fill ""
-:compact false
+:compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 113]
+:size [400 41]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,8 +33,8 @@
 :point [488.26953125 184.74609375]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668755353006}}
-:block/updated-at 1668755437420})
+:nonce 1668755353008}}
+:block/updated-at 1668756468244})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -44,10 +44,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 8
+:nonce 10
 :assets []}}
 :block/journal? false
-:block/updated-at 1668755437420
+:block/updated-at 1668756468244
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
