@@ -36,7 +36,7 @@
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
 :nonce 1668755353091}}
-:block/updated-at 1668875994924} 
+:block/updated-at 1668876637196} 
 {:block/created-at 1668875989434
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -45,7 +45,7 @@
 :borderRadius 2
 :index 1
 :scale [1 1]
-:refs ["logseq mobile development"]
+:refs ["foo" "bar"]
 :fill ""
 :type "box"
 :size [343.1875 205.0390625]
@@ -56,8 +56,38 @@
 :noFill false
 :point [736.1484375000002 413.0179687500006]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:nonce 1668875989118}}
-:block/updated-at 1668875994925})
+:nonce 1668875989131}}
+:block/updated-at 1668876637197} 
+{:block/created-at 1668876147551
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "26b4bbc1-6829-11ed-b225-9387a329ca50"
+:noFill true
+:point [718.28 758.62]
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 101.73]}
+:end 
+{:id "end"
+:canBind true
+:point [228.32 0]}}
+:decorations 
+{:end "arrow"}
+:parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
+:nonce 1668876147095}}
+:block/updated-at 1668876637197})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -67,10 +97,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 26
+:nonce 41
 :assets []}}
 :block/journal? false
-:block/updated-at 1668875994924
+:block/updated-at 1668876637196
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
