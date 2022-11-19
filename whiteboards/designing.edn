@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "asdfasdf\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
+{:block/content "Some random content\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"}
@@ -14,10 +14,12 @@
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
+:rotation 0
 :collapsed false
 :borderRadius 8
 :index 0
-:scale [1 1]
+:scale [1 -1]
+:refs ["logseq mobile development" "contents"]
 :pageId "63772f95-16d4-431f-8188-90e4edb139b7"
 :scaleLevel "md"
 :fill ""
@@ -30,11 +32,32 @@
 :opacity 1
 :id "e7b20f50-670f-11ed-8f34-f77d6626cbe2"
 :noFill false
-:point [488.26953125 184.74609375]
+:point [601.56640625 95.05078125]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668755353008}}
-:block/updated-at 1668756468244})
+:nonce 1668755353091}}
+:block/updated-at 1668875994924} 
+{:block/created-at 1668875989434
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs ["logseq mobile development"]
+:fill ""
+:type "box"
+:size [343.1875 205.0390625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c88cbac0-6828-11ed-b225-9387a329ca50"
+:noFill false
+:point [736.1484375000002 413.0179687500006]
+:parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
+:nonce 1668875989118}}
+:block/updated-at 1668875994925})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -44,10 +67,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 10
+:nonce 26
 :assets []}}
 :block/journal? false
-:block/updated-at 1668756468244
+:block/updated-at 1668875994924
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
