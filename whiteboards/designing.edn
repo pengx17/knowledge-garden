@@ -20,7 +20,7 @@
 :point [736.1484375000002 413.0179687500006]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :nonce 1668875989162}}
-:block/updated-at 1668931453309} 
+:block/updated-at 1668932196574} 
 {:block/content "Some random content\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
 :block/format :markdown
 :block/left 
@@ -58,7 +58,7 @@
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
 :nonce 1668755353099}}
-:block/updated-at 1668931453309} 
+:block/updated-at 1668932196573} 
 {:block/created-at 1668876147551
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -89,7 +89,7 @@
 {:end "arrow"}
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :nonce 1668876148225}}
-:block/updated-at 1668931453309} 
+:block/updated-at 1668932196574} 
 {:block/created-at 1668931453271
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -100,13 +100,14 @@
 :borderRadius 8
 :index 3
 :scale [1 1]
+:refs ["6379a751-74a0-4bfd-8043-f62fa28fa788"]
 :pageId "foo"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 115]
+:size [400 184.99996948242188]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -115,8 +116,8 @@
 :point [1197.0695106731432 58.55179391379005]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668931450427}}
-:block/updated-at 1668931453309})
+:nonce 1668931450431}}
+:block/updated-at 1668932196574})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -126,10 +127,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 58
+:nonce 63
 :assets []}}
 :block/journal? false
-:block/updated-at 1668931453309
+:block/updated-at 1668932196573
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
