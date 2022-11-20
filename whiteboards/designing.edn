@@ -20,7 +20,7 @@
 :point [736.1484375000002 413.0179687500006]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :nonce 1668875989162}}
-:block/updated-at 1668928352927} 
+:block/updated-at 1668928984486} 
 {:block/content "Some random content\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
 :block/format :markdown
 :block/left 
@@ -41,7 +41,7 @@
 :borderRadius 8
 :index 0
 :scale [1 -1]
-:refs ["logseq mobile development" "contents"]
+:refs []
 :pageId "63772f95-16d4-431f-8188-90e4edb139b7"
 :scaleLevel "md"
 :fill ""
@@ -57,8 +57,8 @@
 :point [601.56640625 95.05078125]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668755353091}}
-:block/updated-at 1668928352926} 
+:nonce 1668755353093}}
+:block/updated-at 1668928984486} 
 {:block/created-at 1668876147551
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -89,7 +89,7 @@
 {:end "arrow"}
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :nonce 1668876148225}}
-:block/updated-at 1668928352927})
+:block/updated-at 1668928984487})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -99,10 +99,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 48
+:nonce 50
 :assets []}}
 :block/journal? false
-:block/updated-at 1668928352926
+:block/updated-at 1668928984486
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
