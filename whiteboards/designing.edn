@@ -19,7 +19,7 @@
 :point [736.1484375000002 413.0179687500006]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :nonce 1668875989131}}
-:block/updated-at 1668916149251} 
+:block/updated-at 1668917040125} 
 {:block/content "Some random content\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
 :block/format :markdown
 :block/left 
@@ -57,7 +57,7 @@
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
 :nonce 1668755353091}}
-:block/updated-at 1668916149251} 
+:block/updated-at 1668917040125} 
 {:block/created-at 1668876147551
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -65,6 +65,7 @@
 {:stroke ""
 :index 2
 :scale [1 1]
+:refs ["foo"]
 :fill ""
 :type "line"
 :strokeType "line"
@@ -82,12 +83,12 @@
 :end 
 {:id "end"
 :canBind true
-:point [669.61 97.55]}}
+:point [921.49 277.68]}}
 :decorations 
 {:end "arrow"}
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:nonce 1668876147478}}
-:block/updated-at 1668916149251})
+:nonce 1668876148225}}
+:block/updated-at 1668917040125})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -97,10 +98,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 42
+:nonce 47
 :assets []}}
 :block/journal? false
-:block/updated-at 1668916149251
+:block/updated-at 1668917040125
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
