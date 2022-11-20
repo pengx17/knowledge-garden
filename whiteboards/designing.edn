@@ -36,7 +36,7 @@
 :nonce 1668939084568
 :italic false
 :text "assdd"}}
-:block/updated-at 1668939356412} 
+:block/updated-at 1668944799068} 
 {:block/created-at 1668939356412
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -60,11 +60,11 @@
 :opacity 1
 :id "c0f63f50-68bb-11ed-9d8b-abed503365d4"
 :noFill false
-:point [1215.676941153039 648.519421549748]
+:point [1192.6228110382397 530.8635306439304]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668939112396}}
-:block/updated-at 1668939356412})
+:nonce 1668939112466}}
+:block/updated-at 1668944799068})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -74,10 +74,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 90
+:nonce 91
 :assets []}}
 :block/journal? false
-:block/updated-at 1668939356411
+:block/updated-at 1668944799068
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
