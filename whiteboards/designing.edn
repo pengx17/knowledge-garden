@@ -1,26 +1,4 @@
 {:blocks (
-{:block/created-at 1668875989434
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0.6968388474734803
-:borderRadius 2
-:index 1
-:scale [1 1]
-:refs ["foo" "bar"]
-:fill ""
-:type "box"
-:size [343.1875 205.0390625]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "c88cbac0-6828-11ed-b225-9387a329ca50"
-:noFill false
-:point [736.1484375000002 413.0179687500006]
-:parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:nonce 1668875989162}}
-:block/updated-at 1668936375170} 
 {:block/content "Some random content\nid:: 63772f95-16d4-431f-8188-90e4edb139b7"
 :block/format :markdown
 :block/left 
@@ -30,67 +8,38 @@
 :block/properties 
 {:id "63772f95-16d4-431f-8188-90e4edb139b7"}
 :block/uuid #uuid "63772f95-16d4-431f-8188-90e4edb139b7"} 
-{:block/created-at 1668755352774
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 -1]
-:refs []
-:pageId "63772f95-16d4-431f-8188-90e4edb139b7"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 41.00000058383394]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "e7b20f50-670f-11ed-8f34-f77d6626cbe2"
-:noFill false
-:point [601.56640625 95.05078125]
-:parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:collapsedHeight 0
-:nonce 1668755353099}}
-:block/updated-at 1668936375170} 
-{:block/created-at 1668876147551
+{:block/created-at 1668938408334
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 2
+:index 0
 :scale [1 1]
-:refs ["foo"]
+:refs []
 :fill ""
 :type "line"
 :strokeType "line"
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "26b4bbc1-6829-11ed-b225-9387a329ca50"
+:id "1d0e8512-68ba-11ed-946c-1921001cf593"
 :noFill true
-:point [718.28 860.35]
+:point [1319.32 283.31]
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0]}
+:point [0 89.15]}
 :end 
 {:id "end"
 :canBind true
-:point [921.49 277.68]}}
+:point [116.45 0]}}
 :decorations 
 {:end "arrow"}
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:nonce 1668876148225}}
-:block/updated-at 1668936375171} 
-{:block/created-at 1668931453271
+:nonce 1668938407936}}
+:block/updated-at 1668938459611} 
+{:block/created-at 1668938448791
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -98,54 +47,26 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 3
+:index 1
 :scale [1 1]
-:refs ["6379a751-74a0-4bfd-8043-f62fa28fa788" "6379e25a-af33-4851-bcbf-695ca57e5012"]
-:pageId "foo"
+:refs ["asdfasdfww"]
+:pageId "bar"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 185]
+:size [400 94.99998673547658]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "ea135290-68a9-11ed-aed6-e392d7ce95f1"
+:id "330191a0-68ba-11ed-946c-1921001cf593"
 :noFill false
-:point [1197.0695106731432 58.55179391379005]
+:point [1405.322369893644 473.97333477460256]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668931450432}}
-:block/updated-at 1668936375171} 
-{:block/created-at 1668936096863
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 4
-:scale [1 1]
-:pageId "6379e259-a783-48e9-a8f5-6556455a3476"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [814.4459186771178 296.96090901769765]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "b96bdfd0-68b4-11ed-a813-cb06a0f354de"
-:noFill false
-:point [914.3470953692376 336.2483360330364]
-:parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:collapsedHeight 0
-:nonce 1668936093466}}
-:block/updated-at 1668936375171})
+:nonce 1668938444733}}
+:block/updated-at 1668938459611})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -155,10 +76,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 83
+:nonce 74
 :assets []}}
 :block/journal? false
-:block/updated-at 1668936375170
+:block/updated-at 1668938459611
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
