@@ -8,38 +8,36 @@
 :block/properties 
 {:id "63772f95-16d4-431f-8188-90e4edb139b7"}
 :block/uuid #uuid "63772f95-16d4-431f-8188-90e4edb139b7"} 
-{:block/created-at 1668938408334
+{:block/created-at 1668939087060
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
 :index 0
 :scale [1 1]
 :refs []
 :fill ""
-:type "line"
+:type "text"
+:size [61 34]
+:fontFamily "var(--ls-font-family)"
 :strokeType "line"
-:strokeWidth 1
+:strokeWidth 2
 :opacity 1
-:label ""
-:id "1d0e8512-68ba-11ed-946c-1921001cf593"
+:id "b05ef6a0-68bb-11ed-9d8b-abed503365d4"
+:padding 4
+:fontWeight 400
 :noFill true
-:point [1319.32 283.31]
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 89.15]}
-:end 
-{:id "end"
-:canBind true
-:point [116.45 0]}}
-:decorations 
-{:end "arrow"}
+:point [1273.1081911530396 484.17723404974834]
+:lineHeight 1.2
+:fontSize 20
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
-:nonce 1668938407936}}
-:block/updated-at 1668938459611} 
-{:block/created-at 1668938448791
+:nonce 1668939084568
+:italic false
+:text "assdd"}}
+:block/updated-at 1668939356412} 
+{:block/created-at 1668939356412
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -49,24 +47,24 @@
 :borderRadius 8
 :index 1
 :scale [1 1]
-:refs ["asdfasdfww"]
-:pageId "bar"
+:refs []
+:pageId "foo"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 94.99998673547658]
+:size [400 278]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "330191a0-68ba-11ed-946c-1921001cf593"
+:id "c0f63f50-68bb-11ed-9d8b-abed503365d4"
 :noFill false
-:point [1405.322369893644 473.97333477460256]
+:point [1215.676941153039 648.519421549748]
 :parentId "63730203-a820-44f8-bf73-5eaaf0edb011"
 :collapsedHeight 0
-:nonce 1668938444733}}
-:block/updated-at 1668938459611})
+:nonce 1668939112396}}
+:block/updated-at 1668939356412})
 :pages (
 {:block/uuid #uuid "63730203-a820-44f8-bf73-5eaaf0edb011"
 :block/properties 
@@ -76,10 +74,10 @@
 :name "page"
 :bindings 
 {}
-:nonce 74
+:nonce 90
 :assets []}}
 :block/journal? false
-:block/updated-at 1668938459611
+:block/updated-at 1668939356411
 :block/created-at 1668481539920
 :block/format :markdown
 :block/type "whiteboard"
