@@ -1,57 +1,26 @@
 {:blocks (
-{:block/created-at 1668938615497
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 0
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "989ec0a2-68ba-11ed-98a0-17fb5106ca13"
-:noFill true
-:point [378.59 315.22]
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 386.36]}
-:end 
-{:id "end"
-:canBind true
-:point [332.95 0]}}
-:decorations 
-{:end "arrow"}
-:parentId "6379fb73-ac0b-49e2-898e-c3ac063ec956"
-:nonce 1668938615228}
-:id "989ec0a2-68ba-11ed-98a0-17fb5106ca13"}
-:block/updated-at 1668938615497} 
 {:block/content "((989ec0a2-68ba-11ed-98a0-17fb5106ca13))"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "6379fc57-efcc-41fa-a6ab-343564310256"}
+{:block/uuid #uuid "6379fd1f-1b61-4457-b67c-2fa2dd59c2a3"}
 :block/parent 
-{:block/uuid #uuid "6379fc57-efcc-41fa-a6ab-343564310256"}
+{:block/uuid #uuid "6379fd1f-1b61-4457-b67c-2fa2dd59c2a3"}
 :block/properties 
 {}
 :block/uuid #uuid "6379fb79-9601-4991-aeff-27a014534564"})
 :pages (
-{:block/uuid #uuid "6379fc57-efcc-41fa-a6ab-343564310256"
+{:block/uuid #uuid "6379fd1f-1b61-4457-b67c-2fa2dd59c2a3"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
-{:id "6379fb73-ac0b-49e2-898e-c3ac063ec956"
+{:id "6379fd1f-1b61-4457-b67c-2fa2dd59c2a3"
 :name "page"
 :bindings 
 {}
-:nonce 2
+:nonce 15
 :assets []}}
 :block/journal? false
-:block/updated-at 1668938618057
+:block/updated-at 1669000475082
 :block/created-at 1668938615497
 :block/format :markdown
 :block/type "whiteboard"
