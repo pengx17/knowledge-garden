@@ -9,6 +9,7 @@
 :borderRadius 8
 :index 0
 :scale [1 1]
+:refs ["63177a23-138c-4a7e-85ff-6f2cb8e7cd2c"]
 :pageId "6372f77a-bee7-4530-bcf5-152dd4ea8d97"
 :scaleLevel "md"
 :fill ""
@@ -24,8 +25,8 @@
 :point [425.76171875 424.41796875]
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
-:nonce 1668481562142}}
-:block/updated-at 1668481646859} 
+:nonce 1668481562143}}
+:block/updated-at 1669177300733} 
 {:block/content "In the last decade we have seen many interesting developments in databases, in dis‐\ntributed systems, and in the ways we build applications on top of them. There are\nvarious driving forces for these developments:"
 :block/format :markdown
 :block/left 
@@ -49,9 +50,9 @@
 :name "page"
 :bindings 
 {}
-:nonce 11
+:nonce 12
 :assets []}}
-:block/updated-at 1668481646859
+:block/updated-at 1669177300733
 :block/created-at 1668481539923
 :block/type "whiteboard"
 :block/name "test"
