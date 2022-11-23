@@ -9,7 +9,7 @@
 :borderRadius 8
 :index 0
 :scale [1 1]
-:refs ["637da0fd-93b4-421b-b602-54044037007a"]
+:refs []
 :pageId "6372f77a-bee7-4530-bcf5-152dd4ea8d97"
 :scaleLevel "md"
 :fill ""
@@ -25,8 +25,8 @@
 :point [425.76171875 424.41796875]
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
-:nonce 1668481562146}}
-:block/updated-at 1669178188920} 
+:nonce 1668481562147}}
+:block/updated-at 1669179734702} 
 {:block/content "In the last decade we have seen many interesting developments in databases, in dis‐\ntributed systems, and in the ways we build applications on top of them. There are\nvarious driving forces for these developments:"
 :block/format :markdown
 :block/left 
@@ -51,6 +51,7 @@
 :borderRadius 8
 :index 1
 :scale [1 1]
+:refs []
 :pageId "WB Nextjs Conf"
 :scaleLevel "md"
 :fill ""
@@ -66,8 +67,8 @@
 :point [955.0250000000001 452.7335937500001]
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
-:nonce 1669178184700}}
-:block/updated-at 1669178188921})
+:nonce 1669178184702}}
+:block/updated-at 1669179734702})
 :pages (
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :block/properties 
@@ -77,9 +78,9 @@
 :name "page"
 :bindings 
 {}
-:nonce 18
+:nonce 21
 :assets []}}
-:block/updated-at 1669178188920
+:block/updated-at 1669179734701
 :block/created-at 1668481539923
 :block/type "whiteboard"
 :block/name "test"
