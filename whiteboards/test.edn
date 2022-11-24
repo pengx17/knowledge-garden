@@ -26,7 +26,7 @@
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
 :nonce 1668481562152}}
-:block/updated-at 1669193922680} 
+:block/updated-at 1669277847273} 
 {:block/content "In the last decade we have seen many interesting developments in databases, in dis‐\ntributed systems, and in the ways we build applications on top of them. There are\nvarious driving forces for these developments:"
 :block/format :markdown
 :block/left 
@@ -64,11 +64,11 @@
 :opacity 1
 :id "632995a0-6ae8-11ed-9f81-61de5617d82f"
 :noFill false
-:point [955.0250000000001 452.7335937500001]
+:point [936.3765625000001 443.3273437500001]
 :parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :collapsedHeight 0
-:nonce 1669178184703}}
-:block/updated-at 1669193922680})
+:nonce 1669178184845}}
+:block/updated-at 1669277847273})
 :pages (
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :block/properties 
@@ -78,9 +78,9 @@
 :name "page"
 :bindings 
 {}
-:nonce 37
+:nonce 38
 :assets []}}
-:block/updated-at 1669193922680
+:block/updated-at 1669277847273
 :block/created-at 1668481539923
 :block/type "whiteboard"
 :block/name "test"
