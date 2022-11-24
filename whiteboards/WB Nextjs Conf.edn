@@ -1,1 +1,321 @@
-{:blocks ({:block/content "try this one!", :block/format :markdown, :block/left {:block/uuid #uuid "63588486-23e3-454b-aa74-e38d5e8172ba"}, :block/parent {:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec"}, :block/properties {}, :block/uuid #uuid "63588496-48e6-4034-85f0-94b0da4b3ffa"} {:block/content "The Rust-powered successor to Webpack", :block/format :markdown, :block/left {:block/uuid #uuid "63588496-48e6-4034-85f0-94b0da4b3ffa"}, :block/parent {:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec"}, :block/uuid #uuid "6358851b-4c7d-483f-9cc1-d3a47a1a4375"} {:block/content "run with `next dev --turbo`", :block/format :markdown, :block/left {:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec"}, :block/parent {:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec"}, :block/properties {}, :block/uuid #uuid "63588486-23e3-454b-aa74-e38d5e8172ba"} {:block/content "❯ pnpm dev        \n\n> my-app@0.1.0 dev /Users/pengxiao/Documents/GitHub/nextjs-blog\n> next dev --turbo\n\n>>> TURBOPACK (alpha)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in alpha and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nWarning: You are using configuration that may require additional\nsetup with Turbopack. If you already made these changes please\nignore this warning.\n\n- PostCSS detected (postcss.config.js)\n  PostCSS is not yet supported by Next.js v13 with Turbopack.\n  To use with Turbopack, see: https://nextjs.link/turbopack-postcss\n\n- Tailwind detected (tailwind.config.js)\n  Tailwind is not yet supported by Next.js v13 with Turbopack.\n  To use with Turbopack, see: https://nextjs.link/turbopack-tailwind\n\nLearn more about Next.js v13 and Turbopack: https://nextjs.link/with-turbopack\nPlease direct feedback to: https://nextjs.link/turbopack-feedback\n\nready - started server on 0.0.0.0:3000, url: http://localhost:3000\nevent - initial compilation 5.262ms", :block/format :markdown, :block/left {:block/uuid #uuid "6358851b-4c7d-483f-9cc1-d3a47a1a4375"}, :block/parent {:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec"}, :block/uuid #uuid "63588e6c-ee7c-4847-8136-c2ca06b49d80"} {:block/created-at 1666745408538, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:index 2, :scale [1 1], :type "youtube", :size [853 480], :id "23925b60-54c8-11ed-9884-0fff5ca42a05", :url "https://www.youtube.com/watch?v=NiknNI_0J48&t=458s", :point [391.29659764606845 -655.1515429668682], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745408562}}, :block/updated-at 1666780122609} {:block/created-at 1666745593339, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:index 5, :scale [1 1], :type "iframe", :size [853 480], :id "91b87250-54c8-11ed-ad51-e38323bc4e4a", :url "https://turbo.build/", :point [-1030.1755571907347 58.867436077415164], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745593434}}, :block/updated-at 1666780122609} {:block/created-at 1666745478086, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:blockType "B", :stroke "var(--ls-primary-text-color)", :rotation 0, :collapsed false, :borderRadius 8, :index 3, :scale [1 1], :pageId "63588486-23e3-454b-aa74-e38d5e8172ba", :scaleLevel "md", :fill "var(--ls-secondary-background-color)", :compact true, :isAutoResizing true, :type "logseq-portal", :size [240 41], :strokeType "line", :strokeWidth 2, :opacity 1, :id "4b08e560-54c8-11ed-9884-0fff5ca42a05", :noFill false, :point [389.5051545046986 737.9252296029905], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :collapsedHeight 0, :nonce 1666745474894}}, :block/updated-at 1666780122609} {:block/created-at 1666745370517, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:index 0, :scale [1 1], :type "image", :assetId "0ce79790-54c8-11ed-9884-0fff5ca42a05", :size [367 493], :opacity 1, :id "0ce91e30-54c8-11ed-9884-0fff5ca42a05", :isAspectRatioLocked true, :objectFit "fill", :point [209.60393889162424 99.72091727369661], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745370612, :clipping 0}}, :block/updated-at 1666780122608} {:block/created-at 1666745593339, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:stroke "var(--ls-primary-text-color, #000)", :index 6, :scale [1 1], :fill "var(--ls-secondary-background-color)", :type "line", :strokeType "line", :strokeWidth 1, :opacity 1, :label "", :id "91b89960-54c8-11ed-ad51-e38323bc4e4a", :noFill true, :point [-173.18 319.32], :handles {:start {:id "start", :canBind true, :point [381.78 18.14], :bindingId "91b89961-54c8-11ed-ad51-e38323bc4e4a"}, :end {:id "end", :canBind true, :point [0 0], :bindingId "91b89962-54c8-11ed-ad51-e38323bc4e4a"}}, :decorations {:end "arrow"}, :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745593334}}, :block/updated-at 1666780122609} {:block/created-at 1666748014775, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:index 9, :scale [1 1], :type "image", :assetId "35026920-54ce-11ed-ad51-e38323bc4e4a", :size [1310.3136944472424 1038.100638206442], :opacity 1, :id "35029030-54ce-11ed-ad51-e38323bc4e4a", :isAspectRatioLocked true, :objectFit "fill", :point [-1129.3219496345368 781.8721756945146], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666748014858, :clipping 0}}, :block/updated-at 1666780122609} {:block/created-at 1666745494370, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:blockType "B", :stroke "var(--ls-primary-text-color)", :rotation 0, :collapsed false, :borderRadius 8, :index 4, :scale [1 1], :pageId "63588496-48e6-4034-85f0-94b0da4b3ffa", :scaleLevel "md", :fill "var(--ls-secondary-background-color)", :compact true, :isAutoResizing true, :type "logseq-portal", :size [240 41], :strokeType "line", :strokeWidth 2, :opacity 1, :id "5626a900-54c8-11ed-9884-0fff5ca42a05", :noFill false, :point [390.6535920046986 807.1049171029905], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :collapsedHeight 0, :nonce 1666745493430}}, :block/updated-at 1666780122609} {:block/created-at 1666745627295, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:blockType "B", :stroke "var(--ls-primary-text-color)", :collapsed false, :borderRadius 8, :index 7, :scale [1 1], :pageId "6358851b-4c7d-483f-9cc1-d3a47a1a4375", :scaleLevel "md", :fill "var(--ls-secondary-background-color)", :compact true, :isAutoResizing true, :type "logseq-portal", :size [400 40.99995857313221], :strokeType "line", :strokeWidth 2, :opacity 1, :id "a5f51c50-54c8-11ed-ad51-e38323bc4e4a", :noFill false, :point [-572.5139179701723 651.7308562670714], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :collapsedHeight 0, :nonce 1666745627334}}, :block/updated-at 1666780122609} {:block/created-at 1666745633700, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:stroke "var(--ls-primary-text-color, #000)", :index 8, :scale [1 1], :fill "var(--ls-secondary-background-color)", :type "line", :strokeType "line", :strokeWidth 1, :opacity 1, :label "", :id "a9525112-54c8-11ed-ad51-e38323bc4e4a", :noFill true, :point [-443.84 542.87], :handles {:start {:id "start", :canBind true, :point [59.47 107.86], :bindingId "a9525110-54c8-11ed-ad51-e38323bc4e4a"}, :end {:id "end", :canBind true, :point [0 0], :bindingId "a9525111-54c8-11ed-ad51-e38323bc4e4a"}}, :decorations {:end "arrow"}, :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745632963}}, :block/updated-at 1666780122609} {:block/created-at 1666745399682, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:index 1, :scale [1 1], :type "image", :assetId "1e4b09e0-54c8-11ed-9884-0fff5ca42a05", :size [664 604], :opacity 1, :id "1e4b5800-54c8-11ed-9884-0fff5ca42a05", :isAspectRatioLocked true, :objectFit "fill", :point [733.8911818274071 42.989903584832234], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666745399744, :clipping 0}}, :block/updated-at 1666780122608} {:block/created-at 1666780122609, :block/properties {:ls-type :whiteboard-shape, :logseq.tldraw.shape {:stroke "var(--tl-foreground, #000)", :index 10, :scale [1 1], :fill "var(--tl-foreground, #000)", :type "pencil", :points [[0 89.42384773199888 0.5] [7.664901234171339 81.75894649782754 0.5] [15.329802468342677 71.53907818559901 0.5] [20.439736624457055 63.87417695142767 0.5] [58.76424279531375 20.439736624456827 0.5] [76.64901234171339 10.2198683122283 0.5] [86.86888065394169 7.664901234171339 0.5] [94.53378188811303 5.10993415611415 0.5] [102.19868312228436 2.5549670780571887 0.5] [109.8635843564557 0 0.5] [117.52848559062704 0 0.5] [127.7483539028558 0 0.5] [132.85828805896972 0 0.5] [140.52318929314106 0 0.5] [150.7430576053698 10.2198683122283 0.5] [155.85299176148374 15.329802468342677 0.5] [160.9629259175981 25.549670780570978 0.5] [163.51789299565507 35.769539092799505 0.5] [163.51789299565507 45.98940740502803 0.5] [166.0728600737125 61.31920987337071 0.5] [166.0728600737125 76.64901234171316 0.5] [166.0728600737125 91.97881481005584 0.5] [166.0728600737125 112.41855143451289 0.5] [163.51789299565507 130.30332098091253 0.5] [160.9629259175981 148.1880905273124 0.5] [155.85299176148374 168.62782715176922 0.5] [150.7430576053698 189.06756377622605 0.5] [145.63312344925544 206.95233332262592 0.5] [140.52318929314106 227.39206994708275 0.5] [137.9682222150841 240.16690533736823 0.5] [132.85828805896972 252.94174072765395 0.5] [130.30332098091276 260.6066419618253 0.5] [130.30332098091276 265.71657611793944 0.5] [130.30332098091276 268.2715431959964 0.5] [130.30332098091276 265.71657611793944 0.5] [132.85828805896972 260.6066419618253 0.5] [137.9682222150841 255.4967078057109 0.5] [143.07815637119847 250.38677364959676 0.5] [150.7430576053698 242.72187241542542 0.5] [155.85299176148374 235.05697118125408 0.5] [160.9629259175981 224.83710286902556 0.5] [168.62782715176945 217.17220163485422 0.5] [173.73776130788383 206.95233332262592 0.5] [181.40266254205517 199.28743208845458 0.5] [189.0675637762265 189.06756377622605 0.5] [196.73246501039785 178.84769546399775 0.5] [204.39736624456918 171.1827942298264 0.5] [212.06226747874052 163.51789299565507 0.5] [219.72716871291186 155.85299176148374 0.5]], :strokeType "line", :strokeWidth 2, :opacity 1, :id "f69f3b40-5518-11ed-8ba2-074271145cd0", :noFill true, :point [3238.170162301137 -139.29126542714175], :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec", :nonce 1666780122406, :isComplete true}}, :block/updated-at 1666780122609}), :pages ({:block/uuid #uuid "63588414-1f6d-4e49-8f16-ea58cf6966ec", :block/properties {:ls-type :whiteboard-page, :logseq.tldraw.page {:id "63588414-1f6d-4e49-8f16-ea58cf6966ec", :name "page", :bindings {:91b89961-54c8-11ed-ad51-e38323bc4e4a {:id "91b89961-54c8-11ed-ad51-e38323bc4e4a", :type "line", :fromId "91b89960-54c8-11ed-ad51-e38323bc4e4a", :toId "0ce91e30-54c8-11ed-9884-0fff5ca42a05", :handleId "start", :point [0.5 0.5], :distance 4}, :91b89962-54c8-11ed-ad51-e38323bc4e4a {:id "91b89962-54c8-11ed-ad51-e38323bc4e4a", :type "line", :fromId "91b89960-54c8-11ed-ad51-e38323bc4e4a", :toId "91b87250-54c8-11ed-ad51-e38323bc4e4a", :handleId "end", :point [0.5 0.5], :distance 4}, :a9525110-54c8-11ed-ad51-e38323bc4e4a {:id "a9525110-54c8-11ed-ad51-e38323bc4e4a", :type "line", :fromId "a9525112-54c8-11ed-ad51-e38323bc4e4a", :toId "a5f51c50-54c8-11ed-ad51-e38323bc4e4a", :handleId "start", :point [0.5 0.5], :distance 4}, :a9525111-54c8-11ed-ad51-e38323bc4e4a {:id "a9525111-54c8-11ed-ad51-e38323bc4e4a", :type "line", :fromId "a9525112-54c8-11ed-ad51-e38323bc4e4a", :toId "91b87250-54c8-11ed-ad51-e38323bc4e4a", :handleId "end", :point [0.52 0.47], :distance 4}}, :nonce 46, :assets [{:id "0ce79790-54c8-11ed-9884-0fff5ca42a05", :type "image", :src "../assets/image_1666745370433_0.png", :size [734 986]} {:id "1e4b09e0-54c8-11ed-9884-0fff5ca42a05", :type "image", :src "../assets/image_1666745399594_0.png", :size [1328 1208]} {:id "35026920-54ce-11ed-ad51-e38323bc4e4a", :type "image", :src "../assets/image_1666748014729_0.png", :size [1136 900]}]}}, :block/updated-at 1666780122608, :block/created-at 1666745364552, :block/type "whiteboard", :block/name "wb nextjs conf", :block/original-name "WB Nextjs Conf"})}
+{:blocks (
+{:block/content "try this one!"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63588486-23e3-454b-aa74-e38d5e8172ba"}
+:block/parent 
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"}
+:block/properties 
+{}
+:block/uuid #uuid "63588496-48e6-4034-85f0-94b0da4b3ffa"} 
+{:block/content "The Rust-powered successor to Webpack"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63588496-48e6-4034-85f0-94b0da4b3ffa"}
+:block/parent 
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"}
+:block/uuid #uuid "6358851b-4c7d-483f-9cc1-d3a47a1a4375"} 
+{:block/content "run with `next dev --turbo`"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"}
+:block/parent 
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"}
+:block/properties 
+{}
+:block/uuid #uuid "63588486-23e3-454b-aa74-e38d5e8172ba"} 
+{:block/content "❯ pnpm dev        \n\n> my-app@0.1.0 dev /Users/pengxiao/Documents/GitHub/nextjs-blog\n> next dev --turbo\n\n>>> TURBOPACK (alpha)\n\nThank you for trying Next.js v13 with Turbopack! As a reminder,\nTurbopack is currently in alpha and not yet ready for production.\nWe appreciate your ongoing support as we work to make it ready\nfor everyone.\n\nWarning: You are using configuration that may require additional\nsetup with Turbopack. If you already made these changes please\nignore this warning.\n\n- PostCSS detected (postcss.config.js)\n  PostCSS is not yet supported by Next.js v13 with Turbopack.\n  To use with Turbopack, see: https://nextjs.link/turbopack-postcss\n\n- Tailwind detected (tailwind.config.js)\n  Tailwind is not yet supported by Next.js v13 with Turbopack.\n  To use with Turbopack, see: https://nextjs.link/turbopack-tailwind\n\nLearn more about Next.js v13 and Turbopack: https://nextjs.link/with-turbopack\nPlease direct feedback to: https://nextjs.link/turbopack-feedback\n\nready - started server on 0.0.0.0:3000, url: http://localhost:3000\nevent - initial compilation 5.262ms"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6358851b-4c7d-483f-9cc1-d3a47a1a4375"}
+:block/parent 
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"}
+:block/uuid #uuid "63588e6c-ee7c-4847-8136-c2ca06b49d80"} 
+{:block/created-at 1666745408538
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 2
+:scale [1 1]
+:type "youtube"
+:size [853 480]
+:id "23925b60-54c8-11ed-9884-0fff5ca42a05"
+:url "https://www.youtube.com/watch?v=NiknNI_0J48&t=458s"
+:point [391.29659764606845 -655.1515429668682]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745408562}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745593339
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 5
+:scale [1 1]
+:type "iframe"
+:size [853 480]
+:id "91b87250-54c8-11ed-ad51-e38323bc4e4a"
+:url "https://turbo.build/"
+:point [-1030.1755571907347 58.867436077415164]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745593434}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745478086
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "var(--ls-primary-text-color)"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "63588486-23e3-454b-aa74-e38d5e8172ba"
+:scaleLevel "md"
+:fill "var(--ls-secondary-background-color)"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [240 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b08e560-54c8-11ed-9884-0fff5ca42a05"
+:noFill false
+:point [389.5051545046986 737.9252296029905]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:collapsedHeight 0
+:nonce 1666745474894}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745370517
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:type "image"
+:assetId "0ce79790-54c8-11ed-9884-0fff5ca42a05"
+:size [367 493]
+:opacity 1
+:id "0ce91e30-54c8-11ed-9884-0fff5ca42a05"
+:isAspectRatioLocked true
+:objectFit "fill"
+:point [209.60393889162424 99.72091727369661]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745370612
+:clipping 0}}
+:block/updated-at 1669281077964} 
+{:block/created-at 1666745593339
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "var(--ls-primary-text-color, #000)"
+:index 6
+:scale [1 1]
+:fill "var(--ls-secondary-background-color)"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "91b89960-54c8-11ed-ad51-e38323bc4e4a"
+:noFill true
+:point [-173.18 319.32]
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [381.78 18.14]
+:bindingId "91b89961-54c8-11ed-ad51-e38323bc4e4a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "91b89962-54c8-11ed-ad51-e38323bc4e4a"}}
+:decorations 
+{:end "arrow"}
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745593334}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666748014775
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 9
+:scale [1 1]
+:type "image"
+:assetId "35026920-54ce-11ed-ad51-e38323bc4e4a"
+:size [1310.3136944472424 1038.100638206442]
+:opacity 1
+:id "35029030-54ce-11ed-ad51-e38323bc4e4a"
+:isAspectRatioLocked true
+:objectFit "fill"
+:point [-1129.3219496345368 781.8721756945146]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666748014858
+:clipping 0}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745494370
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "var(--ls-primary-text-color)"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "63588496-48e6-4034-85f0-94b0da4b3ffa"
+:scaleLevel "md"
+:fill "var(--ls-secondary-background-color)"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [240 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5626a900-54c8-11ed-9884-0fff5ca42a05"
+:noFill false
+:point [390.6535920046986 807.1049171029905]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:collapsedHeight 0
+:nonce 1666745493430}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745627295
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "var(--ls-primary-text-color)"
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "6358851b-4c7d-483f-9cc1-d3a47a1a4375"
+:scaleLevel "md"
+:fill "var(--ls-secondary-background-color)"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99995857313221]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a5f51c50-54c8-11ed-ad51-e38323bc4e4a"
+:noFill false
+:point [-572.5139179701723 651.7308562670714]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:collapsedHeight 0
+:nonce 1666745627334}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745633700
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "var(--ls-primary-text-color, #000)"
+:index 8
+:scale [1 1]
+:fill "var(--ls-secondary-background-color)"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a9525112-54c8-11ed-ad51-e38323bc4e4a"
+:noFill true
+:point [-443.84 542.87]
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [59.47 107.86]
+:bindingId "a9525110-54c8-11ed-ad51-e38323bc4e4a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "a9525111-54c8-11ed-ad51-e38323bc4e4a"}}
+:decorations 
+{:end "arrow"}
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745632963}}
+:block/updated-at 1669281077965} 
+{:block/created-at 1666745399682
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 1
+:scale [1 1]
+:type "image"
+:assetId "1e4b09e0-54c8-11ed-9884-0fff5ca42a05"
+:size [664 604]
+:opacity 1
+:id "1e4b5800-54c8-11ed-9884-0fff5ca42a05"
+:isAspectRatioLocked true
+:objectFit "fill"
+:point [733.8911818274071 42.989903584832234]
+:parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
+:nonce 1666745399744
+:clipping 0}}
+:block/updated-at 1669281077965})
+:pages (
+{:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "637eeec8-8449-4b10-92b8-1b0876648371"
+:name "page"
+:bindings 
+{:91b89961-54c8-11ed-ad51-e38323bc4e4a 
+{:id "91b89961-54c8-11ed-ad51-e38323bc4e4a"
+:type "line"
+:fromId "91b89960-54c8-11ed-ad51-e38323bc4e4a"
+:toId "0ce91e30-54c8-11ed-9884-0fff5ca42a05"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:91b89962-54c8-11ed-ad51-e38323bc4e4a 
+{:id "91b89962-54c8-11ed-ad51-e38323bc4e4a"
+:type "line"
+:fromId "91b89960-54c8-11ed-ad51-e38323bc4e4a"
+:toId "91b87250-54c8-11ed-ad51-e38323bc4e4a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:a9525110-54c8-11ed-ad51-e38323bc4e4a 
+{:id "a9525110-54c8-11ed-ad51-e38323bc4e4a"
+:type "line"
+:fromId "a9525112-54c8-11ed-ad51-e38323bc4e4a"
+:toId "a5f51c50-54c8-11ed-ad51-e38323bc4e4a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a9525111-54c8-11ed-ad51-e38323bc4e4a 
+{:id "a9525111-54c8-11ed-ad51-e38323bc4e4a"
+:type "line"
+:fromId "a9525112-54c8-11ed-ad51-e38323bc4e4a"
+:toId "91b87250-54c8-11ed-ad51-e38323bc4e4a"
+:handleId "end"
+:point [0.52 0.47]
+:distance 4}}
+:nonce 47
+:assets [
+{:id "0ce79790-54c8-11ed-9884-0fff5ca42a05"
+:type "image"
+:src "../assets/image_1666745370433_0.png"
+:size [734 986]} 
+{:id "1e4b09e0-54c8-11ed-9884-0fff5ca42a05"
+:type "image"
+:src "../assets/image_1666745399594_0.png"
+:size [1328 1208]} 
+{:id "35026920-54ce-11ed-ad51-e38323bc4e4a"
+:type "image"
+:src "../assets/image_1666748014729_0.png"
+:size [1136 900]}]}}
+:block/updated-at 1669281077964
+:block/created-at 1666745364552
+:block/type "whiteboard"
+:block/name "wb nextjs conf"
+:block/original-name "WB Nextjs Conf"})}

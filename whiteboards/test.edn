@@ -1,32 +1,4 @@
 {:blocks (
-{:block/created-at 1668481565464
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 1]
-:refs ["632995a0-6ae8-11ed-9f81-61de5617d82f"]
-:pageId "6372f77a-bee7-4530-bcf5-152dd4ea8d97"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 41]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "6fc2e5c0-6492-11ed-b909-15b61a1cb844"
-:noFill false
-:point [425.76171875 424.41796875]
-:parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
-:collapsedHeight 0
-:nonce 1668481562152}}
-:block/updated-at 1669277847273} 
 {:block/content "In the last decade we have seen many interesting developments in databases, in dis‐\ntributed systems, and in the ways we build applications on top of them. There are\nvarious driving forces for these developments:"
 :block/format :markdown
 :block/left 
@@ -40,35 +12,7 @@
 {:block/uuid #uuid "63730242-08cd-4bf5-b513-6244ca83fa0c"}
 :block/parent 
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"}
-:block/uuid #uuid "6373026d-e804-48b1-97fd-44bb00a73943"} 
-{:block/created-at 1669178188880
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 1
-:scale [1 1]
-:refs ["foo"]
-:pageId "WB Nextjs Conf"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 346]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "632995a0-6ae8-11ed-9f81-61de5617d82f"
-:noFill false
-:point [936.3765625000001 443.3273437500001]
-:parentId "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
-:collapsedHeight 0
-:nonce 1669178184845}}
-:block/updated-at 1669277847273})
+:block/uuid #uuid "6373026d-e804-48b1-97fd-44bb00a73943"})
 :pages (
 {:block/uuid #uuid "6372f77c-2647-4ebb-abe0-56df83c1bd9e"
 :block/properties 
@@ -78,9 +22,9 @@
 :name "page"
 :bindings 
 {}
-:nonce 38
+:nonce 39
 :assets []}}
-:block/updated-at 1669277847273
+:block/updated-at 1669280922177
 :block/created-at 1668481539923
 :block/type "whiteboard"
 :block/name "test"
