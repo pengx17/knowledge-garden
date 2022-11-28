@@ -4,4 +4,7 @@
 	- To a designer, a design system acts as a source of truth where they can set guidelines for how to use their designs.
 	- To a product manager, it's a way to ensure consistency across teams and eventually to the final product.
 	- And to a developer, it’s a shared language between them and designers.
--
+- Benefits
+	- consistency
+	- productivity
+	- scalability
