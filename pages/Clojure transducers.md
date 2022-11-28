@@ -1,0 +1,2 @@
+- https://www.youtube.com/watch?v=6mTbuzafcII
+- Learning is a process that you ingest some new knowledge by taking other bits you have already believed in, and compose into a new kind of facts in your mind
