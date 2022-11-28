@@ -1,0 +1,7 @@
+- https://www.supernova.io/blog/what-is-a-design-system
+- Design System is a top-down specification from the designer, to be used as building blocks when designing product by the product manager, and to be implemented by the developer.
+- Different roles
+	- To a designer, a design system acts as a source of truth where they can set guidelines for how to use their designs.
+	- To a product manager, it's a way to ensure consistency across teams and eventually to the final product.
+	- And to a developer, it’s a shared language between them and designers.
+-
