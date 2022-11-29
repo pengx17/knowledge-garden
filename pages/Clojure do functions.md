@@ -1,0 +1,4 @@
+- `do`
+	- run fn in order and return the last result
+- `doseq`
+	-
