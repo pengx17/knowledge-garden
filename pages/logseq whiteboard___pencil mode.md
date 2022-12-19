@@ -1,0 +1,5 @@
+- There is not good amount of resource explaining this
+-
+- Resources
+	- https://github.com/bigbluebutton/bigbluebutton/pull/11224/files
+	-
