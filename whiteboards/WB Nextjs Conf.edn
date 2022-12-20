@@ -41,10 +41,10 @@
 :size [853 480]
 :id "23925b60-54c8-11ed-9884-0fff5ca42a05"
 :url "https://www.youtube.com/watch?v=NiknNI_0J48&t=458s"
-:point [374.5554985689189 -591.4814385635065]
+:point [248.42754740803593 -684.6929303570718]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745408622}}
-:block/updated-at 1671502980276} 
+:nonce 1666745408668}}
+:block/updated-at 1671503448322} 
 {:block/created-at 1666745593339
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -55,10 +55,10 @@
 :size [853 480]
 :id "91b87250-54c8-11ed-ad51-e38323bc4e4a"
 :url "https://turbo.build/"
-:point [-1030.1755571907347 58.867436077415164]
+:point [-1156.3035083516177 -34.34405571615014]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745593434}}
-:block/updated-at 1671502980276} 
+:nonce 1666745593480}}
+:block/updated-at 1671503448323} 
 {:block/created-at 1666745478086
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -82,11 +82,11 @@
 :opacity 1
 :id "4b08e560-54c8-11ed-9884-0fff5ca42a05"
 :noFill false
-:point [254.4730942703041 671.4891965688308]
+:point [128.34514310942114 578.2777047752655]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
 :collapsedHeight 0
-:nonce 1666745475040}}
-:block/updated-at 1671502980276} 
+:nonce 1666745475086}}
+:block/updated-at 1671503448322} 
 {:block/created-at 1666745370517
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -100,11 +100,11 @@
 :id "0ce91e30-54c8-11ed-9884-0fff5ca42a05"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [209.60393889162424 99.72091727369661]
+:point [83.47598773074128 6.509425480131313]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745370612
+:nonce 1666745370658
 :clipping 0}}
-:block/updated-at 1671502980276} 
+:block/updated-at 1671503448322} 
 {:block/created-at 1666745593339
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -121,7 +121,7 @@
 :id "91b89960-54c8-11ed-ad51-e38323bc4e4a"
 :fontWeight 400
 :noFill true
-:point [-173.18 319.32]
+:point [-299.30795116088296 226.1085082064347]
 :handles 
 {:start 
 {:id "start"
@@ -136,9 +136,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745593334
+:nonce 1666745593380
 :italic false}}
-:block/updated-at 1671502980276} 
+:block/updated-at 1671503448323} 
 {:block/created-at 1666748014775
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -152,11 +152,11 @@
 :id "35029030-54ce-11ed-ad51-e38323bc4e4a"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [-1129.3219496345368 781.8721756945146]
+:point [-1255.4499007954198 688.6606839009493]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666748014858
+:nonce 1666748014904
 :clipping 0}}
-:block/updated-at 1671502980277} 
+:block/updated-at 1671503448323} 
 {:block/created-at 1666745494370
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -180,11 +180,11 @@
 :opacity 1
 :id "5626a900-54c8-11ed-9884-0fff5ca42a05"
 :noFill false
-:point [254.4730942703041 740.6688840688308]
+:point [128.34514310942114 647.4573922752655]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
 :collapsedHeight 0
-:nonce 1666745493576}}
-:block/updated-at 1671502980276} 
+:nonce 1666745493622}}
+:block/updated-at 1671503448322} 
 {:block/created-at 1666745627295
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -207,11 +207,11 @@
 :opacity 1
 :id "a5f51c50-54c8-11ed-ad51-e38323bc4e4a"
 :noFill false
-:point [-572.5139179701723 651.7308562670714]
+:point [-698.6418691310553 558.5193644735061]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
 :collapsedHeight 0
-:nonce 1666745627334}}
-:block/updated-at 1671502980277} 
+:nonce 1666745627380}}
+:block/updated-at 1671503448323} 
 {:block/created-at 1666745633700
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -228,7 +228,7 @@
 :id "a9525112-54c8-11ed-ad51-e38323bc4e4a"
 :fontWeight 400
 :noFill true
-:point [-443.84 542.87]
+:point [-569.9679511608829 449.6585082064347]
 :handles 
 {:start 
 {:id "start"
@@ -243,9 +243,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745632963
+:nonce 1666745633009
 :italic false}}
-:block/updated-at 1671502980277} 
+:block/updated-at 1671503448323} 
 {:block/created-at 1666745399682
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -259,11 +259,11 @@
 :id "1e4b5800-54c8-11ed-9884-0fff5ca42a05"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [721.2436798542647 52.14511954601363]
+:point [595.1157286933817 -41.06637224755167]
 :parentId "63588414-1f6d-4e49-8f16-ea58cf6966ec"
-:nonce 1666745399986
+:nonce 1666745400032
 :clipping 0}}
-:block/updated-at 1671502980276})
+:block/updated-at 1671503448322})
 :pages (
 {:block/uuid #uuid "637eeec8-8449-4b10-92b8-1b0876648371"
 :block/properties 
@@ -304,7 +304,7 @@
 :handleId "end"
 :point [0.52 0.47]
 :distance 4}}
-:nonce 86
+:nonce 87
 :assets [
 {:id "0ce79790-54c8-11ed-9884-0fff5ca42a05"
 :type "image"
@@ -318,7 +318,7 @@
 :type "image"
 :src "../assets/image_1666748014729_0.png"
 :size [1136 900]}]}}
-:block/updated-at 1671502980276
+:block/updated-at 1671503448322
 :block/created-at 1666745364552
 :block/type "whiteboard"
 :block/name "wb nextjs conf"
