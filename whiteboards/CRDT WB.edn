@@ -16,7 +16,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402602658
 :clipping 0}}
-:block/updated-at 1672405988405} 
+:block/updated-at 1672408052274} 
 {:block/created-at 1672402605844
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -31,7 +31,7 @@
 :point [-125.9268082907098 -1569.9904776867745]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402606060}}
-:block/updated-at 1672405988405} 
+:block/updated-at 1672408052274} 
 {:block/created-at 1672402875628
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -49,7 +49,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875761
 :clipping 0}}
-:block/updated-at 1672405988405} 
+:block/updated-at 1672408052274} 
 {:block/created-at 1672402875629
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -84,7 +84,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875623
 :italic false}}
-:block/updated-at 1672405988406} 
+:block/updated-at 1672408052274} 
 {:block/created-at 1672405540963
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -99,7 +99,7 @@
 :point [828.7294351275068 -640.1127758321538]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405541366}}
-:block/updated-at 1672405988406} 
+:block/updated-at 1672408052274} 
 {:block/created-at 1672405552196
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -114,7 +114,7 @@
 :point [-1169.6168170338774 -446.67326212723435]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405552360}}
-:block/updated-at 1672405988406} 
+:block/updated-at 1672408052274} 
 {:block/content "undo/redo is not that hard for OT, since there is a single queue of actions that is seen by the server"
 :block/format :markdown
 :block/left 
@@ -151,7 +151,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405717975}}
-:block/updated-at 1672405988406} 
+:block/updated-at 1672408052274} 
 {:block/content "For CRDT, the operations are structured like a tree. When undoing, YJS will calculate the **path** to remove states from the tree.\nStill a hard problem for structured docs"
 :block/format :markdown
 :block/left 
@@ -188,7 +188,22 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405783931}}
-:block/updated-at 1672405988406})
+:block/updated-at 1672408052275} 
+{:block/created-at 1672408049282
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 8
+:scale [1 1]
+:type "youtube"
+:size [1123.7622477213542 632.36328125]
+:id "8078b2d0-8848-11ed-a792-3db61d9cf048"
+:url "https://www.youtube.com/watch?v=yCcWpzY8dIA"
+:point [-455.25265625 871.7342187500001]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672408049326}}
+:block/updated-at 1672408052275})
 :pages (
 {:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :block/properties 
@@ -213,7 +228,7 @@
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}}
-:nonce 63
+:nonce 66
 :assets [
 {:id "d1a0ae90-883b-11ed-8f3e-05b12714e9bc"
 :type "image"
@@ -223,7 +238,7 @@
 :type "image"
 :src "../assets/image_1672402875454_0.png"
 :size [1856 978]}]}}
-:block/updated-at 1672405988405
+:block/updated-at 1672408052274
 :block/created-at 1672106768090
 :block/type "whiteboard"
 :block/name "crdt wb"
