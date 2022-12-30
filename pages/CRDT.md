@@ -1,0 +1,3 @@
+- https://www.youtube.com/watch?v=9xFfOhasiOE
+	- ![image.png](../assets/image_1672402160392_0.png)
+	- ![image.png](../assets/image_1672402352542_0.png)

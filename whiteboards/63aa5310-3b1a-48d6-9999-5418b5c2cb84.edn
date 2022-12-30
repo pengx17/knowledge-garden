@@ -1,0 +1,16 @@
+{:blocks ()
+:pages (
+{:block/created-at 1672106768090
+:block/name "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:name "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:bindings 
+{}
+:nonce 11
+:assets []}}
+:block/type "whiteboard"
+:block/updated-at 1672402362366
+:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"})}
