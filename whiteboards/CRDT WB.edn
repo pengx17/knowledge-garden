@@ -16,7 +16,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402602658
 :clipping 0}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886520} 
 {:block/created-at 1672402605844
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -31,7 +31,7 @@
 :point [-125.9268082907098 -1569.9904776867745]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402606060}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886520} 
 {:block/created-at 1672402875628
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -49,7 +49,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875761
 :clipping 0}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886520} 
 {:block/created-at 1672402875629
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -84,7 +84,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875623
 :italic false}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886520} 
 {:block/created-at 1672405540963
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -99,7 +99,7 @@
 :point [828.7294351275068 -640.1127758321538]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405541366}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886521} 
 {:block/created-at 1672405552196
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -114,7 +114,7 @@
 :point [-1169.6168170338774 -446.67326212723435]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405552360}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886522} 
 {:block/content "undo/redo is not that hard for OT, since there is a single queue of actions that is seen by the server"
 :block/format :markdown
 :block/left 
@@ -151,7 +151,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405717975}}
-:block/updated-at 1672408052274} 
+:block/updated-at 1672481886522} 
 {:block/content "For CRDT, the operations are structured like a tree. When undoing, YJS will calculate the **path** to remove states from the tree.\nStill a hard problem for structured docs"
 :block/format :markdown
 :block/left 
@@ -188,22 +188,117 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405783931}}
-:block/updated-at 1672408052275} 
+:block/updated-at 1672481886522} 
 {:block/created-at 1672408049282
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 0
-:index 8
+:index 9
 :scale [1 1]
 :type "youtube"
 :size [1123.7622477213542 632.36328125]
 :id "8078b2d0-8848-11ed-a792-3db61d9cf048"
 :url "https://www.youtube.com/watch?v=yCcWpzY8dIA"
-:point [-455.25265625 871.7342187500001]
+:point [-495.89989243630225 913.1420976177967]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672408049326}}
-:block/updated-at 1672408052275})
+:nonce 1672408049554}}
+:block/updated-at 1672481886522} 
+{:block/created-at 1672481518585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 8
+:scale [1 1]
+:type "image"
+:assetId "8f963610-88f3-11ed-a792-3db61d9cf048"
+:size [1194 624]
+:opacity 1
+:id "8f96ab40-88f3-11ed-a792-3db61d9cf048"
+:isAspectRatioLocked true
+:objectFit "fill"
+:point [-515.3331238381505 1612.590443518031]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672481518766
+:clipping 0}}
+:block/updated-at 1672481886522} 
+{:block/created-at 1672481525462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "935dc562-88f3-11ed-a792-3db61d9cf048"
+:fontWeight 400
+:noFill true
+:point [72.65 1546.51]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "935dc560-88f3-11ed-a792-3db61d9cf048"}
+:end 
+{:id "end"
+:canBind true
+:point [1.31 62.08]
+:bindingId "935dc561-88f3-11ed-a792-3db61d9cf048"}}
+:decorations 
+{:end "arrow"}
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672481524958
+:italic false}}
+:block/updated-at 1672481886522} 
+{:block/created-at 1672481849686
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 12
+:scale [1 1]
+:fill ""
+:type "text"
+:size [192 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "525037a0-88f4-11ed-a792-3db61d9cf048"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-496.5613618655059 867.969366295234]
+:lineHeight 1.2
+:fontSize 20
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672481845757
+:italic false
+:text "best intro video so far"}}
+:block/updated-at 1672481886522} 
+{:block/created-at 1672481859874
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:children ["8078b2d0-8848-11ed-a792-3db61d9cf048" "525037a0-88f4-11ed-a792-3db61d9cf048"]
+:index 11
+:scale [1 1]
+:type "group"
+:size [0 0]
+:id "5b02c7a0-88f4-11ed-a792-3db61d9cf048"
+:point [-40.64723618630228 41.407878867796626]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672481860094}}
+:block/updated-at 1672481886522})
 :pages (
 {:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :block/properties 
@@ -227,8 +322,24 @@
 :toId "74bb7150-883c-11ed-8f3e-05b12714e9bc"
 :handleId "end"
 :point [0.5 0.5]
+:distance 4}
+:935dc560-88f3-11ed-a792-3db61d9cf048 
+{:id "935dc560-88f3-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "935dc562-88f3-11ed-a792-3db61d9cf048"
+:toId "8078b2d0-8848-11ed-a792-3db61d9cf048"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:935dc561-88f3-11ed-a792-3db61d9cf048 
+{:id "935dc561-88f3-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "935dc562-88f3-11ed-a792-3db61d9cf048"
+:toId "8f96ab40-88f3-11ed-a792-3db61d9cf048"
+:handleId "end"
+:point [0.5 0.58]
 :distance 4}}
-:nonce 66
+:nonce 82
 :assets [
 {:id "d1a0ae90-883b-11ed-8f3e-05b12714e9bc"
 :type "image"
@@ -237,8 +348,12 @@
 {:id "74bad510-883c-11ed-8f3e-05b12714e9bc"
 :type "image"
 :src "../assets/image_1672402875454_0.png"
-:size [1856 978]}]}}
-:block/updated-at 1672408052274
+:size [1856 978]} 
+{:id "8f963610-88f3-11ed-a792-3db61d9cf048"
+:type "image"
+:src "../assets/image_1672481518285_0.png"
+:size [2388 1248]}]}}
+:block/updated-at 1672481886520
 :block/created-at 1672106768090
 :block/type "whiteboard"
 :block/name "crdt wb"
