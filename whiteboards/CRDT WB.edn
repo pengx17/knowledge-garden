@@ -16,7 +16,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402602658
 :clipping 0}}
-:block/updated-at 1672481886520} 
+:block/updated-at 1672487267640} 
 {:block/created-at 1672402605844
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -31,7 +31,7 @@
 :point [-125.9268082907098 -1569.9904776867745]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402606060}}
-:block/updated-at 1672481886520} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672402875628
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -49,7 +49,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875761
 :clipping 0}}
-:block/updated-at 1672481886520} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672402875629
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -84,7 +84,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875623
 :italic false}}
-:block/updated-at 1672481886520} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672405540963
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -99,7 +99,7 @@
 :point [828.7294351275068 -640.1127758321538]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405541366}}
-:block/updated-at 1672481886521} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672405552196
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -114,7 +114,7 @@
 :point [-1169.6168170338774 -446.67326212723435]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405552360}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/content "undo/redo is not that hard for OT, since there is a single queue of actions that is seen by the server"
 :block/format :markdown
 :block/left 
@@ -151,7 +151,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405717975}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/content "For CRDT, the operations are structured like a tree. When undoing, YJS will calculate the **path** to remove states from the tree.\nStill a hard problem for structured docs"
 :block/format :markdown
 :block/left 
@@ -188,7 +188,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405783931}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672408049282
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -203,7 +203,7 @@
 :point [-495.89989243630225 913.1420976177967]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672408049554}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672481518585
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -221,7 +221,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481518766
 :clipping 0}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672481525462
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -256,7 +256,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481524958
 :italic false}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672481849686
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -284,7 +284,7 @@
 :nonce 1672481845757
 :italic false
 :text "best intro video so far"}}
-:block/updated-at 1672481886522} 
+:block/updated-at 1672487267641} 
 {:block/created-at 1672481859874
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -298,7 +298,79 @@
 :point [-40.64723618630228 41.407878867796626]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481860094}}
-:block/updated-at 1672481886522})
+:block/updated-at 1672487267641} 
+{:block/content "https://github.com/yjs/yjs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63aee319-8ce2-4b85-a3a3-a62c05002cf6"}
+:block/parent 
+{:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"}
+:block/uuid #uuid "63b020f7-c651-45d7-b0bf-2f14569b0971"} 
+{:block/created-at 1672487164888
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 13
+:scale [1 1]
+:type "iframe"
+:size [1722.9631416315303 1371.4860995451431]
+:id "b50c2230-8900-11ed-a792-3db61d9cf048"
+:url "https://github.com/yjs/yjs"
+:point [-2335.613486811842 962.0441729734645]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672487165079}}
+:block/updated-at 1672487267642} 
+{:block/created-at 1672487239480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 14
+:scale [1 1]
+:type "iframe"
+:size [853 791.6785429941133]
+:id "e1824650-8900-11ed-a792-3db61d9cf048"
+:url "https://github.com/yjs/yjs-demos"
+:point [-3582.5044751467244 1101.1364157680857]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672487239745}}
+:block/updated-at 1672487267642} 
+{:block/created-at 1672487256625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "eb7e4642-8900-11ed-a792-3db61d9cf048"
+:fontWeight 400
+:noFill true
+:point [-2728.5 1523.69]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "eb7e4640-8900-11ed-a792-3db61d9cf048"}
+:end 
+{:id "end"
+:canBind true
+:point [388.89 24.3]
+:bindingId "eb7e4641-8900-11ed-a792-3db61d9cf048"}}
+:decorations 
+{:end "arrow"}
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672487256256
+:italic false}}
+:block/updated-at 1672487267642})
 :pages (
 {:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :block/properties 
@@ -338,8 +410,24 @@
 :toId "8f96ab40-88f3-11ed-a792-3db61d9cf048"
 :handleId "end"
 :point [0.5 0.58]
+:distance 4}
+:eb7e4640-8900-11ed-a792-3db61d9cf048 
+{:id "eb7e4640-8900-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "eb7e4642-8900-11ed-a792-3db61d9cf048"
+:toId "e1824650-8900-11ed-a792-3db61d9cf048"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:eb7e4641-8900-11ed-a792-3db61d9cf048 
+{:id "eb7e4641-8900-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "eb7e4642-8900-11ed-a792-3db61d9cf048"
+:toId "b50c2230-8900-11ed-a792-3db61d9cf048"
+:handleId "end"
+:point [0.54 0.47]
 :distance 4}}
-:nonce 82
+:nonce 103
 :assets [
 {:id "d1a0ae90-883b-11ed-8f3e-05b12714e9bc"
 :type "image"
@@ -353,7 +441,7 @@
 :type "image"
 :src "../assets/image_1672481518285_0.png"
 :size [2388 1248]}]}}
-:block/updated-at 1672481886520
+:block/updated-at 1672487267640
 :block/created-at 1672106768090
 :block/type "whiteboard"
 :block/name "crdt wb"
