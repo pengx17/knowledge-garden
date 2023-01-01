@@ -1,0 +1,6 @@
+- https://docs.yjs.dev/api/about-awareness
+- lets collaborated editors could sync  user/client info, cursor locations and presence
+- Part of CRDT protocol
+	- it is **not** being persisted in yDoc
+	- tiny state-based Awareness CRDT that propagates json to all users
+	- It is not restricted to store client/user info. The protocol only defines a general interface to transmit transit data

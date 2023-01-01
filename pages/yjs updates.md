@@ -1,0 +1,4 @@
+- https://docs.yjs.dev/api/document-updates
+- Changes on the shared document are encoded into binary encoded (highly compressed) *document updates*.
+- Document updates are *commutative, associative,* and *idempotent*.
+-
