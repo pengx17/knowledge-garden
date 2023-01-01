@@ -3,7 +3,7 @@
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 2
+{:index 3
 :scale [1 1]
 :type "image"
 :assetId "d1a0ae90-883b-11ed-8f3e-05b12714e9bc"
@@ -16,13 +16,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402602976
 :clipping 0}}
-:block/updated-at 1672567908589} 
+:block/updated-at 1672568834330} 
 {:block/created-at 1672402605844
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 0
-:index 3
+:index 4
 :scale [1 1]
 :type "youtube"
 :size [1192.817841610291 671.2222320901989]
@@ -31,12 +31,12 @@
 :point [-1314.5629961905374 -2373.1269134629993]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402606214}}
-:block/updated-at 1672567908589} 
+:block/updated-at 1672568834330} 
 {:block/created-at 1672402875628
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 4
+{:index 5
 :scale [1 1]
 :type "image"
 :assetId "74bad510-883c-11ed-8f3e-05b12714e9bc"
@@ -49,13 +49,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875849
 :clipping 0}}
-:block/updated-at 1672567908589} 
+:block/updated-at 1672568834330} 
 {:block/created-at 1672402875629
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 5
+:index 6
 :scale [1 1]
 :fill ""
 :type "line"
@@ -84,13 +84,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875711
 :italic false}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672405540963
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 0
-:index 6
+:index 7
 :scale [1 1]
 :type "iframe"
 :size [756.9565239336098 1340.5959652544523]
@@ -99,13 +99,13 @@
 :point [-357.671900133525 -1523.703906605031]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405541538}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672405552196
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 0
-:index 7
+:index 8
 :scale [1 1]
 :type "iframe"
 :size [1705.191223295678 1020.2673190374769]
@@ -114,7 +114,7 @@
 :point [-2356.018152294909 -1330.2643929001115]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405552448}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/content "undo/redo is not that hard for OT, since there is a single queue of actions that is seen by the server"
 :block/format :markdown
 :block/left 
@@ -133,7 +133,7 @@
 :rotation 0
 :collapsed false
 :borderRadius 8
-:index 8
+:index 9
 :scale [1 1]
 :pageId "63aee2db-4f3a-4708-86cb-e8d32b0bc2b6"
 :scaleLevel "md"
@@ -151,7 +151,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405718236}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/content "For CRDT, the operations are structured like a tree. When undoing, YJS will calculate the **path** to remove states from the tree.\nStill a hard problem for structured docs"
 :block/format :markdown
 :block/left 
@@ -170,7 +170,7 @@
 :rotation 0
 :collapsed false
 :borderRadius 8
-:index 9
+:index 10
 :scale [1 1]
 :pageId "63aee319-8ce2-4b85-a3a3-a62c05002cf6"
 :scaleLevel "md"
@@ -188,13 +188,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405784192}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672408049282
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:rotation 0
-:index 11
+:index 12
 :scale [1 1]
 :type "youtube"
 :size [1123.7622477213542 632.36328125]
@@ -203,12 +203,12 @@
 :point [-1682.301227697334 29.550966844919458]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672408049642}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672481518585
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 10
+{:index 11
 :scale [1 1]
 :type "image"
 :assetId "8f963610-88f3-11ed-a792-3db61d9cf048"
@@ -221,13 +221,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481518854
 :clipping 0}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672481525462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 12
+:index 13
 :scale [1 1]
 :fill ""
 :type "line"
@@ -256,7 +256,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481525046
 :italic false}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672481849686
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -264,7 +264,7 @@
 {:isSizeLocked true
 :stroke ""
 :borderRadius 0
-:index 13
+:index 14
 :scale [1 1]
 :fill ""
 :type "text"
@@ -284,7 +284,7 @@
 :nonce 1672481845845
 :italic false
 :text "best intro video so far"}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/content "https://github.com/yjs/yjs"
 :block/format :markdown
 :block/left 
@@ -306,13 +306,13 @@
 :point [2270.6243980589593 -747.1000967928081]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672487166225}}
-:block/updated-at 1672567908589} 
+:block/updated-at 1672568834330} 
 {:block/created-at 1672540363555
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 15
+:index 16
 :scale [1 1]
 :fill ""
 :type "line"
@@ -341,13 +341,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540363119
 :italic false}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672540374994
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 16
+:index 17
 :scale [1 1]
 :fill ""
 :type "line"
@@ -376,7 +376,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540374557
 :italic false}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/created-at 1672540438760
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -394,7 +394,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540440000
 :clipping 0}}
-:block/updated-at 1672567908589} 
+:block/updated-at 1672568834330} 
 {:block/content "yjs has several wss servers for us to signal peers for `y-webrtc`"
 :block/format :markdown
 :block/left 
@@ -412,7 +412,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 14
+:index 2
 :scale [1 1]
 :pageId "63b0f125-e9a9-4286-b502-659749fee210"
 :scaleLevel "md"
@@ -430,13 +430,13 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672540453247}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834330} 
 {:block/created-at 1672540526276
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 17
+:index 15
 :scale [1 1]
 :fill ""
 :type "line"
@@ -464,7 +464,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540524668
 :italic false}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/content "Read YJS documents"
 :block/format :markdown
 :block/left 
@@ -495,14 +495,14 @@
 :padding 4
 :fontWeight 700
 :noFill true
-:point [-2795.3581604802152 1900.0437305053715]
+:point [-1385.732736579455 2291.129151452382]
 :lineHeight 1.2
 :fontSize 32
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672541008241
+:nonce 1672541008286
 :italic false
 :text "Learning List"}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834331} 
 {:block/content "awareness\nid:: 63b0f3ac-cc7c-4397-92d3-1b651e578027"
 :block/format :markdown
 :block/left 
@@ -659,11 +659,11 @@
 :opacity 1
 :id "a8fd4660-8985-11ed-a792-3db61d9cf048"
 :noFill false
-:point [-2792.4243183244803 1952.1077526095632]
+:point [-1382.79889442372 2343.1931735565736]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
-:nonce 1672544268379}}
-:block/updated-at 1672567908590} 
+:nonce 1672544268424}}
+:block/updated-at 1672568834332} 
 {:block/created-at 1672544338901
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -692,21 +692,7 @@
 :nonce 1672544335514
 :italic false
 :text "Videos"}}
-:block/updated-at 1672567908591} 
-{:block/created-at 1672544361573
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:children ["d0e752b0-8985-11ed-a792-3db61d9cf048" "d1a0d5a0-883b-11ed-8f3e-05b12714e9bc" "d3ee6f20-883b-11ed-8f3e-05b12714e9bc" "74bb7150-883c-11ed-8f3e-05b12714e9bc" "74bb9860-883c-11ed-8f3e-05b12714e9bc" "a965e600-8842-11ed-a792-3db61d9cf048" "b0181220-8842-11ed-a792-3db61d9cf048" "12b71c50-8843-11ed-a792-3db61d9cf048" "3a11e0f0-8843-11ed-a792-3db61d9cf048" "8f96ab40-88f3-11ed-a792-3db61d9cf048" "935dc562-88f3-11ed-a792-3db61d9cf048" "91990cb0-897c-11ed-a792-3db61d9cf048" "986884d2-897c-11ed-a792-3db61d9cf048" "8078b2d0-8848-11ed-a792-3db61d9cf048" "525037a0-88f4-11ed-a792-3db61d9cf048"]
-:index 20
-:scale [1 1]
-:type "group"
-:size [0 0]
-:id "e0e78b80-8985-11ed-a792-3db61d9cf048"
-:point [-421.2424609506561 -472.6354724594971]
-:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672544361585}}
-:block/updated-at 1672567908590} 
+:block/updated-at 1672568834332} 
 {:block/created-at 1672544546769
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -716,7 +702,7 @@
 :rotation 0
 :collapsed false
 :borderRadius 8
-:index 22
+:index 20
 :scale [1 1]
 :pageId "YJS Updates"
 :scaleLevel "md"
@@ -730,16 +716,16 @@
 :opacity 1
 :id "4c229070-8986-11ed-a792-3db61d9cf048"
 :noFill false
-:point [-2137.3494490875473 1952.6041927911642]
+:point [-727.724025186787 2343.6896137381746]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
-:nonce 1672544541546}}
-:block/updated-at 1672567908591} 
+:nonce 1672544541591}}
+:block/updated-at 1672568834332} 
 {:block/created-at 1672545786852
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 23
+{:index 22
 :scale [1 1]
 :type "image"
 :assetId "32755ab0-8989-11ed-a792-3db61d9cf048"
@@ -748,17 +734,17 @@
 :id "327581c0-8989-11ed-a792-3db61d9cf048"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [-2100.167768351933 2274.5177972949577]
+:point [-690.5423444511725 2665.603218241968]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672545787687
+:nonce 1672545787732
 :clipping 0}}
-:block/updated-at 1672567908591} 
+:block/updated-at 1672568834332} 
 {:block/created-at 1672545786852
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 24
+:index 23
 :scale [1 1]
 :fill ""
 :type "line"
@@ -769,7 +755,7 @@
 :id "327581c1-8989-11ed-a792-3db61d9cf048"
 :fontWeight 400
 :noFill true
-:point [-1902.41 2207.1]
+:point [-492.78457609923976 2598.1854209470102]
 :fontSize 20
 :handles 
 {:start 
@@ -785,9 +771,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672545786844
+:nonce 1672545786889
 :italic false}}
-:block/updated-at 1672567908591} 
+:block/updated-at 1672568834332} 
 {:block/content ""
 :block/format :markdown
 :block/left 
@@ -812,7 +798,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 25
+:index 24
 :scale [1 1]
 :pageId "YJS Shared Types"
 :scaleLevel "md"
@@ -826,16 +812,16 @@
 :opacity 1
 :id "c8b400a0-898c-11ed-a792-3db61d9cf048"
 :noFill false
-:point [-1564.2267640285363 1962.7943767287334]
+:point [-154.60134012777598 2353.8797976757437]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
-:nonce 1672547327408}}
-:block/updated-at 1672567908591} 
+:nonce 1672547327453}}
+:block/updated-at 1672568834332} 
 {:block/created-at 1672567786033
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:index 26
+{:index 25
 :scale [1 1]
 :type "image"
 :assetId "6afa9f20-89bc-11ed-a792-3db61d9cf048"
@@ -844,17 +830,17 @@
 :id "6afb1450-89bc-11ed-a792-3db61d9cf048"
 :isAspectRatioLocked true
 :objectFit "fill"
-:point [-2191.1995392193026 2611.3471388420844]
+:point [-781.5741153185422 3002.4325597890947]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672567786169
+:nonce 1672567786214
 :clipping 0}}
-:block/updated-at 1672567908591} 
+:block/updated-at 1672568834332} 
 {:block/created-at 1672567786033
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 27
+:index 26
 :scale [1 1]
 :fill ""
 :type "line"
@@ -865,7 +851,7 @@
 :id "6afb1451-89bc-11ed-a792-3db61d9cf048"
 :fontWeight 400
 :noFill true
-:point [-1914.72 2502.76]
+:point [-505.0945760992397 2893.8454209470106]
 :fontSize 20
 :handles 
 {:start 
@@ -881,9 +867,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672567786005
+:nonce 1672567786050
 :italic false}}
-:block/updated-at 1672567908591} 
+:block/updated-at 1672568834332} 
 {:block/created-at 1672567893794
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -892,7 +878,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 28
+:index 27
 :scale [1 1]
 :pageId "lib0"
 :scaleLevel "md"
@@ -906,17 +892,17 @@
 :opacity 1
 :id "ab36ddb0-89bc-11ed-a792-3db61d9cf048"
 :noFill false
-:point [-1582.626651354742 2352.412931793268]
+:point [-173.00122745398176 2743.4983527402783]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
-:nonce 1672567893941}}
-:block/updated-at 1672567908591} 
+:nonce 1672567893986}}
+:block/updated-at 1672568834332} 
 {:block/created-at 1672567907634
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 29
+:index 28
 :scale [1 1]
 :fill ""
 :type "line"
@@ -927,7 +913,7 @@
 :id "b31ecab2-89bc-11ed-a792-3db61d9cf048"
 :fontWeight 400
 :noFill true
-:point [-1724.62 2207.1]
+:point [-314.99457609923957 2598.1854209470102]
 :fontSize 20
 :handles 
 {:start 
@@ -943,9 +929,38 @@
 :decorations 
 {:end "arrow"}
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672567907058
+:nonce 1672567907103
 :italic false}}
-:block/updated-at 1672567908591})
+:block/updated-at 1672568834332} 
+{:block/created-at 1672568813076
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 30
+:scale [1 1]
+:type "youtube"
+:size [1139.4161907339012 641.1720651257592]
+:id "cf284db0-89be-11ed-a792-3db61d9cf048"
+:url "https://www.youtube.com/watch?v=0l5XgnQ6rB4"
+:point [-267.74868166743863 465.46348436327503]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672568813381}}
+:block/updated-at 1672568834332} 
+{:block/created-at 1672568818521
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:children ["cf284db0-89be-11ed-a792-3db61d9cf048" "d0e752b0-8985-11ed-a792-3db61d9cf048" "d1a0d5a0-883b-11ed-8f3e-05b12714e9bc" "d3ee6f20-883b-11ed-8f3e-05b12714e9bc" "74bb7150-883c-11ed-8f3e-05b12714e9bc" "74bb9860-883c-11ed-8f3e-05b12714e9bc" "a965e600-8842-11ed-a792-3db61d9cf048" "b0181220-8842-11ed-a792-3db61d9cf048" "12b71c50-8843-11ed-a792-3db61d9cf048" "3a11e0f0-8843-11ed-a792-3db61d9cf048" "8f96ab40-88f3-11ed-a792-3db61d9cf048" "935dc562-88f3-11ed-a792-3db61d9cf048" "91990cb0-897c-11ed-a792-3db61d9cf048" "986884d2-897c-11ed-a792-3db61d9cf048" "8078b2d0-8848-11ed-a792-3db61d9cf048" "525037a0-88f4-11ed-a792-3db61d9cf048"]
+:index 29
+:scale [1 1]
+:type "group"
+:size [0 0]
+:id "d266afd0-89be-11ed-a792-3db61d9cf048"
+:point [0 0]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672568818509}}
+:block/updated-at 1672568834332})
 :pages (
 {:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :block/properties 
@@ -1074,7 +1089,7 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}}
-:nonce 310
+:nonce 319
 :assets [
 {:id "bebd9940-897c-11ed-a792-3db61d9cf048"
 :type "image"
@@ -1100,7 +1115,7 @@
 :type "image"
 :src "../assets/image_1672567785941_0.png"
 :size [1700 1014]}]}}
-:block/updated-at 1672567908589
+:block/updated-at 1672568834330
 :block/created-at 1672106768090
 :block/type "whiteboard"
 :block/name "crdt wb"
