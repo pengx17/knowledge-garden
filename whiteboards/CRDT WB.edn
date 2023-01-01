@@ -16,7 +16,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402602976
 :clipping 0}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672402605844
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -31,7 +31,7 @@
 :point [-1314.5629961905374 -2373.1269134629993]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402606214}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672402875628
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -49,7 +49,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875849
 :clipping 0}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672402875629
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -84,7 +84,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672402875711
 :italic false}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672405540963
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -99,7 +99,7 @@
 :point [-357.671900133525 -1523.703906605031]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405541538}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672405552196
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -114,7 +114,7 @@
 :point [-2356.018152294909 -1330.2643929001115]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672405552448}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/content "undo/redo is not that hard for OT, since there is a single queue of actions that is seen by the server"
 :block/format :markdown
 :block/left 
@@ -151,7 +151,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405718236}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/content "For CRDT, the operations are structured like a tree. When undoing, YJS will calculate the **path** to remove states from the tree.\nStill a hard problem for structured docs"
 :block/format :markdown
 :block/left 
@@ -188,7 +188,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672405784192}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672408049282
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -203,7 +203,7 @@
 :point [-1682.301227697334 29.550966844919458]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672408049642}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672481518585
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -221,7 +221,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481518854
 :clipping 0}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672481525462
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -256,7 +256,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672481525046
 :italic false}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672481849686
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -284,7 +284,7 @@
 :nonce 1672481845845
 :italic false
 :text "best intro video so far"}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/content "https://github.com/yjs/yjs"
 :block/format :markdown
 :block/left 
@@ -306,7 +306,7 @@
 :point [2270.6243980589593 -747.1000967928081]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672487166225}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672540363555
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -341,7 +341,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540363119
 :italic false}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672540374994
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -376,7 +376,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540374557
 :italic false}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672540438760
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -394,7 +394,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540440000
 :clipping 0}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/content "yjs has several wss servers for us to signal peers for `y-webrtc`"
 :block/format :markdown
 :block/left 
@@ -430,7 +430,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672540453247}}
-:block/updated-at 1672568834330} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672540526276
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -464,7 +464,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672540524668
 :italic false}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/content "Read YJS documents"
 :block/format :markdown
 :block/left 
@@ -502,7 +502,7 @@
 :nonce 1672541008286
 :italic false
 :text "Learning List"}}
-:block/updated-at 1672568834331} 
+:block/updated-at 1672569256490} 
 {:block/content "awareness\nid:: 63b0f3ac-cc7c-4397-92d3-1b651e578027"
 :block/format :markdown
 :block/left 
@@ -663,7 +663,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672544268424}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672544338901
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -692,7 +692,7 @@
 :nonce 1672544335514
 :italic false
 :text "Videos"}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672544546769
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -720,7 +720,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672544541591}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672545786852
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -738,7 +738,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672545787732
 :clipping 0}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672545786852
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -773,7 +773,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672545786889
 :italic false}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/content ""
 :block/format :markdown
 :block/left 
@@ -816,7 +816,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672547327453}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672567786033
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -834,7 +834,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672567786214
 :clipping 0}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672567786033
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -869,7 +869,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672567786050
 :italic false}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672567893794
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -896,7 +896,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :collapsedHeight 0
 :nonce 1672567893986}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672567907634
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -931,7 +931,7 @@
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672567907103
 :italic false}}
-:block/updated-at 1672568834332} 
+:block/updated-at 1672569256490} 
 {:block/created-at 1672568813076
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -943,10 +943,10 @@
 :size [1139.4161907339012 641.1720651257592]
 :id "cf284db0-89be-11ed-a792-3db61d9cf048"
 :url "https://www.youtube.com/watch?v=0l5XgnQ6rB4"
-:point [-267.74868166743863 465.46348436327503]
+:point [-332.75069446662155 -16.455735228265894]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
-:nonce 1672568813381}}
-:block/updated-at 1672568834332} 
+:nonce 1672568813471}}
+:block/updated-at 1672569256490} 
 {:block/created-at 1672568818521
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -960,7 +960,93 @@
 :point [0 0]
 :parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :nonce 1672568818509}}
-:block/updated-at 1672568834332})
+:block/updated-at 1672569256490} 
+{:block/content "DOING make a textarea binding\n:LOGBOOK:\nCLOCK: [2023-01-01 Sun 18:33:29]\n:END:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "63b10bfb-17f3-475c-b395-b57229edb2fb"}
+:block/parent 
+{:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"}
+:block/properties 
+{}
+:block/uuid #uuid "63b16168-943f-4e68-91c3-24d4e5603047"} 
+{:block/created-at 1672569192720
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "63b16168-943f-4e68-91c3-24d4e5603047"
+:scaleLevel "lg"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [455.22666773767594 61.50000516841834]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "afed5980-89bf-11ed-a792-3db61d9cf048"
+:noFill false
+:point [-1383.2456812177525 2747.2296662497806]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:collapsedHeight 0
+:nonce 1672569190368}}
+:block/updated-at 1672569256490} 
+{:block/created-at 1672569248263
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 32
+:scale [1 1]
+:type "iframe"
+:size [853 480]
+:id "d28bf5a0-89bf-11ed-a792-3db61d9cf048"
+:url "https://github.com/yjs/yjs/blob/main/INTERNALS.md"
+:point [-181.93550117030873 726.9457014513962]
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672569248558}}
+:block/updated-at 1672569256492} 
+{:block/created-at 1672569248263
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d28bf5a1-89bf-11ed-a792-3db61d9cf048"
+:fontWeight 400
+:noFill true
+:point [240.65 625.72]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d28bf5a2-89bf-11ed-a792-3db61d9cf048"}
+:end 
+{:id "end"
+:canBind true
+:point [1.11 97.23]
+:bindingId "d28c1cb0-89bf-11ed-a792-3db61d9cf048"}}
+:decorations 
+{:end "arrow"}
+:parentId "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
+:nonce 1672569248251
+:italic false}}
+:block/updated-at 1672569256492})
 :pages (
 {:block/uuid #uuid "63aa5310-3b1a-48d6-9999-5418b5c2cb84"
 :block/properties 
@@ -975,6 +1061,14 @@
 :fromId "935dc562-88f3-11ed-a792-3db61d9cf048"
 :toId "8078b2d0-8848-11ed-a792-3db61d9cf048"
 :handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d28c1cb0-89bf-11ed-a792-3db61d9cf048 
+{:id "d28c1cb0-89bf-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "d28bf5a1-89bf-11ed-a792-3db61d9cf048"
+:toId "d28bf5a0-89bf-11ed-a792-3db61d9cf048"
+:handleId "end"
 :point [0.5 0.5]
 :distance 4}
 :b31ecab1-89bc-11ed-a792-3db61d9cf048 
@@ -1049,6 +1143,14 @@
 :handleId "end"
 :point [0.6 0.56]
 :distance 4}
+:d28bf5a2-89bf-11ed-a792-3db61d9cf048 
+{:id "d28bf5a2-89bf-11ed-a792-3db61d9cf048"
+:type "line"
+:fromId "d28bf5a1-89bf-11ed-a792-3db61d9cf048"
+:toId "cf284db0-89be-11ed-a792-3db61d9cf048"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :9198e5a0-897c-11ed-a792-3db61d9cf048 
 {:id "9198e5a0-897c-11ed-a792-3db61d9cf048"
 :type "line"
@@ -1089,7 +1191,7 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}}
-:nonce 319
+:nonce 334
 :assets [
 {:id "bebd9940-897c-11ed-a792-3db61d9cf048"
 :type "image"
@@ -1115,7 +1217,7 @@
 :type "image"
 :src "../assets/image_1672567785941_0.png"
 :size [1700 1014]}]}}
-:block/updated-at 1672568834330
+:block/updated-at 1672569338630
 :block/created-at 1672106768090
 :block/type "whiteboard"
 :block/name "crdt wb"
